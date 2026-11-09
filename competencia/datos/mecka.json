@@ -1,0 +1,2490 @@
+{
+  "url_inicial": "https://meckasacperu.com/",
+  "host": "meckasacperu.com",
+  "esquema": "https",
+  "user_agent": "FundigsacMarketResearch/1.0",
+  "fecha_utc": "2026-11-09T17:31:34+00:00",
+  "estado": "ok",
+  "motivo": "",
+  "limites": {
+    "max_paginas": 40,
+    "intervalo_segundos": 3.0
+  },
+  "robots": {
+    "url": "https://meckasacperu.com/robots.txt",
+    "http_status": 200,
+    "presente": true,
+    "crawl_delay": null,
+    "sitemaps": [
+      "https://meckasacperu.com/sitemap_index.xml"
+    ]
+  },
+  "solicitudes_http": 41,
+  "paginas_solicitadas": 40,
+  "paginas_con_datos": 40,
+  "truncado_por_tiempo": false,
+  "pendientes_sin_visitar": 14,
+  "omitidas_por_robots": [],
+  "redirecciones_externas": [],
+  "duracion_segundos": 140.8,
+  "resumen": {
+    "productos": [],
+    "categorias": [
+      "Portada",
+      "VÁLVULAS",
+      "BRIDAS",
+      "TAPAS Y MARCO",
+      "TUBERÍAS",
+      "Válvula Compuerta Bridada",
+      "Válvula check swing bridada FLOWRAM",
+      "Válvula de aire doble efecto",
+      "Válvula compuerta de bronce bridada",
+      "Válvula reductora de presión",
+      "Válvula compuerta bridada WCB norma API",
+      "Válvula compuerta bridada con elastómero",
+      "Válvula desague elastocheck",
+      "Válvula check de cierre silencioso",
+      "Válvula mariposa bridada",
+      "Válvula de retención Duocheck Wafer",
+      "VALVULAS MARIPOSA TIPO WAFER",
+      "Válvula compuerta campana",
+      "Válvula Check Swing Elastocheck &#8211; minería",
+      "Válvula de aire para aguas residuales o desague",
+      "Válvula de aire para minera",
+      "Válvula compuerta de bronce globo",
+      "Válvula compuerta de bronce roscada",
+      "Brida ciega Acero",
+      "Brida rompeagua de acero",
+      "Brida para soldar Welding Neck",
+      "Brida para roscar",
+      "Brida Slip ON  ANSI",
+      "Marco y tapa de hierro dúctil para buzón",
+      "Contactos",
+      "Uniones",
+      "Unión autoportante tipo 3 bridas",
+      "FILTROS",
+      "Filtro tipo &#8220;Y&#8221; Bridado",
+      "Filtro bridado tipo canasta",
+      "Abrazaderas",
+      "Tapping de Acero con Derivación Bridada",
+      "Bombas",
+      "METAL MECÁNICA",
+      "Tee bridada de hierro ductil"
+    ],
+    "normas_citadas": [
+      "ANSI B16.10",
+      "ANSI B16.5",
+      "ASTM A-105",
+      "ASTM A-283",
+      "ASTM A-36",
+      "ASTM A-53",
+      "ASTM A-536",
+      "ASTM A123",
+      "ASTM A27",
+      "ASTM A536",
+      "DIN 3202",
+      "EN 12266-1",
+      "EN 124",
+      "EN ISO 9001",
+      "ISO 2531",
+      "ISO 4422",
+      "ISO 5752",
+      "ISO 7005",
+      "ISO 7005-1",
+      "ISO 7259",
+      "ISO 9001",
+      "NTP 350.064",
+      "NTP-ISO 7259"
+    ],
+    "tipos_jsonld": {
+      "WebPage": 40,
+      "ReadAction": 40,
+      "ImageObject": 40,
+      "BreadcrumbList": 40,
+      "ListItem": 40,
+      "WebSite": 40,
+      "SearchAction": 40,
+      "EntryPoint": 40,
+      "Organization": 40,
+      "Article": 29,
+      "CommentAction": 29,
+      "Person": 29
+    },
+    "secciones": {
+      "/": 1,
+      "valvulas": 1,
+      "bridas": 1,
+      "tapas-y-marco": 1,
+      "tuberias": 1,
+      "valvula-compuerta-bridada": 1,
+      "valvula-check-swing-bridada-flowram": 1,
+      "valvula-de-aire-doble-efecto": 1,
+      "valvula-compuerta-de-bronce-bridada": 1,
+      "valvula-reductora-de-presion": 1,
+      "valvula-compuerta-bridada-wcb-norma-api": 1,
+      "valvula-compuerta-bridada-con-elastomero": 1,
+      "valvula-desague-elastocheck": 1,
+      "valvula-check-de-cierre-silencioso": 1,
+      "valvula-mariposa-bridada": 1,
+      "valvula-de-retencion-duocheck-wafer": 1,
+      "valvulas-mariposa-tipo-wafer": 1,
+      "valvula-compuerta-campana": 1,
+      "valvula-check-swing-elastocheck-mineria": 1,
+      "valvula-de-aire-para-aguas-residuales-o-desague": 1,
+      "valvula-de-aire-para-minera": 1,
+      "valvula-compuerta-de-bronce-globo": 1,
+      "valvula-compuerta-de-bronce-roscada": 1,
+      "brida-ciega-acero": 1,
+      "brida-rompeagua-de-acero": 1,
+      "brida-para-soldar-welding-neck": 1,
+      "brida-para-roscar": 1,
+      "brida-slip-on-%c2%96-ansi": 1,
+      "marco-y-tapa-de-hierro-ductil-para-buzon": 1,
+      "contactos": 1,
+      "uniones": 1,
+      "union-autoportante-tipo-3-bridas": 1,
+      "filtros": 1,
+      "filtro-tipo-y-bridado": 1,
+      "filtro-bridado-tipo-canasta": 1,
+      "abrazaderas": 1,
+      "tapping-de-acero-con-derivacion-bridada": 1,
+      "bombas": 1,
+      "metal-mecanica": 1,
+      "tee-bridada-de-hierro-ductil": 1
+    },
+    "documentos_enlazados": [
+      "https://meckasacperu.com/images/catalogo/catalogo-meckasac.pdf"
+    ],
+    "contacto_empresa": {
+      "nombres": [
+        "Mecka Sac Peru"
+      ],
+      "telefonos": [],
+      "correos": [
+        "gerencia@meckasacperu.com"
+      ],
+      "direcciones": []
+    }
+  },
+  "paginas": [
+    {
+      "url": "https://meckasacperu.com/",
+      "http_status": 200,
+      "titulo": "Meckasacperu - Mecka Sac Peru",
+      "meta_descripcion": "Llámanos al [celular omitido] o escríbenos: gerencia@meckasacperu.com En MECKA SAC nos dedicamos a la distribución de Válvulas, accesorios y equipos para la línea de Saneamiento, brindando la mejor calidad, garantía, puntualidad y precios más competitivos. Ver Catálogo NUESTROS PRODUCTOS: «MECKA SAC IMPORTA, DISTRIBUYE Y DISEÑA VÁLVULAS INDUSTRIALES A PEDIDO» SOMOS MECKASA SAC: MECKA S.A.C, es fundada en el […]",
+      "canonica": "https://meckasacperu.com/",
+      "idioma": "es-PE",
+      "h1": [
+        "Meckasacperu",
+        "«MECKA SAC IMPORTA, DISTRIBUYE Y DISEÑA VÁLVULAS INDUSTRIALES A PEDIDO»",
+        "Nuestros Clientes"
+      ],
+      "h2": [
+        "MECKA SAC",
+        "Dedicados a la importación y distribucion de válvulas indrustriales.",
+        "PRODUCTOS MECKA SAC",
+        "válvulas industriales para agua potable, sector minería, agro-industrias, plantas de tratamiento, pesquería e industria en general.",
+        "Llámanos al [celular omitido] o escríbenos: gerencia@meckasacperu.com",
+        "SOMOS",
+        "SERVICIOS",
+        "PRODUCTOS"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization"
+      ],
+      "total_enlaces_internos": 14,
+      "enlaces_internos": [
+        "/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/images/catalogo/catalogo-meckasac.pdf"
+      ],
+      "bytes_html": 86416
+    },
+    {
+      "url": "https://meckasacperu.com/valvulas/",
+      "http_status": 200,
+      "titulo": "VÁLVULAS - Mecka Sac Peru",
+      "meta_descripcion": "¿Qué es una válvula y para qué sirve? Descubre la importancia de las válvulas en las instalaciones de suministro de agua de edificios En Meckasac Perú, somos expertos en el suministro de soluciones de alta calidad para instalaciones de suministro de agua en edificios. Sabemos que un componente fundamental de cualquier sistema de suministro de […]",
+      "canonica": "https://meckasacperu.com/valvulas/",
+      "idioma": "es-PE",
+      "h1": [
+        "VÁLVULAS"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "¿Qué es una válvula y para qué sirve?",
+        "¿Qué tipos de válvulas existen en el mercado? – Meckasac Perú te lo explica"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "VÁLVULAS"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization"
+      ],
+      "total_enlaces_internos": 31,
+      "enlaces_internos": [
+        "/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/valvula-compuerta-bridada/",
+        "/valvula-check-swing-bridada-flowram/",
+        "/valvula-de-aire-doble-efecto/",
+        "/valvula-compuerta-de-bronce-bridada/",
+        "/valvula-reductora-de-presion/",
+        "/valvula-compuerta-bridada-wcb-norma-api/",
+        "/valvula-compuerta-bridada-con-elastomero/",
+        "/valvula-desague-elastocheck/",
+        "/valvula-check-de-cierre-silencioso/",
+        "/valvula-mariposa-bridada/",
+        "/valvula-de-retencion-duocheck-wafer/",
+        "/valvulas-mariposa-tipo-wafer/",
+        "/valvula-compuerta-campana/",
+        "/valvula-check-swing-elastocheck-mineria/",
+        "/valvula-de-aire-para-aguas-residuales-o-desague/",
+        "/valvula-de-aire-para-minera/",
+        "/valvula-compuerta-de-bronce-globo/",
+        "/valvula-compuerta-de-bronce-roscada/"
+      ],
+      "bytes_html": 98355
+    },
+    {
+      "url": "https://meckasacperu.com/bridas/",
+      "http_status": 200,
+      "titulo": "BRIDAS - Mecka Sac Peru",
+      "meta_descripcion": "Meckasac Perú: Expertos en Bridas para la Canalización ¿Qué es una Brida? Una brida es un elemento clave en cualquier canalización que permite la conexión con otras partes o el bloqueo de una sección específica de un tubo. Está formada por un disco, collarín o anillo que está conectado al tubo y puede ser soldado […]",
+      "canonica": "https://meckasacperu.com/bridas/",
+      "idioma": "es-PE",
+      "h1": [
+        "BRIDAS"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "Meckasac Perú: Expertos en Bridas para la Canalización",
+        "¿Cuándo usar Bridas en Sistemas de Tubería?"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "BRIDAS"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization"
+      ],
+      "total_enlaces_internos": 18,
+      "enlaces_internos": [
+        "/",
+        "/bridas/",
+        "/valvulas/",
+        "/uniones/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/brida-ciega-acero/",
+        "/brida-rompeagua-de-acero/",
+        "/brida-para-soldar-welding-neck/",
+        "/brida-para-roscar/",
+        "/brida-slip-on-%c2%96-ansi/"
+      ],
+      "bytes_html": 80249
+    },
+    {
+      "url": "https://meckasacperu.com/tapas-y-marco/",
+      "http_status": 200,
+      "titulo": "TAPAS Y MARCO - Mecka Sac Peru",
+      "meta_descripcion": "Marcos y Tapas de Meckasac Perú: Una Solución Eficaz para Proteger su Alcantarillado ¿Buscas proteger tus tuberías sin perder acceso para el mantenimiento e inspección? ¡Meckasac Perú tiene la solución perfecta para ti! Nuestros marcos compuestos están construidos con materiales de la más alta calidad y vienen en una amplia variedad de tamaños para garantizar […]",
+      "canonica": "https://meckasacperu.com/tapas-y-marco/",
+      "idioma": "es-PE",
+      "h1": [
+        "TAPAS Y MARCO"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "Marcos y Tapas de Meckasac Perú:"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "TAPAS Y MARCO"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization"
+      ],
+      "total_enlaces_internos": 14,
+      "enlaces_internos": [
+        "/",
+        "/tapas-y-marco/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/marco-y-tapa-de-hierro-ductil-para-buzon/"
+      ],
+      "bytes_html": 73710
+    },
+    {
+      "url": "https://meckasacperu.com/tuberias/",
+      "http_status": 200,
+      "titulo": "TUBERÍAS - Mecka Sac Peru",
+      "meta_descripcion": "",
+      "canonica": "https://meckasacperu.com/tuberias/",
+      "idioma": "es-PE",
+      "h1": [
+        "TUBERÍAS"
+      ],
+      "h2": [
+        "MECKA SAC",
+        "Dedicados a la importación y distribucion de válvulas indrustriales.",
+        "PRODUCTOS MECKA SAC",
+        "válvulas industriales para agua potable, sector minería, agro-industrias, plantas de tratamiento, pesquería e industria en general."
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "TUBERÍAS"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "WebPage",
+        "ReadAction",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization",
+        "ImageObject"
+      ],
+      "total_enlaces_internos": 13,
+      "enlaces_internos": [
+        "/",
+        "/tuberias/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/"
+      ],
+      "bytes_html": 69026
+    },
+    {
+      "url": "https://meckasacperu.com/valvula-compuerta-bridada/",
+      "http_status": 200,
+      "titulo": "Válvula Compuerta Bridada - Mecka Sac Peru",
+      "meta_descripcion": "La válvula compuerta bridada Es una solución confiable para el control de flujo de líquidos en sistemas de tuberías de agua potable y otros medios. Con su diseño específico para mejorar el cierre y paso de fluidos, esta válvula es ideal para aplicaciones en industrias como: Características: Cuerpo y tapa fabricadas con hierro nodular ASTM […]",
+      "canonica": "https://meckasacperu.com/valvula-compuerta-bridada/",
+      "idioma": "es-PE",
+      "h1": [
+        "Válvula Compuerta Bridada"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "La válvula compuerta bridada"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "Válvula Compuerta Bridada"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A-536",
+        "DIN 3202",
+        "ISO 5752",
+        "ISO 7005",
+        "ISO 7259"
+      ],
+      "tipos_jsonld": [
+        "Article",
+        "CommentAction",
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization",
+        "Person"
+      ],
+      "total_enlaces_internos": 17,
+      "enlaces_internos": [
+        "/",
+        "/valvula-compuerta-bridada/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/wp-content/uploads/2023/01/valvula-compuerta-bridada-meckasac.jpg",
+        "/wp-content/uploads/2023/01/valvula-compuerta-bridada-listado-meckasac.jpg",
+        "/wp-content/uploads/2023/01/valvula-compuerta-bridada-dimenciones-meckasac.jpg"
+      ],
+      "bytes_html": 78893
+    },
+    {
+      "url": "https://meckasacperu.com/valvula-check-swing-bridada-flowram/",
+      "http_status": 200,
+      "titulo": "Válvula check swing bridada FLOWRAM - Mecka Sac Peru",
+      "meta_descripcion": "La válvula de aire doble efecto Es una solución eficiente para eliminar el aire en tuberías y aliviar la resistencia del flujo del medio. Con su función de aspiración automática, esta válvula protege el sistema de tuberías al mantener una presión adecuada en todo momento. Características: Elimina efectivamente el aire en la tubería Alivia la […]",
+      "canonica": "https://meckasacperu.com/valvula-check-swing-bridada-flowram/",
+      "idioma": "es-PE",
+      "h1": [
+        "Válvula check swing bridada FLOWRAM"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "La válvula de aire doble efecto"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "Válvula check swing bridada FLOWRAM"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Article",
+        "CommentAction",
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization",
+        "Person"
+      ],
+      "total_enlaces_internos": 17,
+      "enlaces_internos": [
+        "/",
+        "/valvula-check-swing-bridada-flowram/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/wp-content/uploads/2023/01/valvula-check-swing-meckasac.jpg",
+        "/wp-content/uploads/2023/01/valvula-check-swing-listado-meckasac.jpg",
+        "/wp-content/uploads/2023/01/valvula-check-swing-dimenciones-meckasac.jpg"
+      ],
+      "bytes_html": 78935
+    },
+    {
+      "url": "https://meckasacperu.com/valvula-de-aire-doble-efecto/",
+      "http_status": 200,
+      "titulo": "Válvula de aire doble efecto - Mecka Sac Peru",
+      "meta_descripcion": "¿Estás buscando una solución eficaz para eliminar el aire en tus proyectos de tubería en el sector de agua potable, agua de pozos, líquidos sin solidos en suspensión, agroindustria o industria en general? Entonces, ¡has venido al lugar correcto! En Meckasac Perú ofrecemos una amplia variedad de válvulas para tubería, incluyendo nuestra Válvula de Aire […]",
+      "canonica": "https://meckasacperu.com/valvula-de-aire-doble-efecto/",
+      "idioma": "es-PE",
+      "h1": [
+        "Válvula de aire doble efecto"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "¿Estás buscando una solución eficaz para eliminar el aire en tus proyectos de tubería en el sector de agua potable, agua de pozos, líquidos sin solidos en suspensión, agroindustria o industria en gene"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "Válvula de aire doble efecto"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Article",
+        "CommentAction",
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization",
+        "Person"
+      ],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/valvula-de-aire-doble-efecto/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/wp-content/uploads/2023/01/valvula-aire-doble-efecto-meckasac.jpg",
+        "/wp-content/uploads/2023/01/valvula-aire-doble-efecto-2-meckasac.jpg"
+      ],
+      "bytes_html": 78914
+    },
+    {
+      "url": "https://meckasacperu.com/valvula-compuerta-de-bronce-bridada/",
+      "http_status": 200,
+      "titulo": "Válvula compuerta de bronce bridada - Mecka Sac Peru",
+      "meta_descripcion": "¿Estás buscando una válvula compuerta de bronce de alta calidad para tu sistema de filtración? Entonces, la Válvula compuerta de bronce bridada es la opción perfecta para ti. Características clave de la Válvula compuerta de bronce bridada Fabricada según la norma EN ISO 9001 Sometida a rigurosos ensayos según la norma EN 12266-1 Adecuada para […]",
+      "canonica": "https://meckasacperu.com/valvula-compuerta-de-bronce-bridada/",
+      "idioma": "es-PE",
+      "h1": [
+        "Válvula compuerta de bronce bridada"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "¿Estás buscando una válvula compuerta de bronce de alta calidad para tu sistema de filtración?"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "Válvula compuerta de bronce bridada"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [
+        "EN 12266-1",
+        "EN ISO 9001",
+        "ISO 9001"
+      ],
+      "tipos_jsonld": [
+        "Article",
+        "CommentAction",
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization",
+        "Person"
+      ],
+      "total_enlaces_internos": 17,
+      "enlaces_internos": [
+        "/",
+        "/valvula-compuerta-de-bronce-bridada/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/wp-content/uploads/2023/01/valvula-compuerta-de-bronce-bridada-meckasac.jpg",
+        "/wp-content/uploads/2023/01/valvula-compuerta-de-bronce-bridada2-meckasac.jpg",
+        "/wp-content/uploads/2023/01/valvula-compuerta-de-bronce-bridada3-meckasac.jpg"
+      ],
+      "bytes_html": 79220
+    },
+    {
+      "url": "https://meckasacperu.com/valvula-reductora-de-presion/",
+      "http_status": 200,
+      "titulo": "Válvula reductora de presión - Mecka Sac Peru",
+      "meta_descripcion": "¿Estás buscando una solución para reducir automáticamente la presión alta de entrada en tu sistema de agua? ¡La Válvula Reductora de presión es la solución perfecta! Características clave de la Válvula Reductora de presión Reduce automáticamente una presión alta de entrada a una presión estable aguas abajo Funciona independientemente de los cambios en rangos de […]",
+      "canonica": "https://meckasacperu.com/valvula-reductora-de-presion/",
+      "idioma": "es-PE",
+      "h1": [
+        "Válvula reductora de presión"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "¿Estás buscando una solución para reducir automáticamente la presión alta de entrada en tu sistema de agua?"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "Válvula reductora de presión"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Article",
+        "CommentAction",
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization",
+        "Person"
+      ],
+      "total_enlaces_internos": 17,
+      "enlaces_internos": [
+        "/",
+        "/valvula-reductora-de-presion/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/wp-content/uploads/2023/01/valvula-reductora-de-presion-meckasac.jpg",
+        "/wp-content/uploads/2023/01/valvula-reductora-de-presion2-meckasac.jpg",
+        "/wp-content/uploads/2023/01/valvula-reductora-de-presion3-meckasac.jpg"
+      ],
+      "bytes_html": 78618
+    },
+    {
+      "url": "https://meckasacperu.com/valvula-compuerta-bridada-wcb-norma-api/",
+      "http_status": 200,
+      "titulo": "Válvula compuerta bridada WCB norma API - Mecka Sac Peru",
+      "meta_descripcion": "¿Estás buscando una válvula compuerta bridada WCB norma API de alta calidad para tus sistemas industriales? Entonces, ¡has venido al lugar correcto! En Meckasac Perú ofrecemos una amplia variedad de válvulas compuerta bridadas WCB norma API de primera calidad, ideales para aplicaciones en la industria de energía, química y petróleo. Nuestras válvulas compuerta bridadas WCB […]",
+      "canonica": "https://meckasacperu.com/valvula-compuerta-bridada-wcb-norma-api/",
+      "idioma": "es-PE",
+      "h1": [
+        "Válvula compuerta bridada WCB norma API"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "¿Estás buscando una válvula compuerta bridada WCB norma API de alta calidad para tus sistemas industriales?"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "Válvula compuerta bridada WCB norma API"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Article",
+        "CommentAction",
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization",
+        "Person"
+      ],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/valvula-compuerta-bridada-wcb-norma-api/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/wp-content/uploads/2023/01/valvula-compuerta-bridada-wcb-norma-api-meckasac.jpg",
+        "/wp-content/uploads/2023/01/valvula-compuerta-bridada-wcb-norma-api1-meckasac.jpg"
+      ],
+      "bytes_html": 78850
+    },
+    {
+      "url": "https://meckasacperu.com/valvula-compuerta-bridada-con-elastomero/",
+      "http_status": 200,
+      "titulo": "Válvula compuerta bridada con elastómero - Mecka Sac Peru",
+      "meta_descripcion": "¿Estás buscando una válvula compuerta bridada con elastómero de alta calidad para tus sistemas de distribución de agua potable? Entonces, ¡has venido al lugar correcto! En Meckasac Perú ofrecemos una amplia variedad de válvulas compuerta bridadas con elastómero EPDM de primera calidad, ideales para la apertura o cierre de fluidos en aplicaciones como sistemas de […]",
+      "canonica": "https://meckasacperu.com/valvula-compuerta-bridada-con-elastomero/",
+      "idioma": "es-PE",
+      "h1": [
+        "Válvula compuerta bridada con elastómero"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "¿Estás buscando una válvula compuerta bridada con elastómero de alta calidad para tus sistemas de distribución de agua potable?"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "Válvula compuerta bridada con elastómero"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Article",
+        "CommentAction",
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization",
+        "Person"
+      ],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/valvula-compuerta-bridada-con-elastomero/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/wp-content/uploads/2023/01/valvula-compuerta-bridada-con-elastomero-campana-meckasac.jpg",
+        "/wp-content/uploads/2023/01/valvula-compuerta-bridada-con-elastomero-campana1-meckasac.jpg"
+      ],
+      "bytes_html": 78628
+    },
+    {
+      "url": "https://meckasacperu.com/valvula-desague-elastocheck/",
+      "http_status": 200,
+      "titulo": "Válvula desague elastocheck - Mecka Sac Peru",
+      "meta_descripcion": "¿Buscas una solución confiable y eficiente para el desagüe de tu sistema? ¡La válvula Elástocheck FLOWRAM es la respuesta! Esta válvula de desagüe automática se abre y cierra mediante la presión del líquido y la corriente contraria. Además, su diseño incluye medidas para prevenir el golpe de ariete, garantizando un rendimiento seguro y fiable. ¿Qué […]",
+      "canonica": "https://meckasacperu.com/valvula-desague-elastocheck/",
+      "idioma": "es-PE",
+      "h1": [
+        "Válvula desague elastocheck"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "¿Buscas una solución confiable y eficiente para el desagüe de tu sistema?"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "Válvula desague elastocheck"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Article",
+        "CommentAction",
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization",
+        "Person"
+      ],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/valvula-desague-elastocheck/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/wp-content/uploads/2023/01/valvula-check-elastocheck-meckasac.jpg",
+        "/wp-content/uploads/2023/01/valvula-check-elastocheck1-meckasac.jpg"
+      ],
+      "bytes_html": 78833
+    },
+    {
+      "url": "https://meckasacperu.com/valvula-check-de-cierre-silencioso/",
+      "http_status": 200,
+      "titulo": "Válvula check de cierre silencioso - Mecka Sac Peru",
+      "meta_descripcion": "La válvula de retención silenciosa FLOWRAM Es la solución perfecta para el control de flujo en sistemas de suministro de agua y tuberías de drenaje. Con su diseño compacto y ligero, esta válvula ofrece una resistencia reducida al fluido y una vida útil prolongada. Características: Cierre silencioso y libre de golpe de ariete gracias a […]",
+      "canonica": "https://meckasacperu.com/valvula-check-de-cierre-silencioso/",
+      "idioma": "es-PE",
+      "h1": [
+        "Válvula check de cierre silencioso"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "La válvula de retención silenciosa FLOWRAM"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "Válvula check de cierre silencioso"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Article",
+        "CommentAction",
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization",
+        "Person"
+      ],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/valvula-check-de-cierre-silencioso/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/wp-content/uploads/2023/01/valvula-check-de-cierre-silencioso-meckasac.jpg",
+        "/wp-content/uploads/2023/01/valvula-check-de-cierre-silencioso1-meckasac.jpg"
+      ],
+      "bytes_html": 77727
+    },
+    {
+      "url": "https://meckasacperu.com/valvula-mariposa-bridada/",
+      "http_status": 200,
+      "titulo": "Válvula mariposa bridada - Mecka Sac Peru",
+      "meta_descripcion": "¡Optimizar el flujo de líquidos con la Válvula Mariposa Bridada FLOWRAM! La válvula mariposa bridada es una solución confiable para el control de flujo de líquidos en sistemas de tuberías. Con su diseño específico para mejorar el cierre y paso de fluidos, esta válvula es ideal para aplicaciones en industrias como minería, tratamiento de agua, […]",
+      "canonica": "https://meckasacperu.com/valvula-mariposa-bridada/",
+      "idioma": "es-PE",
+      "h1": [
+        "Válvula mariposa bridada"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "¡Optimizar el flujo de líquidos con la Válvula Mariposa Bridada FLOWRAM!"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "Válvula mariposa bridada"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Article",
+        "CommentAction",
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization",
+        "Person"
+      ],
+      "total_enlaces_internos": 17,
+      "enlaces_internos": [
+        "/",
+        "/valvula-mariposa-bridada/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/wp-content/uploads/2023/01/valvula-mariposa-bridada-meckasac.jpg",
+        "/wp-content/uploads/2023/01/valvula-mariposa-bridada1-meckasac.jpg",
+        "/wp-content/uploads/2023/01/valvula-mariposa-bridada2-meckasac.jpg"
+      ],
+      "bytes_html": 78298
+    },
+    {
+      "url": "https://meckasacperu.com/valvula-de-retencion-duocheck-wafer/",
+      "http_status": 200,
+      "titulo": "Válvula de retención Duocheck Wafer - Mecka Sac Peru",
+      "meta_descripcion": "¡Maximice la eficiencia de su sistema de tuberías con la válvula de retención Duocheck Wafer de FLOWRAM! Con su diseño único de doble efecto, esta válvula de retención garantiza un flujo de líquido en una sola dirección, evitando la inversión del sentido de flujo en línea. La válvula de retención Duocheck Wafer es una solución […]",
+      "canonica": "https://meckasacperu.com/valvula-de-retencion-duocheck-wafer/",
+      "idioma": "es-PE",
+      "h1": [
+        "Válvula de retención Duocheck Wafer"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "¡Maximice la eficiencia de su sistema de tuberías con la válvula de retención Duocheck Wafer de FLOWRAM!"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "Válvula de retención Duocheck Wafer"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Article",
+        "CommentAction",
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization",
+        "Person"
+      ],
+      "total_enlaces_internos": 17,
+      "enlaces_internos": [
+        "/",
+        "/valvula-de-retencion-duocheck-wafer/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/wp-content/uploads/2023/01/valvula-de-retencion-duocheck-meckasac.jpg",
+        "/wp-content/uploads/2023/01/valvula-de-retencion-duocheck1-meckasac.jpg",
+        "/wp-content/uploads/2023/01/valvula-de-retencion-duocheck2-meckasac.jpg"
+      ],
+      "bytes_html": 78733
+    },
+    {
+      "url": "https://meckasacperu.com/valvulas-mariposa-tipo-wafer/",
+      "http_status": 200,
+      "titulo": "VALVULAS MARIPOSA TIPO WAFER - Mecka Sac Peru",
+      "meta_descripcion": "¿Buscas una solución confiable para el control de flujo en tus tuberías? ¡Las válvulas mariposa tipo WAFER son la opción ideal para ti! Con su diseño simple y ligero, estas válvulas son fáciles de manejar y operar, permitiéndote regular el paso del flujo de forma gradual. Características: Diseño simple y ligero para una fácil instalación […]",
+      "canonica": "https://meckasacperu.com/valvulas-mariposa-tipo-wafer/",
+      "idioma": "es-PE",
+      "h1": [
+        "VALVULAS MARIPOSA TIPO WAFER"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "¿Buscas una solución confiable para el control de flujo en tus tuberías?"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "VALVULAS MARIPOSA TIPO WAFER"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Article",
+        "CommentAction",
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization",
+        "Person"
+      ],
+      "total_enlaces_internos": 17,
+      "enlaces_internos": [
+        "/",
+        "/valvulas-mariposa-tipo-wafer/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/wp-content/uploads/2023/01/valvula-mariposa-tipo-wafer-meckasac.jpg",
+        "/wp-content/uploads/2023/01/valvula-mariposa-tipo-wafer-1-meckasac.jpg",
+        "/wp-content/uploads/2023/01/valvula-mariposa-tipo-wafer-2-meckasac.jpg"
+      ],
+      "bytes_html": 78716
+    },
+    {
+      "url": "https://meckasacperu.com/valvula-compuerta-campana/",
+      "http_status": 200,
+      "titulo": "Válvula compuerta campana - Mecka Sac Peru",
+      "meta_descripcion": "La válvula compuerta campana Es una solución confiable para el control de flujo de líquidos en sistemas de tuberías de agua potable y otros medios. Con su diseño específico para mejorar el cierre y paso de fluidos, esta válvula es ideal para aplicaciones en industrias como: Características: Cuerpo y tapa fabricadas con hierro nodular ASTM […]",
+      "canonica": "https://meckasacperu.com/valvula-compuerta-campana/",
+      "idioma": "es-PE",
+      "h1": [
+        "Válvula compuerta campana"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "La válvula compuerta campana"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "Válvula compuerta campana"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A536",
+        "ISO 4422",
+        "ISO 7259",
+        "NTP 350.064",
+        "NTP-ISO 7259"
+      ],
+      "tipos_jsonld": [
+        "Article",
+        "CommentAction",
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization",
+        "Person"
+      ],
+      "total_enlaces_internos": 17,
+      "enlaces_internos": [
+        "/",
+        "/valvula-compuerta-campana/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/wp-content/uploads/2023/01/valvula-compuerta-campana-meckasac.jpg",
+        "/wp-content/uploads/2023/01/valvula-compuerta-campana-2-meckasac.jpg",
+        "/wp-content/uploads/2023/01/valvula-compuerta-campana-3-meckasac.jpg"
+      ],
+      "bytes_html": 79418
+    },
+    {
+      "url": "https://meckasacperu.com/valvula-check-swing-elastocheck-mineria/",
+      "http_status": 200,
+      "titulo": "Válvula Check Swing Elastocheck - minería - Mecka Sac Peru",
+      "meta_descripcion": "¿Estás buscando una solución confiable y eficiente para manejar líquidos abrasivos y corrosivos en la industria minera? Entonces, la Válvula Check Swing Elastocheck es la opción perfecta para ti. En la industria minera, es común trabajar con líquidos que contienen sólidos en suspensión, lo que puede causar problemas de presión y falta de cierre hermético […]",
+      "canonica": "https://meckasacperu.com/valvula-check-swing-elastocheck-mineria/",
+      "idioma": "es-PE",
+      "h1": [
+        "Válvula Check Swing Elastocheck – minería"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "¿Estás buscando una solución confiable y eficiente para manejar líquidos abrasivos y corrosivos en la industria minera?"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "Válvula Check Swing Elastocheck &#8211; minería"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ANSI B16.10"
+      ],
+      "tipos_jsonld": [
+        "Article",
+        "CommentAction",
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization",
+        "Person"
+      ],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/valvula-check-swing-elastocheck-mineria/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/wp-content/uploads/2023/01/valvula-elastocheck-de-mineria-meckasac.jpg",
+        "/wp-content/uploads/2023/01/valvula-elastocheck-de-mineria1-meckasac.jpg"
+      ],
+      "bytes_html": 78774
+    },
+    {
+      "url": "https://meckasacperu.com/valvula-de-aire-para-aguas-residuales-o-desague/",
+      "http_status": 200,
+      "titulo": "Válvula de aire para aguas residuales o desague - Mecka Sac Peru",
+      "meta_descripcion": "¿Estás buscando una solución confiable y eficiente para eliminar el aire atrapado en tus líneas de tuberías de aguas residuales o desagües? Entonces, la Válvula de aire para aguas residuales o desagüe es la opción perfecta para ti. Características clave de la Válvula de aire para aguas residuales o desagüe: Diseñada especialmente para trabajar con […]",
+      "canonica": "https://meckasacperu.com/valvula-de-aire-para-aguas-residuales-o-desague/",
+      "idioma": "es-PE",
+      "h1": [
+        "Válvula de aire para aguas residuales o desague"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "¿Estás buscando una solución confiable y eficiente para eliminar el aire atrapado en tus líneas de tuberías de aguas residuales o desagües?"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "Válvula de aire para aguas residuales o desague"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ANSI B16.5"
+      ],
+      "tipos_jsonld": [
+        "Article",
+        "CommentAction",
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization",
+        "Person"
+      ],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/valvula-de-aire-para-aguas-residuales-o-desague/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/wp-content/uploads/2023/01/valvula-de-aire-para-aguas-residuales-meckasac.jpg",
+        "/wp-content/uploads/2023/01/valvula-de-aire-para-aguas-residuales1-meckasac.jpg"
+      ],
+      "bytes_html": 79203
+    },
+    {
+      "url": "https://meckasacperu.com/valvula-de-aire-para-minera/",
+      "http_status": 200,
+      "titulo": "Válvula de aire para minera - Mecka Sac Peru",
+      "meta_descripcion": "¿Estás buscando una solución confiable y eficiente para eliminar el aire atrapado en tus líneas de tuberías de fluidos con sólidos en suspensión en la industria minera? Entonces, la Válvula eliminadora de aire de doble efecto BUFFALO es la opción perfecta para ti. Características clave de la Válvula eliminadora de aire de doble efecto BUFFALO […]",
+      "canonica": "https://meckasacperu.com/valvula-de-aire-para-minera/",
+      "idioma": "es-PE",
+      "h1": [
+        "Válvula de aire para minera"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "¿Estás buscando una solución confiable y eficiente para eliminar el aire atrapado en tus líneas de tuberías de fluidos con sólidos en suspensión en la industria minera?"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "Válvula de aire para minera"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ANSI B16.10",
+        "ASTM A27"
+      ],
+      "tipos_jsonld": [
+        "Article",
+        "CommentAction",
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization",
+        "Person"
+      ],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/valvula-de-aire-para-minera/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/wp-content/uploads/2023/01/valvula-eliminadora-de-aire-meckasac.jpg",
+        "/wp-content/uploads/2023/01/valvula-eliminadora-de-aire1-meckasac.jpg"
+      ],
+      "bytes_html": 78243
+    },
+    {
+      "url": "https://meckasacperu.com/valvula-compuerta-de-bronce-globo/",
+      "http_status": 200,
+      "titulo": "Válvula compuerta de bronce globo - Mecka Sac Peru",
+      "meta_descripcion": "¿Estás buscando una válvula compuerta de bronce globo para manejar líquidos, gases y vapores no tóxicos e inflamables en tu sistema? Entonces, la Válvula compuerta de bronce globo es la opción perfecta para ti. Características clave de la Válvula compuerta de bronce globo Conveniente para los líquidos, los gases y los vapores no tóxicos, no […]",
+      "canonica": "https://meckasacperu.com/valvula-compuerta-de-bronce-globo/",
+      "idioma": "es-PE",
+      "h1": [
+        "Válvula compuerta de bronce globo"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "¿Estás buscando una válvula compuerta de bronce globo para manejar líquidos, gases y vapores no tóxicos e inflamables en tu sistema?"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "Válvula compuerta de bronce globo"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Article",
+        "CommentAction",
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization",
+        "Person"
+      ],
+      "total_enlaces_internos": 17,
+      "enlaces_internos": [
+        "/",
+        "/valvula-compuerta-de-bronce-globo/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/wp-content/uploads/2023/01/valvula-compuerta-de-bronce-globo-meckasac.jpg",
+        "/wp-content/uploads/2023/01/valvula-compuerta-de-bronce-globo2-meckasac.jpg",
+        "/wp-content/uploads/2023/01/valvula-compuerta-de-bronce-globo3-meckasac.jpg"
+      ],
+      "bytes_html": 79720
+    },
+    {
+      "url": "https://meckasacperu.com/valvula-compuerta-de-bronce-roscada/",
+      "http_status": 200,
+      "titulo": "Válvula compuerta de bronce roscada - Mecka Sac Peru",
+      "meta_descripcion": "¿Estás buscando una válvula compuerta de bronce roscada para manejar fluidos corrosivos en tu sistema? Entonces, la Válvula compuerta de bronce roscada es la opción perfecta para ti. Características clave de la Válvula compuerta de bronce roscada Diseñada específicamente para manejar fluidos corrosivos como el agua de mar o el agua congénita Disponible en tamaños […]",
+      "canonica": "https://meckasacperu.com/valvula-compuerta-de-bronce-roscada/",
+      "idioma": "es-PE",
+      "h1": [
+        "Válvula compuerta de bronce roscada"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "¿Estás buscando una válvula compuerta de bronce roscada para manejar fluidos corrosivos en tu sistema?"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "Válvula compuerta de bronce roscada"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Article",
+        "CommentAction",
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization",
+        "Person"
+      ],
+      "total_enlaces_internos": 17,
+      "enlaces_internos": [
+        "/",
+        "/valvula-compuerta-de-bronce-roscada/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/wp-content/uploads/2023/01/valvula-compuerta-de-bronce-roscada-meckasac.jpg",
+        "/wp-content/uploads/2023/01/valvula-compuerta-de-bronce-roscada2-meckasac.jpg",
+        "/wp-content/uploads/2023/01/valvula-compuerta-de-bronce-roscada3-meckasac.jpg"
+      ],
+      "bytes_html": 79332
+    },
+    {
+      "url": "https://meckasacperu.com/brida-ciega-acero/",
+      "http_status": 200,
+      "titulo": "Brida ciega Acero - Mecka Sac Peru",
+      "meta_descripcion": "¿Estás buscando una solución confiable y resistente para conectar tus tuberías y equipos en tu industria? Entonces, las Bridas ciega de acero son la opción perfecta para ti. Características clave de las Bridas ciega de acero: Son accesorios para conectar tuberías con equipos y accesorios Fabricadas en acero de alta calidad, proporcionando una gran resistencia […]",
+      "canonica": "https://meckasacperu.com/brida-ciega-acero/",
+      "idioma": "es-PE",
+      "h1": [
+        "Brida ciega Acero"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "¿Estás buscando una solución confiable y resistente para conectar tus tuberías y equipos en tu industria?"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "Brida ciega Acero"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Article",
+        "CommentAction",
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization",
+        "Person"
+      ],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/brida-ciega-acero/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/wp-content/uploads/2023/01/brida-ciega-acero-meckasac.jpg",
+        "/wp-content/uploads/2023/01/brida-ciega-acero1-meckasac.jpg"
+      ],
+      "bytes_html": 76838
+    },
+    {
+      "url": "https://meckasacperu.com/brida-rompeagua-de-acero/",
+      "http_status": 200,
+      "titulo": "Brida rompeagua de acero - Mecka Sac Peru",
+      "meta_descripcion": "¿Estás buscando una solución confiable y resistente para proteger tus sistemas de tuberías contra el agua? Entonces, las Bridas rompeagua de acero son la opción perfecta para ti. Características clave de las Bridas rompeagua de acero: Fabricadas en acero resistente, proporcionando una gran durabilidad Anclaje o Rompeagua, ideal para proteger tus sistemas de tuberías contra […]",
+      "canonica": "https://meckasacperu.com/brida-rompeagua-de-acero/",
+      "idioma": "es-PE",
+      "h1": [
+        "Brida rompeagua de acero"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "¿Estás buscando una solución confiable y resistente para proteger tus sistemas de tuberías contra el agua?"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "Brida rompeagua de acero"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Article",
+        "CommentAction",
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization",
+        "Person"
+      ],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/brida-rompeagua-de-acero/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/wp-content/uploads/2023/01/brida-rompeagua-acero-meckasac.jpg",
+        "/wp-content/uploads/2023/01/brida-rompeagua-acero1-meckasac.jpg"
+      ],
+      "bytes_html": 77511
+    },
+    {
+      "url": "https://meckasacperu.com/brida-para-soldar-welding-neck/",
+      "http_status": 200,
+      "titulo": "Brida para soldar Welding Neck - Mecka Sac Peru",
+      "meta_descripcion": "¿Estás buscando una solución confiable y resistente para conectar tus tuberías en sistemas de alta presión? Entonces, las Bridas para soldar Welding Neck son la opción perfecta para ti. Características clave de las Bridas para soldar Welding Neck: Contienen un largo cuello cónico, cuyo extremo se suelda con el tubo correspondiente El diámetro interior del […]",
+      "canonica": "https://meckasacperu.com/brida-para-soldar-welding-neck/",
+      "idioma": "es-PE",
+      "h1": [
+        "Brida para soldar Welding Neck"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "¿Estás buscando una solución confiable y resistente para conectar tus tuberías en sistemas de alta presión?"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "Brida para soldar Welding Neck"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Article",
+        "CommentAction",
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization",
+        "Person"
+      ],
+      "total_enlaces_internos": 17,
+      "enlaces_internos": [
+        "/",
+        "/brida-para-soldar-welding-neck/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/wp-content/uploads/2023/01/brida-para-soldar-welding-neck-meckasac.jpg",
+        "/wp-content/uploads/2023/01/brida-para-soldar-welding-neck2-meckasac.jpg",
+        "/wp-content/uploads/2023/01/brida-para-soldar-welding-neck1-meckasac.jpg"
+      ],
+      "bytes_html": 78947
+    },
+    {
+      "url": "https://meckasacperu.com/brida-para-roscar/",
+      "http_status": 200,
+      "titulo": "Brida para roscar - Mecka Sac Peru",
+      "meta_descripcion": "¿Estás buscando una solución confiable y fácil de instalar para conectar tus tuberías en sistemas de baja presión? Entonces, las Bridas para roscar son la opción perfecta para ti. Características clave de las Bridas para roscar: Ampliamente utilizadas en sistemas de tuberías de baja presión No requieren soldadura para conectar a tuberías u otros equipos […]",
+      "canonica": "https://meckasacperu.com/brida-para-roscar/",
+      "idioma": "es-PE",
+      "h1": [
+        "Brida para roscar"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "¿Estás buscando una solución confiable y fácil de instalar para conectar tus tuberías en sistemas de baja presión?"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "Brida para roscar"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Article",
+        "CommentAction",
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization",
+        "Person"
+      ],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/brida-para-roscar/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/wp-content/uploads/2023/01/brida-para-roscar-meckasac.jpg",
+        "/wp-content/uploads/2023/01/brida-para-roscar1-meckasac.jpg"
+      ],
+      "bytes_html": 77088
+    },
+    {
+      "url": "https://meckasacperu.com/brida-slip-on-%c2%96-ansi/",
+      "http_status": 200,
+      "titulo": "Brida Slip ON  ANSI - Mecka Sac Peru",
+      "meta_descripcion": "¿Estás buscando una brida confiable y resistente para conectar tus tuberías en sistemas de alta presión? Entonces, las Bridas Slip ON ANSI son la opción perfecta para ti. Características clave de las Bridas Slip ON ANSI: Diseñadas para proporcionar un sellado óptimo Estructura integral y rendimiento a largo plazo Mangas disponibles con reducción de tamaño […]",
+      "canonica": "https://meckasacperu.com/brida-slip-on--ansi/",
+      "idioma": "es-PE",
+      "h1": [
+        "Brida Slip ON  ANSI"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "¿Estás buscando una brida confiable y resistente para conectar tus tuberías en sistemas de alta presión?"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "Brida Slip ON  ANSI"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Article",
+        "CommentAction",
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization",
+        "Person"
+      ],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/brida-slip-on-%c2%96-ansi/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/wp-content/uploads/2023/01/brida-slip-on-ansi-meckasac.jpg",
+        "/wp-content/uploads/2023/01/brida-slip-on-ansi1-meckasac.jpg"
+      ],
+      "bytes_html": 77386
+    },
+    {
+      "url": "https://meckasacperu.com/marco-y-tapa-de-hierro-ductil-para-buzon/",
+      "http_status": 200,
+      "titulo": "Marco y tapa de hierro dúctil para buzón - Mecka Sac Peru",
+      "meta_descripcion": "¿Estás buscando un marco y tapa de hierro dúctil para buzón de alta calidad y resistencia? Entonces, los marcos y tapas FLOWRAM son la opción perfecta para ti. Características clave de los marcos y tapas FLOWRAM: Fabricados en hierro dúctil de acuerdo a la norma ASTM A-536 Mecánicas superiores al hierro fundido gris, flexibles y […]",
+      "canonica": "https://meckasacperu.com/marco-y-tapa-de-hierro-ductil-para-buzon/",
+      "idioma": "es-PE",
+      "h1": [
+        "Marco y tapa de hierro dúctil para buzón"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "¿Estás buscando un marco y tapa de hierro dúctil para buzón de alta calidad y resistencia?"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "Marco y tapa de hierro dúctil para buzón"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A-536",
+        "EN 124"
+      ],
+      "tipos_jsonld": [
+        "Article",
+        "CommentAction",
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization",
+        "Person"
+      ],
+      "total_enlaces_internos": 17,
+      "enlaces_internos": [
+        "/",
+        "/marco-y-tapa-de-hierro-ductil-para-buzon/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/wp-content/uploads/2023/01/marco-tapa-de-hierro-ductil-buzon-meckasac.jpg",
+        "/wp-content/uploads/2023/01/marco-tapa-de-hierro-ductil-buzon-modelo-meckasac.jpg",
+        "/wp-content/uploads/2023/01/marco-tapa-de-hierro-ductil-buzon2-meckasac.jpg"
+      ],
+      "bytes_html": 79381
+    },
+    {
+      "url": "https://meckasacperu.com/contactos/",
+      "http_status": 200,
+      "titulo": "Contactos - Mecka Sac Peru",
+      "meta_descripcion": "Envíanos un Correo NUESTRA SEDE Av. Óscar R. Benavides 2004, Lima LLÁMANOS [celular omitido] FACEBOOK Visítanos en facebook EN GOOGLE Buscanos como Meckasacperu.com",
+      "canonica": "https://meckasacperu.com/contactos/",
+      "idioma": "es-PE",
+      "h1": [
+        "Contactos"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "Envíanos un Correo"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "Contactos"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization"
+      ],
+      "total_enlaces_internos": 13,
+      "enlaces_internos": [
+        "/",
+        "/contactos/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/"
+      ],
+      "bytes_html": 77780
+    },
+    {
+      "url": "https://meckasacperu.com/uniones/",
+      "http_status": 200,
+      "titulo": "Uniones - Mecka Sac Peru",
+      "meta_descripcion": "Uniones de Agua: La Solución Ideal para unir las Partes de la Instalación con Meckasac Perú ¿Qué son las Uniones de Agua y por qué son importantes? Las uniones de agua son componentes clave en cualquier sistema de suministro de agua. Tienen la función de unir las diferentes partes de la instalación, tales como tuberías, […]",
+      "canonica": "https://meckasacperu.com/uniones/",
+      "idioma": "es-PE",
+      "h1": [
+        "Uniones"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "Uniones de Agua:",
+        "Uniones Flexibles:"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "Uniones"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization"
+      ],
+      "total_enlaces_internos": 15,
+      "enlaces_internos": [
+        "/",
+        "/uniones/",
+        "/valvulas/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/union-flexible-escalonada/",
+        "/union-autoportante-tipo-3-bridas/"
+      ],
+      "bytes_html": 74566
+    },
+    {
+      "url": "https://meckasacperu.com/union-autoportante-tipo-3-bridas/",
+      "http_status": 200,
+      "titulo": "Unión autoportante tipo 3 bridas - Mecka Sac Peru",
+      "meta_descripcion": "¿Buscas una solución de unión rápida y segura para tus tuberías y accesorios? La unión autoportante tipo 3 bridas es la opción perfecta para tus necesidades. Esta unión es utilizada como junta de montaje bridada en ambos extremos, permitiendo unir accesorios, válvulas o tuberías bridadas con facilidad. Con un rango máximo de 2 pulgadas, esta […]",
+      "canonica": "https://meckasacperu.com/union-autoportante-tipo-3-bridas/",
+      "idioma": "es-PE",
+      "h1": [
+        "Unión autoportante tipo 3 bridas"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "¿Buscas una solución de unión rápida y segura para tus tuberías y accesorios?"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "Unión autoportante tipo 3 bridas"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Article",
+        "CommentAction",
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization",
+        "Person"
+      ],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/union-autoportante-tipo-3-bridas/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/wp-content/uploads/2023/01/union-autoportante-tipo-3-bridas-meckasac.jpg",
+        "/wp-content/uploads/2023/01/union-autoportante-tipo-3-bridas1-meckasac.jpg"
+      ],
+      "bytes_html": 77612
+    },
+    {
+      "url": "https://meckasacperu.com/filtros/",
+      "http_status": 200,
+      "titulo": "FILTROS - Mecka Sac Peru",
+      "meta_descripcion": "Filtros Bridados Tipo Canasta de Meckasac Perú: La Solución Definitiva para el Filtrado en Línea ¿Está buscando un sistema de filtrado en línea eficiente y confiable? ¡Bienvenido a Meckasac Perú! Nuestros filtros bridados tipo canasta ofrecen una solución de filtrado en línea de alta calidad y desempeño, perfecta para fundiciones y otros materiales. Sistema de […]",
+      "canonica": "https://meckasacperu.com/filtros/",
+      "idioma": "es-PE",
+      "h1": [
+        "FILTROS"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "Filtros Bridados Tipo Canasta de Meckasac Perú:"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "FILTROS"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization"
+      ],
+      "total_enlaces_internos": 15,
+      "enlaces_internos": [
+        "/",
+        "/filtros/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/filtro-tipo-y-bridado/",
+        "/filtro-bridado-tipo-canasta/"
+      ],
+      "bytes_html": 74732
+    },
+    {
+      "url": "https://meckasacperu.com/filtro-tipo-y-bridado/",
+      "http_status": 200,
+      "titulo": "Filtro tipo \"Y\" Bridado - Mecka Sac Peru",
+      "meta_descripcion": "¿Estás buscando una solución eficaz para proteger tus equipos y válvulas en sistemas de tuberías? Entonces, el filtro tipo «Y» Bridado es la opción perfecta para ti. Características clave del filtro tipo «Y» Bridado: Destinado a proteger equipos y válvulas como macro medidores woltman, válvulas de control y válvulas Check Forma en «Y» que permite […]",
+      "canonica": "https://meckasacperu.com/filtro-tipo-y-bridado/",
+      "idioma": "es-PE",
+      "h1": [
+        "Filtro tipo «Y» Bridado"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "¿Estás buscando una solución eficaz para proteger tus equipos y válvulas en sistemas de tuberías?"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "Filtro tipo &#8220;Y&#8221; Bridado"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A-536",
+        "ISO 2531"
+      ],
+      "tipos_jsonld": [
+        "Article",
+        "CommentAction",
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization",
+        "Person"
+      ],
+      "total_enlaces_internos": 17,
+      "enlaces_internos": [
+        "/",
+        "/filtro-tipo-y-bridado/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/wp-content/uploads/2023/01/filtro-tipo-y-dimenciones-meckasac.jpg",
+        "/wp-content/uploads/2023/01/filtro-tipo-y-instalacion-meckasac.jpg",
+        "/wp-content/uploads/2023/01/filtro-tipo-y-bb-meckasac.jpg"
+      ],
+      "bytes_html": 78309
+    },
+    {
+      "url": "https://meckasacperu.com/filtro-bridado-tipo-canasta/",
+      "http_status": 200,
+      "titulo": "Filtro bridado tipo canasta - Mecka Sac Peru",
+      "meta_descripcion": "¿Estás buscando una solución eficiente para filtrar tus fluidos en aplicaciones de alta presión? Entonces, los Filtros bridados tipo canasta son la opción perfecta para ti. Características clave de los Filtros bridados tipo canasta: Malla diseñada en forma de cesta con mango de elevación Fácil eliminación de las partículas capturadas y retenidas por la malla […]",
+      "canonica": "https://meckasacperu.com/filtro-bridado-tipo-canasta/",
+      "idioma": "es-PE",
+      "h1": [
+        "Filtro bridado tipo canasta"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "¿Estás buscando una solución eficiente para filtrar tus fluidos en aplicaciones de alta presión?"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "Filtro bridado tipo canasta"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Article",
+        "CommentAction",
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization",
+        "Person"
+      ],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/filtro-bridado-tipo-canasta/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/wp-content/uploads/2023/01/filtro-bridado-tipo-canasta-meckasac.jpg",
+        "/wp-content/uploads/2023/01/filtro-bridado-tipo-canasta1-meckasac.jpg"
+      ],
+      "bytes_html": 77310
+    },
+    {
+      "url": "https://meckasacperu.com/abrazaderas/",
+      "http_status": 200,
+      "titulo": "Abrazaderas - Mecka Sac Peru",
+      "meta_descripcion": "Soluciones de Reparación Definitivas con Abrazaderas de Reparación de Meckasac Perú ¿Está buscando una solución de reparación definitiva para tuberías dañadas o rotas? ¡Las abrazaderas de reparación de Meckasac Perú son su respuesta! Como líderes en el mercado, ofrecemos abrazaderas de alta calidad que se adaptan a diferentes tipos de fluidos, incluyendo agua, gas y […]",
+      "canonica": "https://meckasacperu.com/abrazaderas/",
+      "idioma": "es-PE",
+      "h1": [
+        "Abrazaderas"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "Soluciones de Reparación Definitivas con Abrazaderas de Reparación de Meckasac Perú"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "Abrazaderas"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization"
+      ],
+      "total_enlaces_internos": 15,
+      "enlaces_internos": [
+        "/",
+        "/abrazaderas/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/abrazadera-de-reparacion-o-clamp/",
+        "/tapping-de-acero-con-derivacion-bridada/"
+      ],
+      "bytes_html": 74841
+    },
+    {
+      "url": "https://meckasacperu.com/tapping-de-acero-con-derivacion-bridada/",
+      "http_status": 200,
+      "titulo": "Tapping de Acero con Derivación Bridada - Mecka Sac Peru",
+      "meta_descripcion": "¿Estás buscando una solución eficiente para realizar derivaciones en tus proyectos de tubería de acero en el sector de agua potable, agroindustria o industria en general? Entonces, ¡has venido al lugar correcto! En Meckasac Perú ofrecemos una amplia variedad de accesorios para tubería de acero, incluyendo nuestro Tapping de Acero con Derivación Bridada, que te […]",
+      "canonica": "https://meckasacperu.com/tapping-de-acero-con-derivacion-bridada/",
+      "idioma": "es-PE",
+      "h1": [
+        "Tapping de Acero con Derivación Bridada"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "¿Estás buscando una solución eficiente para realizar derivaciones en tus proyectos de tubería de acero en el sector de agua potable, agroindustria o industria en general?"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "Tapping de Acero con Derivación Bridada"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A-283",
+        "ASTM A-36"
+      ],
+      "tipos_jsonld": [
+        "Article",
+        "CommentAction",
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization",
+        "Person"
+      ],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/tapping-de-acero-con-derivacion-bridada/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/wp-content/uploads/2023/01/tapping-acero-derivacion-bridada-meckasac.jpg",
+        "/wp-content/uploads/2023/01/tapping-acero-derivacion-bridada1-meckasac.jpg"
+      ],
+      "bytes_html": 78923
+    },
+    {
+      "url": "https://meckasacperu.com/bombas/",
+      "http_status": 200,
+      "titulo": "Bombas - Mecka Sac Peru",
+      "meta_descripcion": "¿Cuáles son los diferentes tipos de bombas de agua disponibles en el mercado? ¿Estás buscando una bomba para lodo o para aguas residuales? ¿Buscas una bomba de alto rendimiento o una bomba sumergible para aplicaciones específicas? En Meckasac Perú, tenemos una amplia variedad de bombas de agua para cubrir todas tus necesidades. Tipos de bombas […]",
+      "canonica": "https://meckasacperu.com/bombas/",
+      "idioma": "es-PE",
+      "h1": [
+        "Bombas"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "¿Cuáles son los diferentes tipos de bombas de agua disponibles en el mercado?",
+        "Descubre la mejor bomba de agua para tu hogar con Meckasac Perú"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "Bombas"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization"
+      ],
+      "total_enlaces_internos": 20,
+      "enlaces_internos": [
+        "/",
+        "/bombas/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/bomba-para-lodo/",
+        "/bomba-multicelular-horizontal/",
+        "/bomba-multicelular-vertical/",
+        "/bomba-para-lodo-de-alto-rendimiento/",
+        "/bomba-de-aguas-residuales-tipo-buceo/",
+        "/bomba-sumergible-para-aguas-residuales/",
+        "/bomba-sumergible-para-lodo/"
+      ],
+      "bytes_html": 81965
+    },
+    {
+      "url": "https://meckasacperu.com/metal-mecanica/",
+      "http_status": 200,
+      "titulo": "METAL MECÁNICA - Mecka Sac Peru",
+      "meta_descripcion": "",
+      "canonica": "https://meckasacperu.com/metal-mecanica/",
+      "idioma": "es-PE",
+      "h1": [
+        "METAL MECÁNICA"
+      ],
+      "h2": [
+        "Mecka Sac Peru"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "METAL MECÁNICA"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization"
+      ],
+      "total_enlaces_internos": 17,
+      "enlaces_internos": [
+        "/",
+        "/metal-mecanica/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/tee-bridada-de-hierro-ductil/",
+        "/reduccion-de-acero-bridado/",
+        "/niple-de-acero-bridado/",
+        "/codo-bridado/"
+      ],
+      "bytes_html": 72305
+    },
+    {
+      "url": "https://meckasacperu.com/tee-bridada-de-hierro-ductil/",
+      "http_status": 200,
+      "titulo": "Tee bridada de hierro ductil - Mecka Sac Peru",
+      "meta_descripcion": "¿Estás buscando una solución de tubería de acero de alta calidad para tus proyectos de agua potable, agroindustria o industria en general? Entonces, ¡has venido al lugar correcto! En Meckasac Perú ofrecemos una amplia variedad de tubería de acero, incluyendo nuestra Tee bridada de hierro ductil, fabricada bajo las normas ASTM A-53 SCH 40 y […]",
+      "canonica": "https://meckasacperu.com/tee-bridada-de-hierro-ductil/",
+      "idioma": "es-PE",
+      "h1": [
+        "Tee bridada de hierro ductil"
+      ],
+      "h2": [
+        "Mecka Sac Peru",
+        "¿Estás buscando una solución de tubería de acero de alta calidad para tus proyectos de agua potable, agroindustria o industria en general?"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Portada",
+        "Tee bridada de hierro ductil"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A-105",
+        "ASTM A-53",
+        "ASTM A123",
+        "ISO 7005-1"
+      ],
+      "tipos_jsonld": [
+        "Article",
+        "CommentAction",
+        "WebPage",
+        "ReadAction",
+        "ImageObject",
+        "BreadcrumbList",
+        "ListItem",
+        "WebSite",
+        "SearchAction",
+        "EntryPoint",
+        "Organization",
+        "Person"
+      ],
+      "total_enlaces_internos": 17,
+      "enlaces_internos": [
+        "/",
+        "/tee-bridada-de-hierro-ductil/",
+        "/valvulas/",
+        "/uniones/",
+        "/bridas/",
+        "/tapas-y-marco/",
+        "/tuberias/",
+        "/filtros/",
+        "/abrazaderas/",
+        "/bombas/",
+        "/metal-mecanica/",
+        "/mantenimiento/",
+        "/somos/",
+        "/contactos/",
+        "/wp-content/uploads/2023/01/tee-bridada-de-hierro-ductil-meckasac.jpg",
+        "/wp-content/uploads/2023/01/tee-bridada-de-hierro-ductil2-meckasac.jpg",
+        "/wp-content/uploads/2023/01/tee-bridada-de-hierro-ductil3-meckasac.jpg"
+      ],
+      "bytes_html": 79076
+    }
+  ]
+}

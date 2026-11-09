@@ -1,0 +1,1038 @@
+{
+  "url_inicial": "https://inccosac.com/",
+  "host": "inccosac.com",
+  "esquema": "https",
+  "user_agent": "FundigsacMarketResearch/1.0",
+  "fecha_utc": "2026-11-09T17:31:35+00:00",
+  "estado": "ok",
+  "motivo": "",
+  "limites": {
+    "max_paginas": 40,
+    "intervalo_segundos": 3.0
+  },
+  "robots": {
+    "url": "https://inccosac.com/robots.txt",
+    "http_status": 200,
+    "presente": true,
+    "crawl_delay": null,
+    "sitemaps": [
+      "https://inccosac.com/sitemap_index.xml"
+    ]
+  },
+  "solicitudes_http": 27,
+  "paginas_solicitadas": 26,
+  "paginas_con_datos": 18,
+  "truncado_por_tiempo": false,
+  "pendientes_sin_visitar": 0,
+  "omitidas_por_robots": [],
+  "redirecciones_externas": [],
+  "duracion_segundos": 139.0,
+  "resumen": {
+    "productos": [
+      "Grupo Inccosac",
+      "Marco y Tapa D400 Material Compuesto | INCCOSAC",
+      "Marco y Tapa de Material Compuesto D400"
+    ],
+    "categorias": [
+      "Nuevos productos de Material Compuesto",
+      "×",
+      "Mostrar ( 1 )",
+      "Cancelar",
+      "Restablecer todo ×",
+      "Nuevos productos de Material Compuesto ×"
+    ],
+    "normas_citadas": [
+      "EN 124",
+      "EN 124-1",
+      "EN 124-2",
+      "EN 124-5",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001",
+      "NTP 339.701-2"
+    ],
+    "tipos_jsonld": {
+      "Organization": 18,
+      "WebSite": 18,
+      "CollectionPage": 14,
+      "ImageObject": 4,
+      "WebPage": 3,
+      "Person": 3,
+      "Article": 3,
+      "SearchAction": 1,
+      "ItemPage": 1,
+      "Product": 1
+    },
+    "secciones": {
+      "productos": 12,
+      "categoria-producto": 2,
+      "/": 1,
+      "producto": 1,
+      "quienes-somos": 1,
+      "contacto": 1
+    },
+    "documentos_enlazados": [],
+    "contacto_empresa": {
+      "nombres": [
+        "Inccosac"
+      ],
+      "telefonos": [],
+      "correos": [],
+      "direcciones": []
+    }
+  },
+  "paginas": [
+    {
+      "url": "https://inccosac.com/",
+      "http_status": 200,
+      "titulo": "Productos para Saneamiento y Alcantarillado | Inccosac Perú",
+      "meta_descripcion": "Inccosac: productos para saneamiento y alcantarillado en hierro dúctil, válvulas y concreto prefabricado. Proveedor de SEDAPAL. Cotiza ahora.",
+      "canonica": "https://inccosac.com/",
+      "idioma": "es",
+      "h1": [
+        "Grupo Inccosac"
+      ],
+      "h2": [
+        "PRODUCTOS TERMOPLÁSTICOS PARA INSTALACIONES DE AGUA POTABLE",
+        "PRODUCTOS TERMOPLÁSTICOS PARA INSTALACIONES DE ALCANTARILLADO",
+        "HIDRANTES",
+        "HIERRO DÚCTIL Y FUNDICIÓN GRIS",
+        "CODO HIERRO DÚCTIL",
+        "AGUA POTABLE Y ALCANTARILLADO",
+        "Bienvenidos a",
+        "Productos para saneamiento y alcantarillado fabricados en el Perú",
+        "Calidad Comprobada",
+        "Nuestros Productos",
+        "POLITICA DEL SIG",
+        "OBJETIVOS DEL SIG",
+        "Nuestra",
+        "TRAYECTORIA"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ISO 14001",
+        "ISO 45001",
+        "ISO 9001"
+      ],
+      "tipos_jsonld": [
+        "Organization",
+        "ImageObject",
+        "WebSite",
+        "SearchAction",
+        "WebPage",
+        "Person",
+        "Article"
+      ],
+      "total_enlaces_internos": 13,
+      "enlaces_internos": [
+        "/",
+        "/inicio",
+        "/quienes-somos",
+        "/productos?f_category=productos-material-compuesto",
+        "/productos?f_category=tuberias-de-hierro-ductil",
+        "/productos?f_category=marcos-y-tapas-de-hierro-ductil",
+        "/productos?f_category=hidrantes-contra-incendios-de-hierro-ductil",
+        "/contacto",
+        "/nosotros/",
+        "/politica-del-sig/",
+        "/objetivos-del-sig/",
+        "/tienda/",
+        "/cdn-cgi/l/email-protection"
+      ],
+      "bytes_html": 296691
+    },
+    {
+      "url": "https://inccosac.com/tienda/",
+      "http_status": 404
+    },
+    {
+      "url": "https://inccosac.com/productos?f_category=tuberias-de-hierro-ductil",
+      "http_status": 200,
+      "titulo": "Productos - Inccosac",
+      "meta_descripcion": "Productos Archive - Inccosac",
+      "canonica": "https://inccosac.com/productos/",
+      "idioma": "es",
+      "h1": [
+        "Grupo Inccosac"
+      ],
+      "h2": [
+        "Filtros"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Organization",
+        "WebSite",
+        "CollectionPage"
+      ],
+      "total_enlaces_internos": 14,
+      "enlaces_internos": [
+        "/productos?f_category=tuberias-de-hierro-ductil",
+        "/inicio",
+        "/",
+        "/quienes-somos",
+        "/productos?f_category=productos-material-compuesto",
+        "/productos?f_category=marcos-y-tapas-de-hierro-ductil",
+        "/productos?f_category=hidrantes-contra-incendios-de-hierro-ductil",
+        "/contacto",
+        "/productos/",
+        "/productos/?f_category=tuberias-de-hierro-ductil",
+        "/productos/?f_category=productos-material-compuesto%3Btuberias-de-hierro-ductil",
+        "/nosotros/",
+        "/tienda/",
+        "/cdn-cgi/l/email-protection"
+      ],
+      "bytes_html": 180097
+    },
+    {
+      "url": "https://inccosac.com/productos/",
+      "http_status": 200,
+      "titulo": "Productos - Inccosac",
+      "meta_descripcion": "Productos Archive - Inccosac",
+      "canonica": "https://inccosac.com/productos/",
+      "idioma": "es",
+      "h1": [
+        "Grupo Inccosac"
+      ],
+      "h2": [
+        "Filtros",
+        "Marco y Tapa de Material Compuesto D400"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Nuevos productos de Material Compuesto"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Organization",
+        "WebSite",
+        "CollectionPage"
+      ],
+      "total_enlaces_internos": 15,
+      "enlaces_internos": [
+        "/productos/",
+        "/inicio",
+        "/",
+        "/quienes-somos",
+        "/productos?f_category=productos-material-compuesto",
+        "/productos?f_category=tuberias-de-hierro-ductil",
+        "/productos?f_category=marcos-y-tapas-de-hierro-ductil",
+        "/productos?f_category=hidrantes-contra-incendios-de-hierro-ductil",
+        "/contacto",
+        "/productos/?f_category=productos-material-compuesto",
+        "/producto/marco-y-tapa-de-material-compuesto-d400/",
+        "/categoria-producto/productos-material-compuesto/",
+        "/nosotros/",
+        "/tienda/",
+        "/cdn-cgi/l/email-protection"
+      ],
+      "bytes_html": 191509
+    },
+    {
+      "url": "https://inccosac.com/categoria-producto/productos-material-compuesto/",
+      "http_status": 200,
+      "titulo": "Nuevos productos de Material Compuesto - Inccosac",
+      "meta_descripcion": "INCCOSAC incorpora a su catálogo una nueva generación de productos en material compuesto, desarrollados para el cierre de estructuras subterráneas en sistemas de agua potable y alcantarillado. Esta línea nace como respuesta a los principales retos que enfrentan los proyectos de saneamiento en campo: el robo de tapas metálicas, el desgaste por corrosión y el mantenimiento constante que exigen los materiales tradicionales.",
+      "canonica": "https://inccosac.com/categoria-producto/productos-material-compuesto/",
+      "idioma": "es",
+      "h1": [
+        "Grupo Inccosac"
+      ],
+      "h2": [
+        "Filtros",
+        "Marco y Tapa de Material Compuesto D400"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "×",
+        "Nuevos productos de Material Compuesto",
+        "Mostrar ( 1 )",
+        "Cancelar"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Organization",
+        "WebSite",
+        "CollectionPage"
+      ],
+      "total_enlaces_internos": 14,
+      "enlaces_internos": [
+        "/categoria-producto/productos-material-compuesto/",
+        "/inicio",
+        "/",
+        "/quienes-somos",
+        "/productos?f_category=productos-material-compuesto",
+        "/productos?f_category=tuberias-de-hierro-ductil",
+        "/productos?f_category=marcos-y-tapas-de-hierro-ductil",
+        "/productos?f_category=hidrantes-contra-incendios-de-hierro-ductil",
+        "/contacto",
+        "/categoria-producto/productos-material-compuesto/?f_category=productos-material-compuesto",
+        "/producto/marco-y-tapa-de-material-compuesto-d400/",
+        "/nosotros/",
+        "/tienda/",
+        "/cdn-cgi/l/email-protection"
+      ],
+      "bytes_html": 193918
+    },
+    {
+      "url": "https://inccosac.com/categoria-producto/productos-material-compuesto/?f_category=productos-material-compuesto",
+      "http_status": 200,
+      "titulo": "Nuevos productos de Material Compuesto - Inccosac",
+      "meta_descripcion": "INCCOSAC incorpora a su catálogo una nueva generación de productos en material compuesto, desarrollados para el cierre de estructuras subterráneas en sistemas de agua potable y alcantarillado. Esta línea nace como respuesta a los principales retos que enfrentan los proyectos de saneamiento en campo: el robo de tapas metálicas, el desgaste por corrosión y el mantenimiento constante que exigen los materiales tradicionales.",
+      "canonica": "https://inccosac.com/categoria-producto/productos-material-compuesto/",
+      "idioma": "es",
+      "h1": [
+        "Grupo Inccosac"
+      ],
+      "h2": [
+        "Filtros",
+        "Marco y Tapa de Material Compuesto D400"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Restablecer todo ×",
+        "Nuevos productos de Material Compuesto ×",
+        "×",
+        "Nuevos productos de Material Compuesto",
+        "Mostrar ( 1 )",
+        "Cancelar"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Organization",
+        "WebSite",
+        "CollectionPage"
+      ],
+      "total_enlaces_internos": 14,
+      "enlaces_internos": [
+        "/categoria-producto/productos-material-compuesto/?f_category=productos-material-compuesto",
+        "/inicio",
+        "/",
+        "/quienes-somos",
+        "/productos?f_category=productos-material-compuesto",
+        "/productos?f_category=tuberias-de-hierro-ductil",
+        "/productos?f_category=marcos-y-tapas-de-hierro-ductil",
+        "/productos?f_category=hidrantes-contra-incendios-de-hierro-ductil",
+        "/contacto",
+        "/categoria-producto/productos-material-compuesto/",
+        "/producto/marco-y-tapa-de-material-compuesto-d400/",
+        "/nosotros/",
+        "/tienda/",
+        "/cdn-cgi/l/email-protection"
+      ],
+      "bytes_html": 193198
+    },
+    {
+      "url": "https://inccosac.com/producto/marco-y-tapa-de-material-compuesto-d400/",
+      "http_status": 200,
+      "titulo": "Marco y Tapa D400 Material Compuesto | INCCOSAC",
+      "meta_descripcion": "Marco y tapa D400 de material compuesto, antirrobo y no conductivo, resiste hasta 40 toneladas. Cumple EN 124. Cotiza en INCCOSAC.",
+      "canonica": "https://inccosac.com/producto/marco-y-tapa-de-material-compuesto-d400/",
+      "idioma": "es",
+      "h1": [
+        "Grupo Inccosac",
+        "Marco y Tapa de Material Compuesto D400"
+      ],
+      "h2": [],
+      "es_ficha_producto": true,
+      "productos": [
+        "Grupo Inccosac",
+        "Marco y Tapa D400 Material Compuesto | INCCOSAC",
+        "Marco y Tapa de Material Compuesto D400"
+      ],
+      "categorias": [
+        "Nuevos productos de Material Compuesto"
+      ],
+      "especificaciones": [
+        {
+          "atributo": "Alta durabilidad",
+          "valor": "Resiste condiciones climáticas extremas y agentes corrosivos."
+        },
+        {
+          "atributo": "Seguro y confiable",
+          "valor": "No se oxida ni se deteriora con el tiempo."
+        },
+        {
+          "atributo": "Antirrobo",
+          "valor": "Al no tener valor como chatarra, reduce el riesgo de hurto en obra y vía pública."
+        },
+        {
+          "atributo": "Liviano y fácil de instalar",
+          "valor": "Reduce costos de transporte y tiempos de obra."
+        },
+        {
+          "atributo": "Bajo mantenimiento",
+          "valor": "No requiere pintura anticorrosiva."
+        },
+        {
+          "atributo": "Cumple con normativas oficiales",
+          "valor": "Fabricado según EN 124 y especificación CTPS-ET-035 de SEDAPAL."
+        },
+        {
+          "atributo": "Aplicación versátil",
+          "valor": "Compatible con cámaras de válvulas, medición y estructuras SCADA."
+        },
+        {
+          "atributo": "Material",
+          "valor": "Compuesto de alta resistencia (no reciclable)"
+        },
+        {
+          "atributo": "Norma de Referencia",
+          "valor": "EN 124-1, EN 124-2, EN 124-5, NTP 339.701-2"
+        },
+        {
+          "atributo": "Especificación",
+          "valor": "Fabricado según estándar CTPS-ET-035 de SEDAPAL"
+        },
+        {
+          "atributo": "Clase de resistencia",
+          "valor": "D400, hasta 40 toneladas de carga"
+        },
+        {
+          "atributo": "Diseño liviano",
+          "valor": "Fácil transporte e instalación"
+        },
+        {
+          "atributo": "No conductor de electricidad",
+          "valor": "Ideal para cámaras eléctricas y SCADA"
+        },
+        {
+          "atributo": "Material no reciclable",
+          "valor": "Sin valor de reventa como chatarra, previene el hurto"
+        },
+        {
+          "atributo": "Absorción de ruido y vibración",
+          "valor": "Reduce el impacto sonoro del tráfico vehicular"
+        },
+        {
+          "atributo": "Norma de Fabricación",
+          "valor": "EN 124-1, EN 124-2, EN 124-5, NTP 339.701-2"
+        },
+        {
+          "atributo": "Clase de resistencia",
+          "valor": "D400 (hasta 40 toneladas)"
+        },
+        {
+          "atributo": "Cota de paso",
+          "valor": "600 mm de diámetro"
+        }
+      ],
+      "normas_citadas": [
+        "EN 124",
+        "EN 124-1",
+        "EN 124-2",
+        "EN 124-5",
+        "NTP 339.701-2"
+      ],
+      "tipos_jsonld": [
+        "Organization",
+        "ImageObject",
+        "WebSite",
+        "ItemPage",
+        "Product"
+      ],
+      "total_enlaces_internos": 15,
+      "enlaces_internos": [
+        "/producto/marco-y-tapa-de-material-compuesto-d400/",
+        "/inicio",
+        "/",
+        "/quienes-somos",
+        "/productos?f_category=productos-material-compuesto",
+        "/productos?f_category=tuberias-de-hierro-ductil",
+        "/productos?f_category=marcos-y-tapas-de-hierro-ductil",
+        "/productos?f_category=hidrantes-contra-incendios-de-hierro-ductil",
+        "/contacto",
+        "/wp-content/uploads/2026/08/tapa.jpg",
+        "/wp-content/uploads/2026/08/tapa-2.jpg",
+        "/categoria-producto/productos-material-compuesto/",
+        "/nosotros/",
+        "/tienda/",
+        "/cdn-cgi/l/email-protection"
+      ],
+      "bytes_html": 227356
+    },
+    {
+      "url": "https://inccosac.com/productos/?f_category=tuberias-de-hierro-ductil",
+      "http_status": 200,
+      "titulo": "Productos - Inccosac",
+      "meta_descripcion": "Productos Archive - Inccosac",
+      "canonica": "https://inccosac.com/productos/",
+      "idioma": "es",
+      "h1": [
+        "Grupo Inccosac"
+      ],
+      "h2": [
+        "Filtros"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "Grupo Inccosac"
+      ],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Organization",
+        "WebSite",
+        "CollectionPage"
+      ],
+      "total_enlaces_internos": 14,
+      "enlaces_internos": [
+        "/productos/?f_category=tuberias-de-hierro-ductil",
+        "/inicio",
+        "/",
+        "/quienes-somos",
+        "/productos?f_category=productos-material-compuesto",
+        "/productos?f_category=tuberias-de-hierro-ductil",
+        "/productos?f_category=marcos-y-tapas-de-hierro-ductil",
+        "/productos?f_category=hidrantes-contra-incendios-de-hierro-ductil",
+        "/contacto",
+        "/productos/",
+        "/productos/?f_category=productos-material-compuesto%3Btuberias-de-hierro-ductil",
+        "/nosotros/",
+        "/tienda/",
+        "/cdn-cgi/l/email-protection"
+      ],
+      "bytes_html": 180097
+    },
+    {
+      "url": "https://inccosac.com/productos/?f_category=productos-material-compuesto%3Btuberias-de-hierro-ductil",
+      "http_status": 200,
+      "titulo": "Productos - Inccosac",
+      "meta_descripcion": "Productos Archive - Inccosac",
+      "canonica": "https://inccosac.com/productos/",
+      "idioma": "es",
+      "h1": [
+        "Grupo Inccosac"
+      ],
+      "h2": [
+        "Filtros",
+        "Marco y Tapa de Material Compuesto D400"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "Grupo Inccosac"
+      ],
+      "categorias": [
+        "Nuevos productos de Material Compuesto"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Organization",
+        "WebSite",
+        "CollectionPage"
+      ],
+      "total_enlaces_internos": 17,
+      "enlaces_internos": [
+        "/productos/?f_category=productos-material-compuesto%3Btuberias-de-hierro-ductil",
+        "/inicio",
+        "/",
+        "/quienes-somos",
+        "/productos?f_category=productos-material-compuesto",
+        "/productos?f_category=tuberias-de-hierro-ductil",
+        "/productos?f_category=marcos-y-tapas-de-hierro-ductil",
+        "/productos?f_category=hidrantes-contra-incendios-de-hierro-ductil",
+        "/contacto",
+        "/productos/",
+        "/productos/?f_category=tuberias-de-hierro-ductil",
+        "/productos/?f_category=productos-material-compuesto",
+        "/producto/marco-y-tapa-de-material-compuesto-d400/",
+        "/categoria-producto/productos-material-compuesto/",
+        "/nosotros/",
+        "/tienda/",
+        "/cdn-cgi/l/email-protection"
+      ],
+      "bytes_html": 191455
+    },
+    {
+      "url": "https://inccosac.com/productos/?f_category=productos-material-compuesto",
+      "http_status": 200,
+      "titulo": "Productos - Inccosac",
+      "meta_descripcion": "Productos Archive - Inccosac",
+      "canonica": "https://inccosac.com/productos/",
+      "idioma": "es",
+      "h1": [
+        "Grupo Inccosac"
+      ],
+      "h2": [
+        "Filtros",
+        "Marco y Tapa de Material Compuesto D400"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "Grupo Inccosac"
+      ],
+      "categorias": [
+        "Nuevos productos de Material Compuesto"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Organization",
+        "WebSite",
+        "CollectionPage"
+      ],
+      "total_enlaces_internos": 15,
+      "enlaces_internos": [
+        "/productos/?f_category=productos-material-compuesto",
+        "/inicio",
+        "/",
+        "/quienes-somos",
+        "/productos?f_category=productos-material-compuesto",
+        "/productos?f_category=tuberias-de-hierro-ductil",
+        "/productos?f_category=marcos-y-tapas-de-hierro-ductil",
+        "/productos?f_category=hidrantes-contra-incendios-de-hierro-ductil",
+        "/contacto",
+        "/productos/",
+        "/producto/marco-y-tapa-de-material-compuesto-d400/",
+        "/categoria-producto/productos-material-compuesto/",
+        "/nosotros/",
+        "/tienda/",
+        "/cdn-cgi/l/email-protection"
+      ],
+      "bytes_html": 190731
+    },
+    {
+      "url": "https://inccosac.com/productos?f_category=marcos-y-tapas-de-hierro-ductil",
+      "http_status": 200,
+      "titulo": "Productos - Inccosac",
+      "meta_descripcion": "Productos Archive - Inccosac",
+      "canonica": "https://inccosac.com/productos/",
+      "idioma": "es",
+      "h1": [
+        "Grupo Inccosac"
+      ],
+      "h2": [
+        "Filtros"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Organization",
+        "WebSite",
+        "CollectionPage"
+      ],
+      "total_enlaces_internos": 14,
+      "enlaces_internos": [
+        "/productos?f_category=marcos-y-tapas-de-hierro-ductil",
+        "/inicio",
+        "/",
+        "/quienes-somos",
+        "/productos?f_category=productos-material-compuesto",
+        "/productos?f_category=tuberias-de-hierro-ductil",
+        "/productos?f_category=hidrantes-contra-incendios-de-hierro-ductil",
+        "/contacto",
+        "/productos/",
+        "/productos/?f_category=marcos-y-tapas-de-hierro-ductil",
+        "/productos/?f_category=marcos-y-tapas-de-hierro-ductil%3Bproductos-material-compuesto",
+        "/nosotros/",
+        "/tienda/",
+        "/cdn-cgi/l/email-protection"
+      ],
+      "bytes_html": 180149
+    },
+    {
+      "url": "https://inccosac.com/productos/?f_category=marcos-y-tapas-de-hierro-ductil",
+      "http_status": 200,
+      "titulo": "Productos - Inccosac",
+      "meta_descripcion": "Productos Archive - Inccosac",
+      "canonica": "https://inccosac.com/productos/",
+      "idioma": "es",
+      "h1": [
+        "Grupo Inccosac"
+      ],
+      "h2": [
+        "Filtros"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "Grupo Inccosac"
+      ],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Organization",
+        "WebSite",
+        "CollectionPage"
+      ],
+      "total_enlaces_internos": 14,
+      "enlaces_internos": [
+        "/productos/?f_category=marcos-y-tapas-de-hierro-ductil",
+        "/inicio",
+        "/",
+        "/quienes-somos",
+        "/productos?f_category=productos-material-compuesto",
+        "/productos?f_category=tuberias-de-hierro-ductil",
+        "/productos?f_category=marcos-y-tapas-de-hierro-ductil",
+        "/productos?f_category=hidrantes-contra-incendios-de-hierro-ductil",
+        "/contacto",
+        "/productos/",
+        "/productos/?f_category=marcos-y-tapas-de-hierro-ductil%3Bproductos-material-compuesto",
+        "/nosotros/",
+        "/tienda/",
+        "/cdn-cgi/l/email-protection"
+      ],
+      "bytes_html": 180149
+    },
+    {
+      "url": "https://inccosac.com/productos/?f_category=marcos-y-tapas-de-hierro-ductil%3Bproductos-material-compuesto",
+      "http_status": 200,
+      "titulo": "Productos - Inccosac",
+      "meta_descripcion": "Productos Archive - Inccosac",
+      "canonica": "https://inccosac.com/productos/",
+      "idioma": "es",
+      "h1": [
+        "Grupo Inccosac"
+      ],
+      "h2": [
+        "Filtros",
+        "Marco y Tapa de Material Compuesto D400"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "Grupo Inccosac"
+      ],
+      "categorias": [
+        "Nuevos productos de Material Compuesto"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Organization",
+        "WebSite",
+        "CollectionPage"
+      ],
+      "total_enlaces_internos": 17,
+      "enlaces_internos": [
+        "/productos/?f_category=marcos-y-tapas-de-hierro-ductil%3Bproductos-material-compuesto",
+        "/inicio",
+        "/",
+        "/quienes-somos",
+        "/productos?f_category=productos-material-compuesto",
+        "/productos?f_category=tuberias-de-hierro-ductil",
+        "/productos?f_category=marcos-y-tapas-de-hierro-ductil",
+        "/productos?f_category=hidrantes-contra-incendios-de-hierro-ductil",
+        "/contacto",
+        "/productos/",
+        "/productos/?f_category=productos-material-compuesto",
+        "/productos/?f_category=marcos-y-tapas-de-hierro-ductil",
+        "/producto/marco-y-tapa-de-material-compuesto-d400/",
+        "/categoria-producto/productos-material-compuesto/",
+        "/nosotros/",
+        "/tienda/",
+        "/cdn-cgi/l/email-protection"
+      ],
+      "bytes_html": 191513
+    },
+    {
+      "url": "https://inccosac.com/productos?f_category=hidrantes-contra-incendios-de-hierro-ductil",
+      "http_status": 200,
+      "titulo": "Productos - Inccosac",
+      "meta_descripcion": "Productos Archive - Inccosac",
+      "canonica": "https://inccosac.com/productos/",
+      "idioma": "es",
+      "h1": [
+        "Grupo Inccosac"
+      ],
+      "h2": [
+        "Filtros"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Organization",
+        "WebSite",
+        "CollectionPage"
+      ],
+      "total_enlaces_internos": 14,
+      "enlaces_internos": [
+        "/productos?f_category=hidrantes-contra-incendios-de-hierro-ductil",
+        "/inicio",
+        "/",
+        "/quienes-somos",
+        "/productos?f_category=productos-material-compuesto",
+        "/productos?f_category=tuberias-de-hierro-ductil",
+        "/productos?f_category=marcos-y-tapas-de-hierro-ductil",
+        "/contacto",
+        "/productos/",
+        "/productos/?f_category=hidrantes-contra-incendios-de-hierro-ductil",
+        "/productos/?f_category=hidrantes-contra-incendios-de-hierro-ductil%3Bproductos-material-compuesto",
+        "/nosotros/",
+        "/tienda/",
+        "/cdn-cgi/l/email-protection"
+      ],
+      "bytes_html": 180257
+    },
+    {
+      "url": "https://inccosac.com/productos/?f_category=hidrantes-contra-incendios-de-hierro-ductil",
+      "http_status": 200,
+      "titulo": "Productos - Inccosac",
+      "meta_descripcion": "Productos Archive - Inccosac",
+      "canonica": "https://inccosac.com/productos/",
+      "idioma": "es",
+      "h1": [
+        "Grupo Inccosac"
+      ],
+      "h2": [
+        "Filtros"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "Grupo Inccosac"
+      ],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Organization",
+        "WebSite",
+        "CollectionPage"
+      ],
+      "total_enlaces_internos": 14,
+      "enlaces_internos": [
+        "/productos/?f_category=hidrantes-contra-incendios-de-hierro-ductil",
+        "/inicio",
+        "/",
+        "/quienes-somos",
+        "/productos?f_category=productos-material-compuesto",
+        "/productos?f_category=tuberias-de-hierro-ductil",
+        "/productos?f_category=marcos-y-tapas-de-hierro-ductil",
+        "/productos?f_category=hidrantes-contra-incendios-de-hierro-ductil",
+        "/contacto",
+        "/productos/",
+        "/productos/?f_category=hidrantes-contra-incendios-de-hierro-ductil%3Bproductos-material-compuesto",
+        "/nosotros/",
+        "/tienda/",
+        "/cdn-cgi/l/email-protection"
+      ],
+      "bytes_html": 180257
+    },
+    {
+      "url": "https://inccosac.com/productos/?f_category=hidrantes-contra-incendios-de-hierro-ductil%3Bproductos-material-compuesto",
+      "http_status": 200,
+      "titulo": "Productos - Inccosac",
+      "meta_descripcion": "Productos Archive - Inccosac",
+      "canonica": "https://inccosac.com/productos/",
+      "idioma": "es",
+      "h1": [
+        "Grupo Inccosac"
+      ],
+      "h2": [
+        "Filtros",
+        "Marco y Tapa de Material Compuesto D400"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "Grupo Inccosac"
+      ],
+      "categorias": [
+        "Nuevos productos de Material Compuesto"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Organization",
+        "WebSite",
+        "CollectionPage"
+      ],
+      "total_enlaces_internos": 17,
+      "enlaces_internos": [
+        "/productos/?f_category=hidrantes-contra-incendios-de-hierro-ductil%3Bproductos-material-compuesto",
+        "/inicio",
+        "/",
+        "/quienes-somos",
+        "/productos?f_category=productos-material-compuesto",
+        "/productos?f_category=tuberias-de-hierro-ductil",
+        "/productos?f_category=marcos-y-tapas-de-hierro-ductil",
+        "/productos?f_category=hidrantes-contra-incendios-de-hierro-ductil",
+        "/contacto",
+        "/productos/",
+        "/productos/?f_category=productos-material-compuesto",
+        "/productos/?f_category=hidrantes-contra-incendios-de-hierro-ductil",
+        "/producto/marco-y-tapa-de-material-compuesto-d400/",
+        "/categoria-producto/productos-material-compuesto/",
+        "/nosotros/",
+        "/tienda/",
+        "/cdn-cgi/l/email-protection"
+      ],
+      "bytes_html": 191633
+    },
+    {
+      "url": "https://inccosac.com/quienes-somos/",
+      "http_status": 200,
+      "titulo": "Quiénes Somos | Inccosac Proveedor de SEDAPAL en Perú",
+      "meta_descripcion": "Inccosac, proveedor de SEDAPAL y fabricante certificado ISO 9001, 14001 y 45001 de productos para agua potable y saneamiento. Conócenos.",
+      "canonica": "https://inccosac.com/quienes-somos",
+      "idioma": "es",
+      "h1": [
+        "Grupo Inccosac"
+      ],
+      "h2": [
+        "Somos",
+        "Fabricante y proveedor de SEDAPAL en el Perú",
+        "Empresa Certificada",
+        "Misión",
+        "Visión",
+        "Adicionalmente, en grupo inccosac",
+        "Ofrecemos asesoramiento especializado constante en todo su proceso de compra hasta su posterior despacho para una buena elección"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ISO 9001"
+      ],
+      "tipos_jsonld": [
+        "Organization",
+        "ImageObject",
+        "WebSite",
+        "WebPage",
+        "Person",
+        "Article"
+      ],
+      "total_enlaces_internos": 12,
+      "enlaces_internos": [
+        "/quienes-somos/",
+        "/inicio",
+        "/",
+        "/quienes-somos",
+        "/productos?f_category=productos-material-compuesto",
+        "/productos?f_category=tuberias-de-hierro-ductil",
+        "/productos?f_category=marcos-y-tapas-de-hierro-ductil",
+        "/productos?f_category=hidrantes-contra-incendios-de-hierro-ductil",
+        "/contacto",
+        "/cdn-cgi/l/email-protection",
+        "/nosotros/",
+        "/tienda/"
+      ],
+      "bytes_html": 260202
+    },
+    {
+      "url": "https://inccosac.com/contacto/",
+      "http_status": 200,
+      "titulo": "Contacto | Inccosac - Saneamiento en Lima Perú",
+      "meta_descripcion": "Contacta a Grupo Inccosac en Lima: WhatsApp, correo y ubicación en Puente Piedra. Cotiza productos para saneamiento y alcantarillado.",
+      "canonica": "https://inccosac.com/contacto/",
+      "idioma": "es",
+      "h1": [
+        "Grupo Inccosac"
+      ],
+      "h2": [
+        "Comunicate",
+        "CON NOSOTROS"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Organization",
+        "ImageObject",
+        "WebSite",
+        "WebPage",
+        "Person",
+        "Article"
+      ],
+      "total_enlaces_internos": 12,
+      "enlaces_internos": [
+        "/contacto/",
+        "/inicio",
+        "/",
+        "/quienes-somos",
+        "/productos?f_category=productos-material-compuesto",
+        "/productos?f_category=tuberias-de-hierro-ductil",
+        "/productos?f_category=marcos-y-tapas-de-hierro-ductil",
+        "/productos?f_category=hidrantes-contra-incendios-de-hierro-ductil",
+        "/contacto",
+        "/cdn-cgi/l/email-protection",
+        "/nosotros/",
+        "/tienda/"
+      ],
+      "bytes_html": 206261
+    },
+    {
+      "url": "https://inccosac.com/nosotros/",
+      "http_status": 404
+    },
+    {
+      "url": "https://inccosac.com/objetivos-del-sig/",
+      "http_status": 404
+    },
+    {
+      "url": "https://inccosac.com/cdn-cgi/l/email-protection",
+      "http_status": 404
+    },
+    {
+      "url": "https://inccosac.com/productos?f_category=productos-material-compuesto",
+      "http_status": 200,
+      "titulo": "Productos - Inccosac",
+      "meta_descripcion": "Productos Archive - Inccosac",
+      "canonica": "https://inccosac.com/productos/",
+      "idioma": "es",
+      "h1": [
+        "Grupo Inccosac"
+      ],
+      "h2": [
+        "Filtros",
+        "Marco y Tapa de Material Compuesto D400"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [
+        "Nuevos productos de Material Compuesto"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "Organization",
+        "WebSite",
+        "CollectionPage"
+      ],
+      "total_enlaces_internos": 15,
+      "enlaces_internos": [
+        "/productos?f_category=productos-material-compuesto",
+        "/inicio",
+        "/",
+        "/quienes-somos",
+        "/productos?f_category=tuberias-de-hierro-ductil",
+        "/productos?f_category=marcos-y-tapas-de-hierro-ductil",
+        "/productos?f_category=hidrantes-contra-incendios-de-hierro-ductil",
+        "/contacto",
+        "/productos/",
+        "/productos/?f_category=productos-material-compuesto",
+        "/producto/marco-y-tapa-de-material-compuesto-d400/",
+        "/categoria-producto/productos-material-compuesto/",
+        "/nosotros/",
+        "/tienda/",
+        "/cdn-cgi/l/email-protection"
+      ],
+      "bytes_html": 190731
+    },
+    {
+      "url": "https://inccosac.com/politica-del-sig/",
+      "http_status": 404
+    }
+  ]
+}

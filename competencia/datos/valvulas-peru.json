@@ -1,0 +1,37 @@
+{
+  "url_inicial": "https://valvulasperu.pe/",
+  "host": "valvulasperu.pe",
+  "esquema": "https",
+  "user_agent": "FundigsacMarketResearch/1.0",
+  "fecha_utc": "2026-11-09T17:29:16+00:00",
+  "estado": "error",
+  "motivo": "No se pudo leer robots.txt: DNSError",
+  "limites": {
+    "max_paginas": 40,
+    "intervalo_segundos": 3.0
+  },
+  "robots": {},
+  "solicitudes_http": 1,
+  "paginas_solicitadas": 0,
+  "paginas_con_datos": 0,
+  "truncado_por_tiempo": false,
+  "pendientes_sin_visitar": 0,
+  "omitidas_por_robots": [],
+  "redirecciones_externas": [],
+  "duracion_segundos": 0.0,
+  "resumen": {
+    "productos": [],
+    "categorias": [],
+    "normas_citadas": [],
+    "tipos_jsonld": {},
+    "secciones": {},
+    "documentos_enlazados": [],
+    "contacto_empresa": {
+      "nombres": [],
+      "telefonos": [],
+      "correos": [],
+      "direcciones": []
+    }
+  },
+  "paginas": []
+}

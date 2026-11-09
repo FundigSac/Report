@@ -1,0 +1,2838 @@
+{
+  "url_inicial": "https://citalyperu.com/",
+  "host": "citalyperu.com",
+  "esquema": "https",
+  "user_agent": "FundigsacMarketResearch/1.0",
+  "fecha_utc": "2026-11-09T17:31:37+00:00",
+  "estado": "ok",
+  "motivo": "",
+  "limites": {
+    "max_paginas": 40,
+    "intervalo_segundos": 3.0
+  },
+  "robots": {
+    "url": "https://citalyperu.com/robots.txt",
+    "http_status": 200,
+    "presente": true,
+    "crawl_delay": null,
+    "sitemaps": [
+      "https://citalyperu.com/wp-sitemap.xml"
+    ]
+  },
+  "solicitudes_http": 41,
+  "paginas_solicitadas": 40,
+  "paginas_con_datos": 40,
+  "truncado_por_tiempo": false,
+  "pendientes_sin_visitar": 30,
+  "omitidas_por_robots": [],
+  "redirecciones_externas": [],
+  "duracion_segundos": 142.1,
+  "resumen": {
+    "productos": [
+      "válvula mariposa con palanca de hierro dúctil",
+      "válvula mariposa con timon de hierro dúctil",
+      "válvula compuerta tipo luflex embone de hierro dúctil",
+      "válvula compuerta de hierro dúctil",
+      "Yee bridado",
+      "Cruz bridado",
+      "Válvula reductora de presión",
+      "Medidor de aguatipo WALTMAN",
+      "Válvula Esférica de Bronce Cromada",
+      "Válvula Compuerta C-italy PREMIUM",
+      "Unión Espiga de fierro Galvanizado",
+      "Niple Rosca Escama de fierro Galvanizado",
+      "válvula compuerta de hierro dúctil para tubería PVC",
+      "válvula compuerta tipo dado de hierro dúctil para tubería hdpe",
+      "Válvula Mariposa Con Palanca Con Brida Loca PVC",
+      "válvula reductora de hierro duçtil para tubería pvc",
+      "Válvula De Aire Triple Efecto",
+      "adaptador brida hierro dúctil para tubería PVC",
+      "adaptador brida de hierro dúctil para tubería HDPE",
+      "acerrojado de hierro dúctil",
+      "Acople 995 para tubería HDPE",
+      "Unión De Desmontaje Autoportante",
+      "Unión Dresser",
+      "Adaptador Rápido Para Tubería HDPE",
+      "Adaptador Brida Universal",
+      "Adaptador Brida Acerrojado Para Tubería HDPE",
+      "Medidor Chorro Único",
+      "Medidor Chorro Múltiple",
+      "Caño de Lavandería Doble Salida Bronce Cromado",
+      "Caño de Jardín Bronce Cromado",
+      "Caño De Jardín De Bronce",
+      "Válvula Flotador De Bronce",
+      "Válvula Check Canastilla Vertical",
+      "Válvula Compuerta de Bronce",
+      "Válvula Check Paleta de bronce",
+      "Válvula Esférica de Bronce",
+      "Hidrante Cuerpo Húmedo",
+      "Marco y Tapa De Buzón D400 Con Doble Seguro",
+      "Niple Bridado Hierro Dúctil",
+      "Reducción Bridada Hierro Dúctil",
+      "Codo 90° Bridado Hierro Dúctil",
+      "Codo 45° Bridado Hierro Dúctil",
+      "Tee Bridada Hierro Dúctil",
+      "Tee Con Reducción Bridado Hierro Dúctil",
+      "Válvula Check Paleta de bronce Nacional 🇵🇪",
+      "Tubería HDPE Línea Roja",
+      "Tubería HDPE Línea Azul",
+      "Tee HDPE Exclusivo C-italy",
+      "Reducción HDPE Exclusivo C-italy",
+      "Codo 45° HDPE Exclusivo C-italy",
+      "Codo 90° HDPE Exclusivo C-italy"
+    ],
+    "categorias": [
+      "Ver válvulas",
+      "Accesorios",
+      "Medidores",
+      "Válvulas",
+      "Linea Bronce",
+      "Línea Bronce",
+      "Hidrantes",
+      "Marcos Y Tapas",
+      "Línea de Bronce",
+      "Añadir al carrito",
+      "Inicio",
+      "Válvulas Hierro Dúctil",
+      "válvula mariposa con palanca de hierro dúctil",
+      "válvula mariposa con timon de hierro dúctil",
+      "válvula compuerta tipo luflex embone de hierro dúctil",
+      "válvula compuerta de hierro dúctil",
+      "Conexiones Hierro Dúctil",
+      "Yee bridado",
+      "Cruz bridado",
+      "Válvula reductora de presión",
+      "Medidor de aguatipo WALTMAN",
+      "Válvula Esférica de Bronce Cromada",
+      "Válvula Compuerta C-italy PREMIUM",
+      "Fierro Galvanizado",
+      "Unión Espiga de fierro Galvanizado",
+      "Niple Rosca Escama de fierro Galvanizado",
+      "válvula compuerta de hierro dúctil para tubería PVC",
+      "válvula compuerta tipo dado de hierro dúctil para tubería hdpe",
+      "Válvula Mariposa Con Palanca Con Brida Loca PVC",
+      "válvula reductora de hierro duçtil para tubería pvc",
+      "Válvula De Aire Triple Efecto",
+      "Accesorios Hierro Dúctil",
+      "adaptador brida hierro dúctil para tubería PVC",
+      "adaptador brida de hierro dúctil para tubería HDPE",
+      "acerrojado de hierro dúctil",
+      "Acople 995 para tubería HDPE",
+      "Unión De Desmontaje Autoportante",
+      "Unión Dresser",
+      "Adaptador Rápido Para Tubería HDPE",
+      "Adaptador Brida Universal"
+    ],
+    "normas_citadas": [],
+    "tipos_jsonld": {
+      "BreadcrumbList": 26,
+      "ListItem": 26
+    },
+    "secciones": {
+      "product": 26,
+      "product-category": 8,
+      "shop": 5,
+      "/": 1
+    },
+    "documentos_enlazados": [
+      "https://citalyperu.com/wp-content/uploads/2026/05/FICHA-TECNICA-VALVULA-TIPO-LUFLEX-ORII.pdf",
+      "https://citalyperu.com/wp-content/uploads/2026/05/FICHA-TECNICA-UNION-DRESSER-GRAN-RANGO-ACTUALIZADA.pdf"
+    ],
+    "contacto_empresa": {
+      "nombres": [],
+      "telefonos": [],
+      "correos": [],
+      "direcciones": []
+    }
+  },
+  "paginas": [
+    {
+      "url": "https://citalyperu.com/",
+      "http_status": 200,
+      "titulo": "CITALY – Somos importadores de productos de la más alta calidad como válvulas industriales, tuberías y conexiones para sistema de saneamiento y alcantarillado, tuberías y conexiones en PVC, marcos y tapas y mucho más.",
+      "meta_descripcion": "",
+      "canonica": "https://citalyperu.com/",
+      "idioma": "es",
+      "h1": [
+        "Válvulas De Hierro Dúctil"
+      ],
+      "h2": [
+        "válvula mariposa con palanca de hierro dúctil",
+        "válvula mariposa con timon de hierro dúctil",
+        "válvula compuerta tipo luflex embone de hierro dúctil",
+        "válvula compuerta de hierro dúctil",
+        "Somos especialistas en Válvulas Industriales",
+        "Últimos productos",
+        "Yee bridado",
+        "Cruz bridado",
+        "Válvula reductora de presión",
+        "Medidor de aguatipo WALTMAN",
+        "Válvula Esférica de Bronce Cromada",
+        "Válvula Compuerta C-italy PREMIUM",
+        "Unión Espiga de fierro Galvanizado",
+        "Niple Rosca Escama de fierro Galvanizado",
+        "Somos C-Italy",
+        "Servicio integral para la gestión de proyectos",
+        "Comentarios y reseñas de clientes."
+      ],
+      "es_ficha_producto": false,
+      "productos": [
+        "válvula mariposa con palanca de hierro dúctil",
+        "válvula mariposa con timon de hierro dúctil",
+        "válvula compuerta tipo luflex embone de hierro dúctil",
+        "válvula compuerta de hierro dúctil",
+        "Yee bridado",
+        "Cruz bridado",
+        "Válvula reductora de presión",
+        "Medidor de aguatipo WALTMAN",
+        "Válvula Esférica de Bronce Cromada",
+        "Válvula Compuerta C-italy PREMIUM",
+        "Unión Espiga de fierro Galvanizado",
+        "Niple Rosca Escama de fierro Galvanizado"
+      ],
+      "categorias": [
+        "Ver válvulas",
+        "Accesorios",
+        "Medidores",
+        "Válvulas",
+        "Linea Bronce"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 24,
+      "enlaces_internos": [
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/valvulas-hierro-ductil/",
+        "/product-category/accesorios-hierro-ductil/",
+        "/product-category/medidores/",
+        "/product-category/linea-de-bronce/",
+        "/product/valvula-mariposa-con-palanca/",
+        "/?add-to-cart=254",
+        "/product/valvula-mariposa-con-timon/",
+        "/?add-to-cart=253",
+        "/product/valvula-compuerta-tipo-luflex-embone/",
+        "/?add-to-cart=231",
+        "/product/valvula-compuerta-bridada/",
+        "/?add-to-cart=191",
+        "/product/yee-bridado/",
+        "/product/cruz-bridado/",
+        "/product/valvula-reductora-de-presion-2/",
+        "/product/medidor-de-aguatipo-waltman/",
+        "/product/valvula-esferica-de-bronce-cromada-copia/",
+        "/product/valvula-compuerta-c-italy-premium/",
+        "/product/union-espiga-de-fierro-galvanizado/",
+        "/product/niple-rosca-escama-de-fierro-galvanizado/"
+      ],
+      "bytes_html": 195429
+    },
+    {
+      "url": "https://citalyperu.com/product-category/valvulas-hierro-ductil/",
+      "http_status": 200,
+      "titulo": "Válvulas Hierro Dúctil – CITALY",
+      "meta_descripcion": "",
+      "canonica": "",
+      "idioma": "es",
+      "h1": [
+        "Válvulas Hierro Dúctil"
+      ],
+      "h2": [
+        "Válvula reductora de presión",
+        "Válvula Compuerta C-italy PREMIUM",
+        "válvula compuerta de hierro dúctil para tubería PVC",
+        "válvula compuerta tipo dado de hierro dúctil para tubería hdpe",
+        "Válvula Mariposa Con Palanca Con Brida Loca PVC",
+        "válvula mariposa con palanca de hierro dúctil",
+        "válvula mariposa con timon de hierro dúctil",
+        "válvula reductora de hierro duçtil para tubería pvc",
+        "Válvula De Aire Triple Efecto",
+        "válvula compuerta tipo luflex embone de hierro dúctil",
+        "válvula compuerta de hierro dúctil",
+        "Discount up to 35% for first purchase only this month.",
+        "Comentarios y reseñas de clientes."
+      ],
+      "es_ficha_producto": false,
+      "productos": [
+        "Válvula reductora de presión",
+        "Válvula Compuerta C-italy PREMIUM",
+        "válvula compuerta de hierro dúctil para tubería PVC",
+        "válvula compuerta tipo dado de hierro dúctil para tubería hdpe",
+        "Válvula Mariposa Con Palanca Con Brida Loca PVC",
+        "válvula mariposa con palanca de hierro dúctil",
+        "válvula mariposa con timon de hierro dúctil",
+        "válvula reductora de hierro duçtil para tubería pvc",
+        "Válvula De Aire Triple Efecto",
+        "válvula compuerta tipo luflex embone de hierro dúctil",
+        "válvula compuerta de hierro dúctil"
+      ],
+      "categorias": [
+        "Accesorios",
+        "Medidores",
+        "Válvulas",
+        "Línea Bronce",
+        "Hidrantes",
+        "Marcos Y Tapas",
+        "Línea de Bronce",
+        "Añadir al carrito"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 28,
+      "enlaces_internos": [
+        "/product-category/valvulas-hierro-ductil/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/accesorios-hierro-ductil/",
+        "/product-category/medidores/",
+        "/product-category/linea-de-bronce/",
+        "/product-category/hidrantes/",
+        "/product-category/marcos-y-tapas/",
+        "/product/valvula-reductora-de-presion-2/",
+        "/product/valvula-compuerta-c-italy-premium/",
+        "/product/valvula-compuerta-de-hierro-ductil-para-tuberia-pvc/",
+        "/product-category/valvulas-hierro-ductil/?add-to-cart=602",
+        "/product/valvula-compuerta-tipo-dado-de-hierro-ductil-para-tuberia-hdpe/",
+        "/product-category/valvulas-hierro-ductil/?add-to-cart=589",
+        "/product/valvula-mariposa-con-palanca-con-brida-loca-pvc/",
+        "/product/valvula-mariposa-con-palanca/",
+        "/product-category/valvulas-hierro-ductil/?add-to-cart=254",
+        "/product/valvula-mariposa-con-timon/",
+        "/product-category/valvulas-hierro-ductil/?add-to-cart=253",
+        "/product/valvula-reductora-de-presion/",
+        "/product-category/valvulas-hierro-ductil/?add-to-cart=233",
+        "/product/valvula-de-aire-triple-efecto/",
+        "/product/valvula-compuerta-tipo-luflex-embone/",
+        "/product-category/valvulas-hierro-ductil/?add-to-cart=231",
+        "/product/valvula-compuerta-bridada/",
+        "/product-category/valvulas-hierro-ductil/?add-to-cart=191"
+      ],
+      "bytes_html": 164636
+    },
+    {
+      "url": "https://citalyperu.com/product-category/accesorios-hierro-ductil/",
+      "http_status": 200,
+      "titulo": "Accesorios Hierro Dúctil – CITALY",
+      "meta_descripcion": "",
+      "canonica": "",
+      "idioma": "es",
+      "h1": [
+        "Accesorios Hierro Dúctil"
+      ],
+      "h2": [
+        "adaptador brida hierro dúctil para tubería PVC",
+        "adaptador brida de hierro dúctil para tubería HDPE",
+        "acerrojado de hierro dúctil",
+        "Acople 995 para tubería HDPE",
+        "Unión De Desmontaje Autoportante",
+        "Unión Dresser",
+        "Adaptador Rápido Para Tubería HDPE",
+        "Adaptador Brida Universal",
+        "Adaptador Brida Acerrojado Para Tubería HDPE",
+        "Discount up to 35% for first purchase only this month.",
+        "Comentarios y reseñas de clientes."
+      ],
+      "es_ficha_producto": false,
+      "productos": [
+        "adaptador brida hierro dúctil para tubería PVC",
+        "adaptador brida de hierro dúctil para tubería HDPE",
+        "acerrojado de hierro dúctil",
+        "Acople 995 para tubería HDPE",
+        "Unión De Desmontaje Autoportante",
+        "Unión Dresser",
+        "Adaptador Rápido Para Tubería HDPE",
+        "Adaptador Brida Universal",
+        "Adaptador Brida Acerrojado Para Tubería HDPE"
+      ],
+      "categorias": [
+        "Accesorios",
+        "Medidores",
+        "Válvulas",
+        "Línea Bronce",
+        "Hidrantes",
+        "Marcos Y Tapas",
+        "Línea de Bronce",
+        "Añadir al carrito"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 25,
+      "enlaces_internos": [
+        "/product-category/accesorios-hierro-ductil/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/medidores/",
+        "/product-category/valvulas-hierro-ductil/",
+        "/product-category/linea-de-bronce/",
+        "/product-category/hidrantes/",
+        "/product-category/marcos-y-tapas/",
+        "/product/adaptador-brida-hierro-ductil-para-tuberia-pvc/",
+        "/product-category/accesorios-hierro-ductil/?add-to-cart=599",
+        "/product/adaptador-brida-de-hierro-ductil-para-tuberia-hdpe-2/",
+        "/product-category/accesorios-hierro-ductil/?add-to-cart=597",
+        "/product/acerrojado-de-hierro-ductil/",
+        "/product-category/accesorios-hierro-ductil/?add-to-cart=595",
+        "/product/adaptador-brida-de-hierro-ductil-para-tuberia-hdpe/",
+        "/product-category/accesorios-hierro-ductil/?add-to-cart=593",
+        "/product/acople-995-para-tuberia-hdpe/",
+        "/product/union-de-desmontaje-autoportante/",
+        "/product/union-dresser/",
+        "/product-category/accesorios-hierro-ductil/?add-to-cart=415",
+        "/product/adaptador-rapido-para-tuberia-hdpe/",
+        "/product/adaptador-brida-universal/",
+        "/product/adaptador-brida-acerrojado-para-tuberia-hdpe/"
+      ],
+      "bytes_html": 160345
+    },
+    {
+      "url": "https://citalyperu.com/product-category/medidores/",
+      "http_status": 200,
+      "titulo": "Medidores – CITALY",
+      "meta_descripcion": "",
+      "canonica": "",
+      "idioma": "es",
+      "h1": [
+        "Medidores"
+      ],
+      "h2": [
+        "Medidor de aguatipo WALTMAN",
+        "Medidor Chorro Único",
+        "Medidor Chorro Múltiple",
+        "Discount up to 35% for first purchase only this month.",
+        "Comentarios y reseñas de clientes."
+      ],
+      "es_ficha_producto": false,
+      "productos": [
+        "Medidor de aguatipo WALTMAN",
+        "Medidor Chorro Único",
+        "Medidor Chorro Múltiple"
+      ],
+      "categorias": [
+        "Accesorios",
+        "Medidores",
+        "Válvulas",
+        "Línea Bronce",
+        "Hidrantes",
+        "Marcos Y Tapas",
+        "Línea de Bronce"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 13,
+      "enlaces_internos": [
+        "/product-category/medidores/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/accesorios-hierro-ductil/",
+        "/product-category/valvulas-hierro-ductil/",
+        "/product-category/linea-de-bronce/",
+        "/product-category/hidrantes/",
+        "/product-category/marcos-y-tapas/",
+        "/product/medidor-de-aguatipo-waltman/",
+        "/product/medidor-chorro-unico/",
+        "/product/medidor-chorro-multiple/"
+      ],
+      "bytes_html": 145416
+    },
+    {
+      "url": "https://citalyperu.com/product-category/linea-de-bronce/",
+      "http_status": 200,
+      "titulo": "Línea de Bronce – CITALY",
+      "meta_descripcion": "",
+      "canonica": "",
+      "idioma": "es",
+      "h1": [
+        "Línea de Bronce"
+      ],
+      "h2": [
+        "Válvula Esférica de Bronce Cromada",
+        "Caño de Lavandería Doble Salida Bronce Cromado",
+        "Caño de Jardín Bronce Cromado",
+        "Caño De Jardín De Bronce",
+        "Válvula Flotador De Bronce",
+        "Válvula Check Canastilla Vertical",
+        "Válvula Compuerta de Bronce",
+        "Válvula Check Paleta de bronce",
+        "Válvula Esférica de Bronce",
+        "Discount up to 35% for first purchase only this month.",
+        "Comentarios y reseñas de clientes."
+      ],
+      "es_ficha_producto": false,
+      "productos": [
+        "Válvula Esférica de Bronce Cromada",
+        "Caño de Lavandería Doble Salida Bronce Cromado",
+        "Caño de Jardín Bronce Cromado",
+        "Caño De Jardín De Bronce",
+        "Válvula Flotador De Bronce",
+        "Válvula Check Canastilla Vertical",
+        "Válvula Compuerta de Bronce",
+        "Válvula Check Paleta de bronce",
+        "Válvula Esférica de Bronce"
+      ],
+      "categorias": [
+        "Accesorios",
+        "Medidores",
+        "Válvulas",
+        "Línea Bronce",
+        "Hidrantes",
+        "Marcos Y Tapas",
+        "Línea de Bronce"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 20,
+      "enlaces_internos": [
+        "/product-category/linea-de-bronce/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/accesorios-hierro-ductil/",
+        "/product-category/medidores/",
+        "/product-category/valvulas-hierro-ductil/",
+        "/product-category/hidrantes/",
+        "/product-category/marcos-y-tapas/",
+        "/product/valvula-esferica-de-bronce-cromada-copia/",
+        "/product/valvula-esferica-de-bronce-cromada/",
+        "/product/cano-de-lavanderia-doble-salida-bronce-cromado/",
+        "/product/cano-de-jardin-bronce-cromado/",
+        "/product/cano-de-jardin-de-bronce/",
+        "/product/valvula-flotador-de-bronce/",
+        "/product/valvula-check-canastilla-vertical/",
+        "/product/valvula-compuerta-de-bronce/",
+        "/product/valvula-check-paleta-de-bronce/",
+        "/product/valvula-esferica-de-bronce/"
+      ],
+      "bytes_html": 159206
+    },
+    {
+      "url": "https://citalyperu.com/product-category/hidrantes/",
+      "http_status": 200,
+      "titulo": "Hidrantes – CITALY",
+      "meta_descripcion": "",
+      "canonica": "",
+      "idioma": "es",
+      "h1": [
+        "Hidrantes"
+      ],
+      "h2": [
+        "Hidrante Cuerpo Húmedo",
+        "Discount up to 35% for first purchase only this month.",
+        "Comentarios y reseñas de clientes."
+      ],
+      "es_ficha_producto": false,
+      "productos": [
+        "Hidrante Cuerpo Húmedo"
+      ],
+      "categorias": [
+        "Accesorios",
+        "Medidores",
+        "Válvulas",
+        "Línea Bronce",
+        "Hidrantes",
+        "Marcos Y Tapas",
+        "Línea de Bronce"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 11,
+      "enlaces_internos": [
+        "/product-category/hidrantes/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/accesorios-hierro-ductil/",
+        "/product-category/medidores/",
+        "/product-category/valvulas-hierro-ductil/",
+        "/product-category/linea-de-bronce/",
+        "/product-category/marcos-y-tapas/",
+        "/product/hidrante-cuerpo-humedo/"
+      ],
+      "bytes_html": 141347
+    },
+    {
+      "url": "https://citalyperu.com/product-category/marcos-y-tapas/",
+      "http_status": 200,
+      "titulo": "Marcos Y Tapas – CITALY",
+      "meta_descripcion": "",
+      "canonica": "",
+      "idioma": "es",
+      "h1": [
+        "Marcos Y Tapas"
+      ],
+      "h2": [
+        "Marco y Tapa De Buzón D400 Con Doble Seguro",
+        "Discount up to 35% for first purchase only this month.",
+        "Comentarios y reseñas de clientes."
+      ],
+      "es_ficha_producto": false,
+      "productos": [
+        "Marco y Tapa De Buzón D400 Con Doble Seguro"
+      ],
+      "categorias": [
+        "Accesorios",
+        "Medidores",
+        "Válvulas",
+        "Línea Bronce",
+        "Hidrantes",
+        "Marcos Y Tapas",
+        "Línea de Bronce"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 11,
+      "enlaces_internos": [
+        "/product-category/marcos-y-tapas/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/accesorios-hierro-ductil/",
+        "/product-category/medidores/",
+        "/product-category/valvulas-hierro-ductil/",
+        "/product-category/linea-de-bronce/",
+        "/product-category/hidrantes/",
+        "/product/marco-y-tapa-de-buzon-d400-con-doble-seguro/"
+      ],
+      "bytes_html": 141668
+    },
+    {
+      "url": "https://citalyperu.com/product/valvula-mariposa-con-palanca/",
+      "http_status": 200,
+      "titulo": "válvula mariposa con palanca de hierro dúctil – CITALY",
+      "meta_descripcion": "La válvula mariposa con palanca de hierro dúctil de Citaly ofrece un control de flujo eficiente y confiable para aplicaciones industriales. Ideal para sistemas de agua potable, saneamiento y otros entornos industriales, garantizando durabilidad y facilidad de operación manual.",
+      "canonica": "https://citalyperu.com/product/valvula-mariposa-con-palanca/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "válvula mariposa con palanca de hierro dúctil",
+        "Descripción",
+        "Productos relacionados",
+        "Válvula reductora de presión",
+        "válvula mariposa con timon de hierro dúctil",
+        "válvula reductora de hierro duçtil para tubería pvc",
+        "Válvula De Aire Triple Efecto"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "válvula mariposa con palanca de hierro dúctil",
+        "Válvula reductora de presión",
+        "válvula mariposa con timon de hierro dúctil",
+        "válvula reductora de hierro duçtil para tubería pvc",
+        "Válvula De Aire Triple Efecto"
+      ],
+      "categorias": [
+        "Inicio",
+        "Válvulas Hierro Dúctil",
+        "válvula mariposa con palanca de hierro dúctil"
+      ],
+      "especificaciones": [
+        {
+          "atributo": "Tamaños disponibles",
+          "valor": "DN50 a DN1200."
+        },
+        {
+          "atributo": "Presión nominal",
+          "valor": "PN10, PN16."
+        },
+        {
+          "atributo": "Temperatura de operación",
+          "valor": "-10°C a +80°C."
+        },
+        {
+          "atributo": "Sistemas de Agua Potable",
+          "valor": "Control eficiente del flujo en redes urbanas y rurales."
+        },
+        {
+          "atributo": "Redes de Saneamiento",
+          "valor": "Regulación del flujo en sistemas de tratamiento y distribución de aguas residuales."
+        },
+        {
+          "atributo": "Procesos Industriales",
+          "valor": "Gestión del flujo en diversas aplicaciones industriales, incluyendo químicos y manufactura."
+        },
+        {
+          "atributo": "Sistemas de Riego",
+          "valor": "Control preciso del flujo para aplicaciones agrícolas."
+        }
+      ],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "BreadcrumbList",
+        "ListItem"
+      ],
+      "total_enlaces_internos": 13,
+      "enlaces_internos": [
+        "/product/valvula-mariposa-con-palanca/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/valvulas-hierro-ductil/",
+        "/wp-content/uploads/2024/06/6-1.jpg",
+        "/product/valvula-reductora-de-presion-2/",
+        "/product/valvula-mariposa-con-timon/",
+        "/product/valvula-mariposa-con-palanca/?add-to-cart=253",
+        "/product/valvula-reductora-de-presion/",
+        "/product/valvula-mariposa-con-palanca/?add-to-cart=233",
+        "/product/valvula-de-aire-triple-efecto/"
+      ],
+      "bytes_html": 117471
+    },
+    {
+      "url": "https://citalyperu.com/product/valvula-mariposa-con-timon/",
+      "http_status": 200,
+      "titulo": "válvula mariposa con timon de hierro dúctil – CITALY",
+      "meta_descripcion": "La válvula mariposa con timón de hierro dúctil de Citaly proporciona un control de flujo eficiente y preciso en sistemas industriales. Ideal para aplicaciones en agua potable, saneamiento y sectores industriales, garantizando durabilidad y facilidad de operación.",
+      "canonica": "https://citalyperu.com/product/valvula-mariposa-con-timon/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "válvula mariposa con timon de hierro dúctil",
+        "Descripción",
+        "Productos relacionados",
+        "Válvula Compuerta C-italy PREMIUM",
+        "Válvula Mariposa Con Palanca Con Brida Loca PVC",
+        "válvula compuerta tipo luflex embone de hierro dúctil",
+        "válvula compuerta de hierro dúctil"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "válvula mariposa con timon de hierro dúctil",
+        "Válvula Compuerta C-italy PREMIUM",
+        "Válvula Mariposa Con Palanca Con Brida Loca PVC",
+        "válvula compuerta tipo luflex embone de hierro dúctil",
+        "válvula compuerta de hierro dúctil"
+      ],
+      "categorias": [
+        "Inicio",
+        "Válvulas Hierro Dúctil",
+        "válvula mariposa con timon de hierro dúctil"
+      ],
+      "especificaciones": [
+        {
+          "atributo": "Tamaños disponibles",
+          "valor": "DN50 a DN1200."
+        },
+        {
+          "atributo": "Presión nominal",
+          "valor": "PN10, PN16."
+        },
+        {
+          "atributo": "Temperatura de operación",
+          "valor": "-10°C a +80°C."
+        },
+        {
+          "atributo": "Sistemas de Agua Potable",
+          "valor": "Control eficiente del flujo en redes urbanas y rurales."
+        },
+        {
+          "atributo": "Redes de Saneamiento",
+          "valor": "Regulación del flujo en sistemas de tratamiento y distribución de aguas residuales."
+        },
+        {
+          "atributo": "Procesos Industriales",
+          "valor": "Gestión del flujo en diversas aplicaciones industriales, incluyendo químicos y manufactura."
+        },
+        {
+          "atributo": "Sistemas de Riego",
+          "valor": "Control preciso del flujo para aplicaciones agrícolas."
+        }
+      ],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "BreadcrumbList",
+        "ListItem"
+      ],
+      "total_enlaces_internos": 13,
+      "enlaces_internos": [
+        "/product/valvula-mariposa-con-timon/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/valvulas-hierro-ductil/",
+        "/wp-content/uploads/2024/06/5.jpg",
+        "/product/valvula-compuerta-c-italy-premium/",
+        "/product/valvula-mariposa-con-palanca-con-brida-loca-pvc/",
+        "/product/valvula-compuerta-tipo-luflex-embone/",
+        "/product/valvula-mariposa-con-timon/?add-to-cart=231",
+        "/product/valvula-compuerta-bridada/",
+        "/product/valvula-mariposa-con-timon/?add-to-cart=191"
+      ],
+      "bytes_html": 117949
+    },
+    {
+      "url": "https://citalyperu.com/product/valvula-compuerta-tipo-luflex-embone/",
+      "http_status": 200,
+      "titulo": "válvula compuerta tipo luflex embone de hierro dúctil – CITALY",
+      "meta_descripcion": "La válvula compuerta tipo Luflex embone de hierro dúctil de Citaly ofrece una solución eficiente y durable para el control de flujo en sistemas industriales. Ideal para aplicaciones en agua potable, saneamiento y sectores industriales. DESCARGAR FICHA TECNICA",
+      "canonica": "https://citalyperu.com/product/valvula-compuerta-tipo-luflex-embone/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "válvula compuerta tipo luflex embone de hierro dúctil",
+        "Descripción",
+        "Productos relacionados",
+        "Válvula Mariposa Con Palanca Con Brida Loca PVC",
+        "válvula mariposa con palanca de hierro dúctil",
+        "válvula reductora de hierro duçtil para tubería pvc",
+        "válvula compuerta de hierro dúctil"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "válvula compuerta tipo luflex embone de hierro dúctil",
+        "Válvula Mariposa Con Palanca Con Brida Loca PVC",
+        "válvula mariposa con palanca de hierro dúctil",
+        "válvula reductora de hierro duçtil para tubería pvc",
+        "válvula compuerta de hierro dúctil"
+      ],
+      "categorias": [
+        "Inicio",
+        "Válvulas Hierro Dúctil",
+        "válvula compuerta tipo luflex embone de hierro dúctil"
+      ],
+      "especificaciones": [
+        {
+          "atributo": "Tamaños disponibles",
+          "valor": "DN50 a DN600."
+        },
+        {
+          "atributo": "Presión nominal",
+          "valor": "PN10, PN16."
+        },
+        {
+          "atributo": "Temperatura de operación",
+          "valor": "-10°C a +80°C."
+        },
+        {
+          "atributo": "Sistemas de Agua Potable",
+          "valor": "Regulación eficiente del flujo en redes urbanas y rurales."
+        },
+        {
+          "atributo": "Redes de Saneamiento",
+          "valor": "Control eficaz del flujo de aguas residuales y sistemas de tratamiento."
+        },
+        {
+          "atributo": "Agricultura",
+          "valor": "Gestión del riego y distribución de agua para cultivos."
+        },
+        {
+          "atributo": "Sector Industrial",
+          "valor": "Aplicaciones diversas que requieren control de flujo preciso y confiable."
+        }
+      ],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "BreadcrumbList",
+        "ListItem"
+      ],
+      "total_enlaces_internos": 15,
+      "enlaces_internos": [
+        "/product/valvula-compuerta-tipo-luflex-embone/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/valvulas-hierro-ductil/",
+        "/wp-content/uploads/2024/06/VALVULA-EMBONE-LUFEX.png",
+        "/wp-content/uploads/2026/05/FICHA-TECNICA-VALVULA-TIPO-LUFLEX-ORII.pdf",
+        "/product/valvula-mariposa-con-palanca-con-brida-loca-pvc/",
+        "/product/valvula-mariposa-con-palanca/",
+        "/product/valvula-compuerta-tipo-luflex-embone/?add-to-cart=254",
+        "/product/valvula-reductora-de-presion/",
+        "/product/valvula-compuerta-tipo-luflex-embone/?add-to-cart=233",
+        "/product/valvula-compuerta-bridada/",
+        "/product/valvula-compuerta-tipo-luflex-embone/?add-to-cart=191"
+      ],
+      "bytes_html": 119016
+    },
+    {
+      "url": "https://citalyperu.com/product/valvula-compuerta-bridada/",
+      "http_status": 200,
+      "titulo": "válvula compuerta de hierro dúctil – CITALY",
+      "meta_descripcion": "",
+      "canonica": "https://citalyperu.com/product/valvula-compuerta-bridada/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "válvula compuerta de hierro dúctil",
+        "Descripción",
+        "Productos relacionados",
+        "Válvula reductora de presión",
+        "Válvula Compuerta C-italy PREMIUM",
+        "Válvula Mariposa Con Palanca Con Brida Loca PVC",
+        "Válvula De Aire Triple Efecto"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "válvula compuerta de hierro dúctil",
+        "Válvula reductora de presión",
+        "Válvula Compuerta C-italy PREMIUM",
+        "Válvula Mariposa Con Palanca Con Brida Loca PVC",
+        "Válvula De Aire Triple Efecto"
+      ],
+      "categorias": [
+        "Inicio",
+        "Válvulas Hierro Dúctil",
+        "válvula compuerta de hierro dúctil"
+      ],
+      "especificaciones": [
+        {
+          "atributo": "Tamaños disponibles",
+          "valor": "DN50 a DN600."
+        },
+        {
+          "atributo": "Presión nominal",
+          "valor": "PN10, PN16."
+        },
+        {
+          "atributo": "Temperatura de operación",
+          "valor": "-10°C a +80°C."
+        },
+        {
+          "atributo": "Sistemas de Agua Potable",
+          "valor": "Control y regulación del flujo de agua en redes urbanas y rurales."
+        },
+        {
+          "atributo": "Redes de Saneamiento",
+          "valor": "Gestión eficiente del flujo de aguas residuales y tratamientos."
+        },
+        {
+          "atributo": "Minería",
+          "valor": "Operación segura y eficiente en sistemas de transporte de agua y fluidos."
+        },
+        {
+          "atributo": "Agricultura",
+          "valor": "Control de riego y distribución de agua para cultivos."
+        }
+      ],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "BreadcrumbList",
+        "ListItem"
+      ],
+      "total_enlaces_internos": 11,
+      "enlaces_internos": [
+        "/product/valvula-compuerta-bridada/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/valvulas-hierro-ductil/",
+        "/wp-content/uploads/2024/06/VALVULA-COMPUERTA.png",
+        "/product/valvula-reductora-de-presion-2/",
+        "/product/valvula-compuerta-c-italy-premium/",
+        "/product/valvula-mariposa-con-palanca-con-brida-loca-pvc/",
+        "/product/valvula-de-aire-triple-efecto/"
+      ],
+      "bytes_html": 116409
+    },
+    {
+      "url": "https://citalyperu.com/product/yee-bridado/",
+      "http_status": 200,
+      "titulo": "Yee bridado – CITALY",
+      "meta_descripcion": "",
+      "canonica": "https://citalyperu.com/product/yee-bridado/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "Yee bridado",
+        "Productos relacionados",
+        "Niple Bridado Hierro Dúctil",
+        "Reducción Bridada Hierro Dúctil",
+        "Codo 90° Bridado Hierro Dúctil",
+        "Codo 45° Bridado Hierro Dúctil"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "Yee bridado",
+        "Niple Bridado Hierro Dúctil",
+        "Reducción Bridada Hierro Dúctil",
+        "Codo 90° Bridado Hierro Dúctil",
+        "Codo 45° Bridado Hierro Dúctil"
+      ],
+      "categorias": [
+        "Inicio",
+        "Conexiones Hierro Dúctil",
+        "Yee bridado"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "BreadcrumbList",
+        "ListItem"
+      ],
+      "total_enlaces_internos": 11,
+      "enlaces_internos": [
+        "/product/yee-bridado/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/conexiones-hierro-ductil/",
+        "/wp-content/uploads/2024/07/YEE-BRIDADO.png",
+        "/product/niple-bridado-hierro-ductil/",
+        "/product/reduccion-bridada-hierro-ductil/",
+        "/product/codo-90-bridado-hierro-ductil/",
+        "/product/codo-45-bridado-hierro-ductil/"
+      ],
+      "bytes_html": 109883
+    },
+    {
+      "url": "https://citalyperu.com/product-category/conexiones-hierro-ductil/",
+      "http_status": 200,
+      "titulo": "Conexiones Hierro Dúctil – CITALY",
+      "meta_descripcion": "",
+      "canonica": "",
+      "idioma": "es",
+      "h1": [
+        "Conexiones Hierro Dúctil"
+      ],
+      "h2": [
+        "Yee bridado",
+        "Cruz bridado",
+        "Niple Bridado Hierro Dúctil",
+        "Reducción Bridada Hierro Dúctil",
+        "Tee Bridada Hierro Dúctil",
+        "Tee Con Reducción Bridado Hierro Dúctil",
+        "Codo 90° Bridado Hierro Dúctil",
+        "Codo 45° Bridado Hierro Dúctil",
+        "Discount up to 35% for first purchase only this month.",
+        "Comentarios y reseñas de clientes."
+      ],
+      "es_ficha_producto": false,
+      "productos": [
+        "Yee bridado",
+        "Cruz bridado",
+        "Niple Bridado Hierro Dúctil",
+        "Reducción Bridada Hierro Dúctil",
+        "Tee Bridada Hierro Dúctil",
+        "Tee Con Reducción Bridado Hierro Dúctil",
+        "Codo 90° Bridado Hierro Dúctil",
+        "Codo 45° Bridado Hierro Dúctil"
+      ],
+      "categorias": [
+        "Accesorios",
+        "Medidores",
+        "Válvulas",
+        "Línea Bronce",
+        "Hidrantes",
+        "Marcos Y Tapas",
+        "Línea de Bronce",
+        "Añadir al carrito"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 20,
+      "enlaces_internos": [
+        "/product-category/conexiones-hierro-ductil/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/accesorios-hierro-ductil/",
+        "/product-category/medidores/",
+        "/product-category/valvulas-hierro-ductil/",
+        "/product-category/linea-de-bronce/",
+        "/product-category/hidrantes/",
+        "/product-category/marcos-y-tapas/",
+        "/product/yee-bridado/",
+        "/product/cruz-bridado/",
+        "/product/niple-bridado-hierro-ductil/",
+        "/product/reduccion-bridada-hierro-ductil/",
+        "/product/tee-bridada-hierro-ductil/",
+        "/product-category/conexiones-hierro-ductil/?add-to-cart=408",
+        "/product/tee-con-reduccion-bridado-hierro-ductil/",
+        "/product/codo-90-bridado-hierro-ductil/",
+        "/product/codo-45-bridado-hierro-ductil/"
+      ],
+      "bytes_html": 154943
+    },
+    {
+      "url": "https://citalyperu.com/product/cruz-bridado/",
+      "http_status": 200,
+      "titulo": "Cruz bridado – CITALY",
+      "meta_descripcion": "",
+      "canonica": "https://citalyperu.com/product/cruz-bridado/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "Cruz bridado",
+        "Productos relacionados",
+        "Yee bridado",
+        "Tee Con Reducción Bridado Hierro Dúctil",
+        "Codo 90° Bridado Hierro Dúctil",
+        "Codo 45° Bridado Hierro Dúctil"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "Cruz bridado",
+        "Yee bridado",
+        "Tee Con Reducción Bridado Hierro Dúctil",
+        "Codo 90° Bridado Hierro Dúctil",
+        "Codo 45° Bridado Hierro Dúctil"
+      ],
+      "categorias": [
+        "Inicio",
+        "Conexiones Hierro Dúctil",
+        "Cruz bridado"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "BreadcrumbList",
+        "ListItem"
+      ],
+      "total_enlaces_internos": 11,
+      "enlaces_internos": [
+        "/product/cruz-bridado/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/conexiones-hierro-ductil/",
+        "/wp-content/uploads/2024/07/CRUZ-BRIDADO.png",
+        "/product/yee-bridado/",
+        "/product/tee-con-reduccion-bridado-hierro-ductil/",
+        "/product/codo-90-bridado-hierro-ductil/",
+        "/product/codo-45-bridado-hierro-ductil/"
+      ],
+      "bytes_html": 109878
+    },
+    {
+      "url": "https://citalyperu.com/product/valvula-reductora-de-presion-2/",
+      "http_status": 200,
+      "titulo": "Válvula reductora de presión – CITALY",
+      "meta_descripcion": "",
+      "canonica": "https://citalyperu.com/product/valvula-reductora-de-presion-2/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "Válvula reductora de presión",
+        "Productos relacionados",
+        "válvula compuerta tipo dado de hierro dúctil para tubería hdpe",
+        "Válvula Mariposa Con Palanca Con Brida Loca PVC",
+        "válvula reductora de hierro duçtil para tubería pvc",
+        "Válvula De Aire Triple Efecto"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "Válvula reductora de presión",
+        "válvula compuerta tipo dado de hierro dúctil para tubería hdpe",
+        "Válvula Mariposa Con Palanca Con Brida Loca PVC",
+        "válvula reductora de hierro duçtil para tubería pvc",
+        "Válvula De Aire Triple Efecto"
+      ],
+      "categorias": [
+        "Inicio",
+        "Válvulas Hierro Dúctil",
+        "Válvula reductora de presión"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "BreadcrumbList",
+        "ListItem"
+      ],
+      "total_enlaces_internos": 13,
+      "enlaces_internos": [
+        "/product/valvula-reductora-de-presion-2/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/valvulas-hierro-ductil/",
+        "/wp-content/uploads/2024/06/VALVULA-REDUCTORA-DE-PRESION.png",
+        "/product/valvula-compuerta-tipo-dado-de-hierro-ductil-para-tuberia-hdpe/",
+        "/product/valvula-reductora-de-presion-2/?add-to-cart=589",
+        "/product/valvula-mariposa-con-palanca-con-brida-loca-pvc/",
+        "/product/valvula-reductora-de-presion/",
+        "/product/valvula-reductora-de-presion-2/?add-to-cart=233",
+        "/product/valvula-de-aire-triple-efecto/"
+      ],
+      "bytes_html": 111552
+    },
+    {
+      "url": "https://citalyperu.com/product/medidor-de-aguatipo-waltman/",
+      "http_status": 200,
+      "titulo": "Medidor de aguatipo WALTMAN – CITALY",
+      "meta_descripcion": "",
+      "canonica": "https://citalyperu.com/product/medidor-de-aguatipo-waltman/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "Medidor de aguatipo WALTMAN",
+        "Productos relacionados",
+        "Medidor Chorro Único",
+        "Medidor Chorro Múltiple"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "Medidor de aguatipo WALTMAN",
+        "Medidor Chorro Único",
+        "Medidor Chorro Múltiple"
+      ],
+      "categorias": [
+        "Inicio",
+        "Medidores",
+        "Medidor de aguatipo WALTMAN"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "BreadcrumbList",
+        "ListItem"
+      ],
+      "total_enlaces_internos": 9,
+      "enlaces_internos": [
+        "/product/medidor-de-aguatipo-waltman/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/medidores/",
+        "/wp-content/uploads/2024/06/MEDIDRO-DE-AGUATIPO-WALTMAN.png",
+        "/product/medidor-chorro-unico/",
+        "/product/medidor-chorro-multiple/"
+      ],
+      "bytes_html": 107956
+    },
+    {
+      "url": "https://citalyperu.com/product/valvula-esferica-de-bronce-cromada-copia/",
+      "http_status": 200,
+      "titulo": "Válvula Esférica de Bronce Cromada – CITALY",
+      "meta_descripcion": "",
+      "canonica": "https://citalyperu.com/product/valvula-esferica-de-bronce-cromada-copia/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "Válvula Esférica de Bronce Cromada",
+        "Productos relacionados",
+        "Caño de Lavandería Doble Salida Bronce Cromado",
+        "Válvula Compuerta de Bronce",
+        "Válvula Check Paleta de bronce"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "Válvula Esférica de Bronce Cromada",
+        "Caño de Lavandería Doble Salida Bronce Cromado",
+        "Válvula Compuerta de Bronce",
+        "Válvula Check Paleta de bronce"
+      ],
+      "categorias": [
+        "Inicio",
+        "Línea de Bronce",
+        "Válvula Esférica de Bronce Cromada"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "BreadcrumbList",
+        "ListItem"
+      ],
+      "total_enlaces_internos": 11,
+      "enlaces_internos": [
+        "/product/valvula-esferica-de-bronce-cromada-copia/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/linea-de-bronce/",
+        "/wp-content/uploads/2024/07/valvula-esferica-cromada.png",
+        "/product/valvula-esferica-de-bronce-cromada/",
+        "/product/cano-de-lavanderia-doble-salida-bronce-cromado/",
+        "/product/valvula-compuerta-de-bronce/",
+        "/product/valvula-check-paleta-de-bronce/"
+      ],
+      "bytes_html": 110597
+    },
+    {
+      "url": "https://citalyperu.com/product/valvula-compuerta-c-italy-premium/",
+      "http_status": 200,
+      "titulo": "Válvula Compuerta C-italy PREMIUM – CITALY",
+      "meta_descripcion": "",
+      "canonica": "https://citalyperu.com/product/valvula-compuerta-c-italy-premium/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "Válvula Compuerta C-italy PREMIUM",
+        "Productos relacionados",
+        "válvula compuerta de hierro dúctil para tubería PVC",
+        "válvula mariposa con palanca de hierro dúctil",
+        "válvula reductora de hierro duçtil para tubería pvc",
+        "válvula compuerta tipo luflex embone de hierro dúctil"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "Válvula Compuerta C-italy PREMIUM",
+        "válvula compuerta de hierro dúctil para tubería PVC",
+        "válvula mariposa con palanca de hierro dúctil",
+        "válvula reductora de hierro duçtil para tubería pvc",
+        "válvula compuerta tipo luflex embone de hierro dúctil"
+      ],
+      "categorias": [
+        "Inicio",
+        "Válvulas Hierro Dúctil",
+        "Válvula Compuerta C-italy PREMIUM"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "BreadcrumbList",
+        "ListItem"
+      ],
+      "total_enlaces_internos": 15,
+      "enlaces_internos": [
+        "/product/valvula-compuerta-c-italy-premium/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/valvulas-hierro-ductil/",
+        "/wp-content/uploads/2024/06/VALVULA-COMPUERTA-2.png",
+        "/product/valvula-compuerta-de-hierro-ductil-para-tuberia-pvc/",
+        "/product/valvula-compuerta-c-italy-premium/?add-to-cart=602",
+        "/product/valvula-mariposa-con-palanca/",
+        "/product/valvula-compuerta-c-italy-premium/?add-to-cart=254",
+        "/product/valvula-reductora-de-presion/",
+        "/product/valvula-compuerta-c-italy-premium/?add-to-cart=233",
+        "/product/valvula-compuerta-tipo-luflex-embone/",
+        "/product/valvula-compuerta-c-italy-premium/?add-to-cart=231"
+      ],
+      "bytes_html": 111924
+    },
+    {
+      "url": "https://citalyperu.com/product/union-espiga-de-fierro-galvanizado/",
+      "http_status": 200,
+      "titulo": "Unión Espiga de fierro Galvanizado – CITALY",
+      "meta_descripcion": "",
+      "canonica": "https://citalyperu.com/product/union-espiga-de-fierro-galvanizado/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "Unión Espiga de fierro Galvanizado",
+        "Productos relacionados",
+        "Niple Rosca Escama de fierro Galvanizado"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "Unión Espiga de fierro Galvanizado",
+        "Niple Rosca Escama de fierro Galvanizado"
+      ],
+      "categorias": [
+        "Inicio",
+        "Fierro Galvanizado",
+        "Unión Espiga de fierro Galvanizado"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "BreadcrumbList",
+        "ListItem"
+      ],
+      "total_enlaces_internos": 8,
+      "enlaces_internos": [
+        "/product/union-espiga-de-fierro-galvanizado/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/fierro-galvanizado/",
+        "/wp-content/uploads/2026/08/UNION-ESPIGA-DE-FIERRO-GALVAZANIDO.png",
+        "/product/niple-rosca-escama-de-fierro-galvanizado/"
+      ],
+      "bytes_html": 107289
+    },
+    {
+      "url": "https://citalyperu.com/product-category/fierro-galvanizado/",
+      "http_status": 200,
+      "titulo": "Fierro Galvanizado – CITALY",
+      "meta_descripcion": "",
+      "canonica": "",
+      "idioma": "es",
+      "h1": [
+        "Fierro Galvanizado"
+      ],
+      "h2": [
+        "Unión Espiga de fierro Galvanizado",
+        "Niple Rosca Escama de fierro Galvanizado",
+        "Discount up to 35% for first purchase only this month.",
+        "Comentarios y reseñas de clientes."
+      ],
+      "es_ficha_producto": false,
+      "productos": [
+        "Unión Espiga de fierro Galvanizado",
+        "Niple Rosca Escama de fierro Galvanizado"
+      ],
+      "categorias": [
+        "Accesorios",
+        "Medidores",
+        "Válvulas",
+        "Línea Bronce",
+        "Hidrantes",
+        "Marcos Y Tapas",
+        "Línea de Bronce"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 13,
+      "enlaces_internos": [
+        "/product-category/fierro-galvanizado/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/accesorios-hierro-ductil/",
+        "/product-category/medidores/",
+        "/product-category/valvulas-hierro-ductil/",
+        "/product-category/linea-de-bronce/",
+        "/product-category/hidrantes/",
+        "/product-category/marcos-y-tapas/",
+        "/product/union-espiga-de-fierro-galvanizado/",
+        "/product/niple-rosca-escama-de-fierro-galvanizado/"
+      ],
+      "bytes_html": 143666
+    },
+    {
+      "url": "https://citalyperu.com/product/niple-rosca-escama-de-fierro-galvanizado/",
+      "http_status": 200,
+      "titulo": "Niple Rosca Escama de fierro Galvanizado – CITALY",
+      "meta_descripcion": "",
+      "canonica": "https://citalyperu.com/product/niple-rosca-escama-de-fierro-galvanizado/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "Niple Rosca Escama de fierro Galvanizado",
+        "Productos relacionados",
+        "Unión Espiga de fierro Galvanizado"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "Niple Rosca Escama de fierro Galvanizado",
+        "Unión Espiga de fierro Galvanizado"
+      ],
+      "categorias": [
+        "Inicio",
+        "Fierro Galvanizado",
+        "Niple Rosca Escama de fierro Galvanizado"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "BreadcrumbList",
+        "ListItem"
+      ],
+      "total_enlaces_internos": 8,
+      "enlaces_internos": [
+        "/product/niple-rosca-escama-de-fierro-galvanizado/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/fierro-galvanizado/",
+        "/wp-content/uploads/2026/08/NIPLE-ROSCA.png",
+        "/product/union-espiga-de-fierro-galvanizado/"
+      ],
+      "bytes_html": 106848
+    },
+    {
+      "url": "https://citalyperu.com/product/valvula-compuerta-de-hierro-ductil-para-tuberia-pvc/",
+      "http_status": 200,
+      "titulo": "válvula compuerta de hierro dúctil para tubería PVC – CITALY",
+      "meta_descripcion": "",
+      "canonica": "https://citalyperu.com/product/valvula-compuerta-de-hierro-ductil-para-tuberia-pvc/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "válvula compuerta de hierro dúctil para tubería PVC",
+        "Descripción",
+        "Productos relacionados",
+        "Válvula reductora de presión",
+        "válvula mariposa con palanca de hierro dúctil",
+        "válvula reductora de hierro duçtil para tubería pvc",
+        "Válvula De Aire Triple Efecto"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "válvula compuerta de hierro dúctil para tubería PVC",
+        "Válvula reductora de presión",
+        "válvula mariposa con palanca de hierro dúctil",
+        "válvula reductora de hierro duçtil para tubería pvc",
+        "Válvula De Aire Triple Efecto"
+      ],
+      "categorias": [
+        "Inicio",
+        "Válvulas Hierro Dúctil",
+        "válvula compuerta de hierro dúctil para tubería PVC"
+      ],
+      "especificaciones": [
+        {
+          "atributo": "Durabilidad",
+          "valor": "El hierro dúctil proporciona una excelente resistencia a la corrosión y una larga vida útil."
+        },
+        {
+          "atributo": "Sellado Hermético",
+          "valor": "La compuerta encapsulada en elastómero garantiza un sellado perfecto, evitando fugas."
+        },
+        {
+          "atributo": "Compatibilidad",
+          "valor": "Diseñada para embonar directamente con tuberías de PVC, sin necesidad de pegamentos o aditivos adicionales."
+        },
+        {
+          "atributo": "Fácil Mantenimiento",
+          "valor": "Requiere inspecciones y mantenimiento regulares para asegurar su correcto funcionamiento y prolongar su vida útil."
+        }
+      ],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "BreadcrumbList",
+        "ListItem"
+      ],
+      "total_enlaces_internos": 13,
+      "enlaces_internos": [
+        "/product/valvula-compuerta-de-hierro-ductil-para-tuberia-pvc/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/valvulas-hierro-ductil/",
+        "/wp-content/uploads/2025/02/valvula-compuerta-de-hierro-ductil-para-tuberia-pvc-1.jpg",
+        "/product/valvula-reductora-de-presion-2/",
+        "/product/valvula-mariposa-con-palanca/",
+        "/product/valvula-compuerta-de-hierro-ductil-para-tuberia-pvc/?add-to-cart=254",
+        "/product/valvula-reductora-de-presion/",
+        "/product/valvula-compuerta-de-hierro-ductil-para-tuberia-pvc/?add-to-cart=233",
+        "/product/valvula-de-aire-triple-efecto/"
+      ],
+      "bytes_html": 115863
+    },
+    {
+      "url": "https://citalyperu.com/product/valvula-compuerta-tipo-dado-de-hierro-ductil-para-tuberia-hdpe/",
+      "http_status": 200,
+      "titulo": "válvula compuerta tipo dado de hierro dúctil para tubería hdpe – CITALY",
+      "meta_descripcion": "",
+      "canonica": "https://citalyperu.com/product/valvula-compuerta-tipo-dado-de-hierro-ductil-para-tuberia-hdpe/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "válvula compuerta tipo dado de hierro dúctil para tubería hdpe",
+        "Descripción",
+        "Productos relacionados",
+        "válvula compuerta de hierro dúctil para tubería PVC",
+        "Válvula Mariposa Con Palanca Con Brida Loca PVC",
+        "válvula mariposa con palanca de hierro dúctil",
+        "válvula reductora de hierro duçtil para tubería pvc"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "válvula compuerta tipo dado de hierro dúctil para tubería hdpe",
+        "válvula compuerta de hierro dúctil para tubería PVC",
+        "Válvula Mariposa Con Palanca Con Brida Loca PVC",
+        "válvula mariposa con palanca de hierro dúctil",
+        "válvula reductora de hierro duçtil para tubería pvc"
+      ],
+      "categorias": [
+        "Inicio",
+        "Válvulas Hierro Dúctil",
+        "válvula compuerta tipo dado de hierro dúctil para tubería hdpe"
+      ],
+      "especificaciones": [
+        {
+          "atributo": "Sistemas de Riego",
+          "valor": "Perfecta para la regulación del flujo en aplicaciones agrícolas, asegurando un riego eficiente y sin interrupciones."
+        },
+        {
+          "atributo": "Control Preciso del Flujo",
+          "valor": "Diseñada para proporcionar un control preciso y confiable del flujo, asegurando un rendimiento óptimo del sistema."
+        }
+      ],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "BreadcrumbList",
+        "ListItem"
+      ],
+      "total_enlaces_internos": 14,
+      "enlaces_internos": [
+        "/product/valvula-compuerta-tipo-dado-de-hierro-ductil-para-tuberia-hdpe/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/valvulas-hierro-ductil/",
+        "/wp-content/uploads/2025/02/9-valvula-compuerta-tipo-dado-de-hierro-ductil-para-tuberia-hdpe.jpg",
+        "/product/valvula-compuerta-de-hierro-ductil-para-tuberia-pvc/",
+        "/product/valvula-compuerta-tipo-dado-de-hierro-ductil-para-tuberia-hdpe/?add-to-cart=602",
+        "/product/valvula-mariposa-con-palanca-con-brida-loca-pvc/",
+        "/product/valvula-mariposa-con-palanca/",
+        "/product/valvula-compuerta-tipo-dado-de-hierro-ductil-para-tuberia-hdpe/?add-to-cart=254",
+        "/product/valvula-reductora-de-presion/",
+        "/product/valvula-compuerta-tipo-dado-de-hierro-ductil-para-tuberia-hdpe/?add-to-cart=233"
+      ],
+      "bytes_html": 117588
+    },
+    {
+      "url": "https://citalyperu.com/product/valvula-mariposa-con-palanca-con-brida-loca-pvc/",
+      "http_status": 200,
+      "titulo": "Válvula Mariposa Con Palanca Con Brida Loca PVC – CITALY",
+      "meta_descripcion": "La válvula mariposa con palanca y brida loca de PVC de Citaly ofrece un control de flujo preciso y eficiente en sistemas de agua potable, saneamiento e industrias químicas. Ideal para aplicaciones que requieren resistencia a la corrosión y facilidad de operación manual.",
+      "canonica": "https://citalyperu.com/product/valvula-mariposa-con-palanca-con-brida-loca-pvc/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "Válvula Mariposa Con Palanca Con Brida Loca PVC",
+        "Descripción",
+        "Productos relacionados",
+        "Válvula Compuerta C-italy PREMIUM",
+        "válvula reductora de hierro duçtil para tubería pvc",
+        "Válvula De Aire Triple Efecto",
+        "válvula compuerta tipo luflex embone de hierro dúctil"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "Válvula Mariposa Con Palanca Con Brida Loca PVC",
+        "Válvula Compuerta C-italy PREMIUM",
+        "válvula reductora de hierro duçtil para tubería pvc",
+        "Válvula De Aire Triple Efecto",
+        "válvula compuerta tipo luflex embone de hierro dúctil"
+      ],
+      "categorias": [
+        "Inicio",
+        "Válvulas Hierro Dúctil",
+        "Válvula Mariposa Con Palanca Con Brida Loca PVC"
+      ],
+      "especificaciones": [
+        {
+          "atributo": "Tamaños disponibles",
+          "valor": "DN50 a DN300."
+        },
+        {
+          "atributo": "Presión nominal",
+          "valor": "PN6, PN10."
+        },
+        {
+          "atributo": "Temperatura de operación",
+          "valor": "-10°C a +60°C."
+        },
+        {
+          "atributo": "Sistemas de Agua Potable",
+          "valor": "Control eficiente del flujo en redes urbanas y rurales."
+        },
+        {
+          "atributo": "Redes de Saneamiento",
+          "valor": "Regulación del flujo en sistemas de tratamiento y distribución de aguas residuales."
+        },
+        {
+          "atributo": "Industrias Químicas",
+          "valor": "Manejo seguro de productos químicos y líquidos corrosivos."
+        },
+        {
+          "atributo": "Sistemas de Riego",
+          "valor": "Control preciso del flujo para aplicaciones agrícolas."
+        }
+      ],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "BreadcrumbList",
+        "ListItem"
+      ],
+      "total_enlaces_internos": 13,
+      "enlaces_internos": [
+        "/product/valvula-mariposa-con-palanca-con-brida-loca-pvc/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/valvulas-hierro-ductil/",
+        "/wp-content/uploads/2024/06/VALVUAL-MARIPOSA-CON-PALANCA-CON-BRIDA-LOCA-PVC.png",
+        "/product/valvula-compuerta-c-italy-premium/",
+        "/product/valvula-reductora-de-presion/",
+        "/product/valvula-mariposa-con-palanca-con-brida-loca-pvc/?add-to-cart=233",
+        "/product/valvula-de-aire-triple-efecto/",
+        "/product/valvula-compuerta-tipo-luflex-embone/",
+        "/product/valvula-mariposa-con-palanca-con-brida-loca-pvc/?add-to-cart=231"
+      ],
+      "bytes_html": 118264
+    },
+    {
+      "url": "https://citalyperu.com/product/valvula-reductora-de-presion/",
+      "http_status": 200,
+      "titulo": "válvula reductora de hierro duçtil para tubería pvc – CITALY",
+      "meta_descripcion": "",
+      "canonica": "https://citalyperu.com/product/valvula-reductora-de-presion/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "válvula reductora de hierro duçtil para tubería pvc",
+        "Descripción",
+        "Productos relacionados",
+        "Válvula reductora de presión",
+        "Válvula Compuerta C-italy PREMIUM",
+        "Válvula Mariposa Con Palanca Con Brida Loca PVC",
+        "válvula mariposa con palanca de hierro dúctil"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "válvula reductora de hierro duçtil para tubería pvc",
+        "Válvula reductora de presión",
+        "Válvula Compuerta C-italy PREMIUM",
+        "Válvula Mariposa Con Palanca Con Brida Loca PVC",
+        "válvula mariposa con palanca de hierro dúctil"
+      ],
+      "categorias": [
+        "Inicio",
+        "Válvulas Hierro Dúctil",
+        "válvula reductora de hierro duçtil para tubería pvc"
+      ],
+      "especificaciones": [
+        {
+          "atributo": "Precisión en la Regulación",
+          "valor": "Diseñada para proporcionar una reducción de presión precisa y confiable, asegurando un rendimiento óptimo del sistema."
+        }
+      ],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "BreadcrumbList",
+        "ListItem"
+      ],
+      "total_enlaces_internos": 12,
+      "enlaces_internos": [
+        "/product/valvula-reductora-de-presion/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/valvulas-hierro-ductil/",
+        "/wp-content/uploads/2026/06/VALVUL-REDUCTORA-PARA-HIERRO-DUCTIL.png",
+        "/product/valvula-reductora-de-presion-2/",
+        "/product/valvula-compuerta-c-italy-premium/",
+        "/product/valvula-mariposa-con-palanca-con-brida-loca-pvc/",
+        "/product/valvula-mariposa-con-palanca/",
+        "/product/valvula-reductora-de-presion/?add-to-cart=254"
+      ],
+      "bytes_html": 115734
+    },
+    {
+      "url": "https://citalyperu.com/product/valvula-de-aire-triple-efecto/",
+      "http_status": 200,
+      "titulo": "Válvula De Aire Triple Efecto – CITALY",
+      "meta_descripcion": "La válvula de aire triple efecto de hierro dúctil de Citaly garantiza un rendimiento eficiente y seguro en sistemas de distribución de agua y redes de saneamiento. Diseñada para liberar y admitir aire automáticamente, asegurando la protección y el funcionamiento óptimo de las tuberías.",
+      "canonica": "https://citalyperu.com/product/valvula-de-aire-triple-efecto/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "Válvula De Aire Triple Efecto",
+        "Descripción",
+        "Productos relacionados",
+        "válvula compuerta de hierro dúctil para tubería PVC",
+        "válvula compuerta tipo dado de hierro dúctil para tubería hdpe",
+        "válvula mariposa con timon de hierro dúctil",
+        "válvula reductora de hierro duçtil para tubería pvc"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "Válvula De Aire Triple Efecto",
+        "válvula compuerta de hierro dúctil para tubería PVC",
+        "válvula compuerta tipo dado de hierro dúctil para tubería hdpe",
+        "válvula mariposa con timon de hierro dúctil",
+        "válvula reductora de hierro duçtil para tubería pvc"
+      ],
+      "categorias": [
+        "Inicio",
+        "Válvulas Hierro Dúctil",
+        "Válvula De Aire Triple Efecto"
+      ],
+      "especificaciones": [
+        {
+          "atributo": "Liberación de Aire a Gran Volumen",
+          "valor": "Permite la evacuación rápida de aire durante el llenado de la tubería."
+        },
+        {
+          "atributo": "Admisión de Aire",
+          "valor": "Facilita la entrada de aire durante el vaciado de la tubería para evitar el colapso."
+        },
+        {
+          "atributo": "Tamaños disponibles",
+          "valor": "DN50 a DN300."
+        },
+        {
+          "atributo": "Presión nominal",
+          "valor": "PN10, PN16."
+        },
+        {
+          "atributo": "Temperatura de operación",
+          "valor": "-10°C a +80°C."
+        },
+        {
+          "atributo": "Sistemas de Distribución de Agua Potable",
+          "valor": "Garantiza la eficiencia y protección de las redes de distribución."
+        },
+        {
+          "atributo": "Redes de Saneamiento",
+          "valor": "Previene la formación de vacíos y sobrepresión en las tuberías."
+        },
+        {
+          "atributo": "Sistemas de Riego",
+          "valor": "Mantiene el flujo constante y protege las tuberías de daños."
+        },
+        {
+          "atributo": "Sector Industrial",
+          "valor": "Aplicaciones diversas que requieren la gestión eficiente del aire en las tuberías."
+        }
+      ],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "BreadcrumbList",
+        "ListItem"
+      ],
+      "total_enlaces_internos": 15,
+      "enlaces_internos": [
+        "/product/valvula-de-aire-triple-efecto/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/valvulas-hierro-ductil/",
+        "/wp-content/uploads/2024/06/VALVULA-DE-AIRE-TRIPLE-EFECTO.png",
+        "/product/valvula-compuerta-de-hierro-ductil-para-tuberia-pvc/",
+        "/product/valvula-de-aire-triple-efecto/?add-to-cart=602",
+        "/product/valvula-compuerta-tipo-dado-de-hierro-ductil-para-tuberia-hdpe/",
+        "/product/valvula-de-aire-triple-efecto/?add-to-cart=589",
+        "/product/valvula-mariposa-con-timon/",
+        "/product/valvula-de-aire-triple-efecto/?add-to-cart=253",
+        "/product/valvula-reductora-de-presion/",
+        "/product/valvula-de-aire-triple-efecto/?add-to-cart=233"
+      ],
+      "bytes_html": 118601
+    },
+    {
+      "url": "https://citalyperu.com/product/adaptador-brida-hierro-ductil-para-tuberia-pvc/",
+      "http_status": 200,
+      "titulo": "adaptador brida hierro dúctil para tubería PVC – CITALY",
+      "meta_descripcion": "",
+      "canonica": "https://citalyperu.com/product/adaptador-brida-hierro-ductil-para-tuberia-pvc/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "adaptador brida hierro dúctil para tubería PVC",
+        "Descripción",
+        "Productos relacionados",
+        "Unión De Desmontaje Autoportante",
+        "Adaptador Rápido Para Tubería HDPE",
+        "Adaptador Brida Universal",
+        "Adaptador Brida Acerrojado Para Tubería HDPE"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "adaptador brida hierro dúctil para tubería PVC",
+        "Unión De Desmontaje Autoportante",
+        "Adaptador Rápido Para Tubería HDPE",
+        "Adaptador Brida Universal",
+        "Adaptador Brida Acerrojado Para Tubería HDPE"
+      ],
+      "categorias": [
+        "Inicio",
+        "Accesorios Hierro Dúctil",
+        "adaptador brida hierro dúctil para tubería PVC"
+      ],
+      "especificaciones": [
+        {
+          "atributo": "Fácil Instalación",
+          "valor": "El diseño acerrojado permite una instalación rápida y confiable, asegurando una conexión firme y libre de fugas."
+        }
+      ],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "BreadcrumbList",
+        "ListItem"
+      ],
+      "total_enlaces_internos": 11,
+      "enlaces_internos": [
+        "/product/adaptador-brida-hierro-ductil-para-tuberia-pvc/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/accesorios-hierro-ductil/",
+        "/wp-content/uploads/2024/06/ADAPTADOR-BRIDA-ACERROJADO.png",
+        "/product/union-de-desmontaje-autoportante/",
+        "/product/adaptador-rapido-para-tuberia-hdpe/",
+        "/product/adaptador-brida-universal/",
+        "/product/adaptador-brida-acerrojado-para-tuberia-hdpe/"
+      ],
+      "bytes_html": 115175
+    },
+    {
+      "url": "https://citalyperu.com/product/adaptador-brida-de-hierro-ductil-para-tuberia-hdpe-2/",
+      "http_status": 200,
+      "titulo": "adaptador brida de hierro dúctil para tubería HDPE – CITALY",
+      "meta_descripcion": "",
+      "canonica": "https://citalyperu.com/product/adaptador-brida-de-hierro-ductil-para-tuberia-hdpe-2/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "adaptador brida de hierro dúctil para tubería HDPE",
+        "Descripción",
+        "Productos relacionados",
+        "acerrojado de hierro dúctil",
+        "Acople 995 para tubería HDPE",
+        "Unión De Desmontaje Autoportante",
+        "Adaptador Brida Acerrojado Para Tubería HDPE"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "adaptador brida de hierro dúctil para tubería HDPE",
+        "acerrojado de hierro dúctil",
+        "Acople 995 para tubería HDPE",
+        "Unión De Desmontaje Autoportante",
+        "Adaptador Brida Acerrojado Para Tubería HDPE"
+      ],
+      "categorias": [
+        "Inicio",
+        "Accesorios Hierro Dúctil",
+        "adaptador brida de hierro dúctil para tubería HDPE"
+      ],
+      "especificaciones": [
+        {
+          "atributo": "Fácil Instalación",
+          "valor": "El diseño acerrojado permite una instalación rápida y confiable, asegurando una conexión firme y libre de fugas."
+        }
+      ],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "BreadcrumbList",
+        "ListItem"
+      ],
+      "total_enlaces_internos": 12,
+      "enlaces_internos": [
+        "/product/adaptador-brida-de-hierro-ductil-para-tuberia-hdpe-2/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/accesorios-hierro-ductil/",
+        "/wp-content/uploads/2024/06/12.jpg",
+        "/product/acerrojado-de-hierro-ductil/",
+        "/product/adaptador-brida-de-hierro-ductil-para-tuberia-hdpe-2/?add-to-cart=595",
+        "/product/acople-995-para-tuberia-hdpe/",
+        "/product/union-de-desmontaje-autoportante/",
+        "/product/adaptador-brida-acerrojado-para-tuberia-hdpe/"
+      ],
+      "bytes_html": 115015
+    },
+    {
+      "url": "https://citalyperu.com/product/acerrojado-de-hierro-ductil/",
+      "http_status": 200,
+      "titulo": "acerrojado de hierro dúctil – CITALY",
+      "meta_descripcion": "",
+      "canonica": "https://citalyperu.com/product/acerrojado-de-hierro-ductil/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "acerrojado de hierro dúctil",
+        "Descripción",
+        "Productos relacionados",
+        "adaptador brida de hierro dúctil para tubería HDPE",
+        "Unión De Desmontaje Autoportante",
+        "Adaptador Rápido Para Tubería HDPE"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "acerrojado de hierro dúctil",
+        "adaptador brida de hierro dúctil para tubería HDPE",
+        "Unión De Desmontaje Autoportante",
+        "Adaptador Rápido Para Tubería HDPE"
+      ],
+      "categorias": [
+        "Inicio",
+        "Accesorios Hierro Dúctil",
+        "acerrojado de hierro dúctil"
+      ],
+      "especificaciones": [
+        {
+          "atributo": "Fácil Instalación",
+          "valor": "El diseño ergonómico permite una instalación rápida y sencilla, asegurando una conexión firme y libre de fugas."
+        }
+      ],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "BreadcrumbList",
+        "ListItem"
+      ],
+      "total_enlaces_internos": 13,
+      "enlaces_internos": [
+        "/product/acerrojado-de-hierro-ductil/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/accesorios-hierro-ductil/",
+        "/wp-content/uploads/2024/06/ACERROJADO-EN-HIERRO-DCUTIL.png",
+        "/product/adaptador-brida-de-hierro-ductil-para-tuberia-hdpe-2/",
+        "/product/acerrojado-de-hierro-ductil/?add-to-cart=597",
+        "/product/adaptador-brida-de-hierro-ductil-para-tuberia-hdpe/",
+        "/product/acerrojado-de-hierro-ductil/?add-to-cart=593",
+        "/product/union-de-desmontaje-autoportante/",
+        "/product/adaptador-rapido-para-tuberia-hdpe/"
+      ],
+      "bytes_html": 115717
+    },
+    {
+      "url": "https://citalyperu.com/shop/",
+      "http_status": 200,
+      "titulo": "Shop – CITALY",
+      "meta_descripcion": "",
+      "canonica": "",
+      "idioma": "es",
+      "h1": [
+        "Shop"
+      ],
+      "h2": [
+        "Yee bridado",
+        "Cruz bridado",
+        "Válvula reductora de presión",
+        "Medidor de aguatipo WALTMAN",
+        "Válvula Esférica de Bronce Cromada",
+        "Válvula Compuerta C-italy PREMIUM",
+        "Unión Espiga de fierro Galvanizado",
+        "Niple Rosca Escama de fierro Galvanizado",
+        "Niple Bridado Hierro Dúctil",
+        "Válvula Check Paleta de bronce Nacional 🇵🇪",
+        "Tubería HDPE Línea Roja",
+        "Discount up to 35% for first purchase only this month.",
+        "Comentarios y reseñas de clientes."
+      ],
+      "es_ficha_producto": false,
+      "productos": [
+        "Yee bridado",
+        "Cruz bridado",
+        "Válvula reductora de presión",
+        "Medidor de aguatipo WALTMAN",
+        "Válvula Esférica de Bronce Cromada",
+        "Válvula Compuerta C-italy PREMIUM",
+        "Unión Espiga de fierro Galvanizado",
+        "Niple Rosca Escama de fierro Galvanizado",
+        "Niple Bridado Hierro Dúctil",
+        "Válvula Check Paleta de bronce Nacional 🇵🇪",
+        "Tubería HDPE Línea Roja"
+      ],
+      "categorias": [
+        "Accesorios",
+        "Medidores",
+        "Válvulas",
+        "Línea Bronce",
+        "Hidrantes",
+        "Marcos Y Tapas",
+        "Línea de Bronce"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 26,
+      "enlaces_internos": [
+        "/shop/",
+        "/",
+        "/nosotros/",
+        "/contactanos/",
+        "/product-category/accesorios-hierro-ductil/",
+        "/product-category/medidores/",
+        "/product-category/valvulas-hierro-ductil/",
+        "/product-category/linea-de-bronce/",
+        "/product-category/hidrantes/",
+        "/product-category/marcos-y-tapas/",
+        "/product/yee-bridado/",
+        "/product/cruz-bridado/",
+        "/product/valvula-reductora-de-presion-2/",
+        "/product/medidor-de-aguatipo-waltman/",
+        "/product/valvula-esferica-de-bronce-cromada-copia/",
+        "/product/valvula-compuerta-c-italy-premium/",
+        "/product/union-espiga-de-fierro-galvanizado/",
+        "/product/niple-rosca-escama-de-fierro-galvanizado/",
+        "/product/valvula-esferica-de-bronce-cromada/",
+        "/product/niple-bridado-hierro-ductil/",
+        "/product/valvula-check-paleta-de-bronce-nacional-%f0%9f%87%b5%f0%9f%87%aa/",
+        "/product/tuberia-hdpe-linea-roja/",
+        "/shop/page/2/",
+        "/shop/page/3/",
+        "/shop/page/4/",
+        "/shop/page/5/"
+      ],
+      "bytes_html": 163604
+    },
+    {
+      "url": "https://citalyperu.com/product/adaptador-brida-de-hierro-ductil-para-tuberia-hdpe/",
+      "http_status": 200,
+      "titulo": "adaptador brida de hierro dúctil para tubería hdpe – CITALY",
+      "meta_descripcion": "",
+      "canonica": "https://citalyperu.com/product/adaptador-brida-de-hierro-ductil-para-tuberia-hdpe/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "adaptador brida de hierro dúctil para tubería hdpe",
+        "Descripción",
+        "Productos relacionados",
+        "Unión De Desmontaje Autoportante",
+        "Unión Dresser",
+        "Adaptador Rápido Para Tubería HDPE"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "adaptador brida de hierro dúctil para tubería hdpe",
+        "Unión De Desmontaje Autoportante",
+        "Unión Dresser",
+        "Adaptador Rápido Para Tubería HDPE"
+      ],
+      "categorias": [
+        "Inicio",
+        "Accesorios Hierro Dúctil",
+        "adaptador brida de hierro dúctil para tubería hdpe"
+      ],
+      "especificaciones": [
+        {
+          "atributo": "Fácil Instalación",
+          "valor": "El diseño acerrojado permite una instalación rápida y confiable, asegurando una conexión firme y libre de fugas."
+        }
+      ],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "BreadcrumbList",
+        "ListItem"
+      ],
+      "total_enlaces_internos": 13,
+      "enlaces_internos": [
+        "/product/adaptador-brida-de-hierro-ductil-para-tuberia-hdpe/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/accesorios-hierro-ductil/",
+        "/wp-content/uploads/2024/06/ADDAPTADOR-BRIDA-ACERROJADO-PAR-HDPE.png",
+        "/product/adaptador-brida-de-hierro-ductil-para-tuberia-hdpe-2/",
+        "/product/adaptador-brida-de-hierro-ductil-para-tuberia-hdpe/?add-to-cart=597",
+        "/product/union-de-desmontaje-autoportante/",
+        "/product/union-dresser/",
+        "/product/adaptador-brida-de-hierro-ductil-para-tuberia-hdpe/?add-to-cart=415",
+        "/product/adaptador-rapido-para-tuberia-hdpe/"
+      ],
+      "bytes_html": 116043
+    },
+    {
+      "url": "https://citalyperu.com/product/acople-995-para-tuberia-hdpe/",
+      "http_status": 200,
+      "titulo": "Acople 995 para tubería HDPE – CITALY",
+      "meta_descripcion": "El Acople 995 para tuberías HDPE de la marca Citaly es la solución ideal para unir tuberías de forma rápida y segura. Su diseño innovador facilita la instalación sin herramientas especializadas, ofreciendo resistencia y durabilidad en cualquier aplicación industrial o de agua potable.",
+      "canonica": "https://citalyperu.com/product/acople-995-para-tuberia-hdpe/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "Acople 995 para tubería HDPE",
+        "Descripción",
+        "Productos relacionados",
+        "acerrojado de hierro dúctil",
+        "Unión De Desmontaje Autoportante",
+        "Unión Dresser",
+        "Adaptador Rápido Para Tubería HDPE"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "Acople 995 para tubería HDPE",
+        "acerrojado de hierro dúctil",
+        "Unión De Desmontaje Autoportante",
+        "Unión Dresser",
+        "Adaptador Rápido Para Tubería HDPE"
+      ],
+      "categorias": [
+        "Inicio",
+        "Accesorios Hierro Dúctil",
+        "Acople 995 para tubería HDPE"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "BreadcrumbList",
+        "ListItem"
+      ],
+      "total_enlaces_internos": 13,
+      "enlaces_internos": [
+        "/product/acople-995-para-tuberia-hdpe/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/accesorios-hierro-ductil/",
+        "/wp-content/uploads/2024/07/acople-995.jpg",
+        "/product/acerrojado-de-hierro-ductil/",
+        "/product/acople-995-para-tuberia-hdpe/?add-to-cart=595",
+        "/product/union-de-desmontaje-autoportante/",
+        "/product/union-dresser/",
+        "/product/acople-995-para-tuberia-hdpe/?add-to-cart=415",
+        "/product/adaptador-rapido-para-tuberia-hdpe/"
+      ],
+      "bytes_html": 113787
+    },
+    {
+      "url": "https://citalyperu.com/shop/page/2/",
+      "http_status": 200,
+      "titulo": "Shop – Página 2 – CITALY",
+      "meta_descripcion": "",
+      "canonica": "",
+      "idioma": "es",
+      "h1": [
+        "Shop"
+      ],
+      "h2": [
+        "Tubería HDPE Línea Azul",
+        "Tee HDPE Exclusivo C-italy",
+        "Reducción HDPE Exclusivo C-italy",
+        "Codo 45° HDPE Exclusivo C-italy",
+        "Codo 90° HDPE Exclusivo C-italy",
+        "válvula compuerta de hierro dúctil para tubería PVC",
+        "adaptador brida hierro dúctil para tubería PVC",
+        "adaptador brida de hierro dúctil para tubería HDPE",
+        "acerrojado de hierro dúctil",
+        "válvula compuerta tipo dado de hierro dúctil para tubería hdpe",
+        "Acople 995 para tubería HDPE",
+        "Discount up to 35% for first purchase only this month.",
+        "Comentarios y reseñas de clientes."
+      ],
+      "es_ficha_producto": false,
+      "productos": [
+        "Tubería HDPE Línea Azul",
+        "Tee HDPE Exclusivo C-italy",
+        "Reducción HDPE Exclusivo C-italy",
+        "Codo 45° HDPE Exclusivo C-italy",
+        "Codo 90° HDPE Exclusivo C-italy",
+        "válvula compuerta de hierro dúctil para tubería PVC",
+        "adaptador brida hierro dúctil para tubería PVC",
+        "adaptador brida de hierro dúctil para tubería HDPE",
+        "acerrojado de hierro dúctil",
+        "válvula compuerta tipo dado de hierro dúctil para tubería hdpe",
+        "Acople 995 para tubería HDPE"
+      ],
+      "categorias": [
+        "Accesorios",
+        "Medidores",
+        "Válvulas",
+        "Línea Bronce",
+        "Hidrantes",
+        "Marcos Y Tapas",
+        "Línea de Bronce"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 37,
+      "enlaces_internos": [
+        "/shop/page/2/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/accesorios-hierro-ductil/",
+        "/product-category/medidores/",
+        "/product-category/valvulas-hierro-ductil/",
+        "/product-category/linea-de-bronce/",
+        "/product-category/hidrantes/",
+        "/product-category/marcos-y-tapas/",
+        "/product/706/",
+        "/product/tee-hdpe-exclusivo-c-italy/",
+        "/shop/page/2/?add-to-cart=653",
+        "/product/reduccion-hdpe-exclusivo-c-italy/",
+        "/shop/page/2/?add-to-cart=652",
+        "/product/codo-45-hdpe-2/",
+        "/shop/page/2/?add-to-cart=651",
+        "/product/codo-45-hdpe/",
+        "/shop/page/2/?add-to-cart=646",
+        "/product/valvula-compuerta-de-hierro-ductil-para-tuberia-pvc/",
+        "/shop/page/2/?add-to-cart=602",
+        "/product/adaptador-brida-hierro-ductil-para-tuberia-pvc/",
+        "/shop/page/2/?add-to-cart=599",
+        "/product/adaptador-brida-de-hierro-ductil-para-tuberia-hdpe-2/",
+        "/shop/page/2/?add-to-cart=597",
+        "/product/acerrojado-de-hierro-ductil/",
+        "/shop/page/2/?add-to-cart=595",
+        "/product/adaptador-brida-de-hierro-ductil-para-tuberia-hdpe/",
+        "/shop/page/2/?add-to-cart=593",
+        "/product/valvula-compuerta-tipo-dado-de-hierro-ductil-para-tuberia-hdpe/",
+        "/shop/page/2/?add-to-cart=589",
+        "/product/acople-995-para-tuberia-hdpe/",
+        "/shop/page/1/",
+        "/shop/page/3/",
+        "/shop/page/4/",
+        "/shop/page/5/"
+      ],
+      "bytes_html": 166956
+    },
+    {
+      "url": "https://citalyperu.com/product/union-de-desmontaje-autoportante/",
+      "http_status": 200,
+      "titulo": "Unión De Desmontaje Autoportante – CITALY",
+      "meta_descripcion": "La unión de desmontaje autoportante de Citaly ofrece una solución práctica y segura para la conexión y desmontaje rápido de tuberías. Ideal para aplicaciones en agua potable, saneamiento y sectores industriales, facilita la instalación y el mantenimiento con durabilidad y resistencia excepcionales.",
+      "canonica": "https://citalyperu.com/product/union-de-desmontaje-autoportante/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "Unión De Desmontaje Autoportante",
+        "Descripción",
+        "Productos relacionados",
+        "adaptador brida de hierro dúctil para tubería HDPE",
+        "acerrojado de hierro dúctil",
+        "Adaptador Brida Universal",
+        "Adaptador Brida Acerrojado Para Tubería HDPE"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "Unión De Desmontaje Autoportante",
+        "adaptador brida de hierro dúctil para tubería HDPE",
+        "acerrojado de hierro dúctil",
+        "Adaptador Brida Universal",
+        "Adaptador Brida Acerrojado Para Tubería HDPE"
+      ],
+      "categorias": [
+        "Inicio",
+        "Accesorios Hierro Dúctil",
+        "Unión De Desmontaje Autoportante"
+      ],
+      "especificaciones": [
+        {
+          "atributo": "Tamaños disponibles",
+          "valor": "Variedad de diámetros para adaptarse a diferentes requerimientos de tuberías."
+        },
+        {
+          "atributo": "Presión nominal",
+          "valor": "PN10, PN16."
+        },
+        {
+          "atributo": "Sistemas de Agua Potable",
+          "valor": "Conexión y desmontaje rápido de tuberías en redes de distribución de agua."
+        },
+        {
+          "atributo": "Redes de Saneamiento",
+          "valor": "Facilita el mantenimiento y la reparación en sistemas de alcantarillado y drenaje."
+        },
+        {
+          "atributo": "Procesos Industriales",
+          "valor": "Manejo del flujo y la conexión de tuberías en diversas aplicaciones industriales, incluyendo químicos y manufactura."
+        },
+        {
+          "atributo": "Sistemas de Riego",
+          "valor": "Conexión precisa de tuberías en aplicaciones agrícolas."
+        }
+      ],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "BreadcrumbList",
+        "ListItem"
+      ],
+      "total_enlaces_internos": 13,
+      "enlaces_internos": [
+        "/product/union-de-desmontaje-autoportante/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/accesorios-hierro-ductil/",
+        "/wp-content/uploads/2024/06/union-de-desmontaje-autoportante.jpg",
+        "/product/adaptador-brida-de-hierro-ductil-para-tuberia-hdpe-2/",
+        "/product/union-de-desmontaje-autoportante/?add-to-cart=597",
+        "/product/acerrojado-de-hierro-ductil/",
+        "/product/union-de-desmontaje-autoportante/?add-to-cart=595",
+        "/product/adaptador-brida-universal/",
+        "/product/adaptador-brida-acerrojado-para-tuberia-hdpe/"
+      ],
+      "bytes_html": 116963
+    },
+    {
+      "url": "https://citalyperu.com/shop/page/3/",
+      "http_status": 200,
+      "titulo": "Shop – Página 3 – CITALY",
+      "meta_descripcion": "",
+      "canonica": "",
+      "idioma": "es",
+      "h1": [
+        "Shop"
+      ],
+      "h2": [
+        "Medidor Chorro Único",
+        "Medidor Chorro Múltiple",
+        "Caño de Lavandería Doble Salida Bronce Cromado",
+        "Caño de Jardín Bronce Cromado",
+        "Caño De Jardín De Bronce",
+        "Válvula Flotador De Bronce",
+        "Válvula Check Canastilla Vertical",
+        "Válvula Compuerta de Bronce",
+        "Válvula Check Paleta de bronce",
+        "Válvula Esférica de Bronce",
+        "Hidrante Cuerpo Húmedo",
+        "Unión De Desmontaje Autoportante",
+        "Discount up to 35% for first purchase only this month.",
+        "Comentarios y reseñas de clientes."
+      ],
+      "es_ficha_producto": false,
+      "productos": [
+        "Medidor Chorro Único",
+        "Medidor Chorro Múltiple",
+        "Caño de Lavandería Doble Salida Bronce Cromado",
+        "Caño de Jardín Bronce Cromado",
+        "Caño De Jardín De Bronce",
+        "Válvula Flotador De Bronce",
+        "Válvula Check Canastilla Vertical",
+        "Válvula Compuerta de Bronce",
+        "Válvula Check Paleta de bronce",
+        "Válvula Esférica de Bronce",
+        "Hidrante Cuerpo Húmedo",
+        "Unión De Desmontaje Autoportante"
+      ],
+      "categorias": [
+        "Accesorios",
+        "Medidores",
+        "Válvulas",
+        "Línea Bronce",
+        "Hidrantes",
+        "Marcos Y Tapas",
+        "Línea de Bronce"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 27,
+      "enlaces_internos": [
+        "/shop/page/3/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/accesorios-hierro-ductil/",
+        "/product-category/medidores/",
+        "/product-category/valvulas-hierro-ductil/",
+        "/product-category/linea-de-bronce/",
+        "/product-category/hidrantes/",
+        "/product-category/marcos-y-tapas/",
+        "/product/medidor-chorro-unico/",
+        "/product/medidor-chorro-multiple/",
+        "/product/cano-de-lavanderia-doble-salida-bronce-cromado/",
+        "/product/cano-de-jardin-bronce-cromado/",
+        "/product/cano-de-jardin-de-bronce/",
+        "/product/valvula-flotador-de-bronce/",
+        "/product/valvula-check-canastilla-vertical/",
+        "/product/valvula-compuerta-de-bronce/",
+        "/product/valvula-check-paleta-de-bronce/",
+        "/product/valvula-esferica-de-bronce/",
+        "/product/hidrante-cuerpo-humedo/",
+        "/product/union-de-desmontaje-autoportante/",
+        "/shop/page/2/",
+        "/shop/page/1/",
+        "/shop/page/4/",
+        "/shop/page/5/"
+      ],
+      "bytes_html": 163542
+    },
+    {
+      "url": "https://citalyperu.com/product/union-dresser/",
+      "http_status": 200,
+      "titulo": "Unión Dresser – CITALY",
+      "meta_descripcion": "La unión Dresser de Citaly proporciona una conexión rápida y confiable para tuberías de hierro dúctil, acero, PVC y HDPE. Ideal para aplicaciones en agua potable, saneamiento y sectores industriales, asegura una instalación sencilla y duradera. DESCARGAR FICHA TECNICA",
+      "canonica": "https://citalyperu.com/product/union-dresser/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "Unión Dresser",
+        "Descripción",
+        "Productos relacionados",
+        "adaptador brida de hierro dúctil para tubería hdpe",
+        "Acople 995 para tubería HDPE",
+        "Adaptador Rápido Para Tubería HDPE",
+        "Adaptador Brida Universal"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "Unión Dresser",
+        "adaptador brida de hierro dúctil para tubería hdpe",
+        "Acople 995 para tubería HDPE",
+        "Adaptador Rápido Para Tubería HDPE",
+        "Adaptador Brida Universal"
+      ],
+      "categorias": [
+        "Inicio",
+        "Accesorios Hierro Dúctil",
+        "Unión Dresser"
+      ],
+      "especificaciones": [
+        {
+          "atributo": "Tamaños disponibles",
+          "valor": "Variedad de diámetros para adaptarse a diferentes requerimientos de tuberías."
+        },
+        {
+          "atributo": "Presión nominal",
+          "valor": "PN10, PN16."
+        },
+        {
+          "atributo": "Sistemas de Agua Potable",
+          "valor": "Conexión segura de tuberías en redes de distribución de agua."
+        },
+        {
+          "atributo": "Redes de Saneamiento",
+          "valor": "Transición eficiente entre tuberías en sistemas de alcantarillado y drenaje."
+        },
+        {
+          "atributo": "Procesos Industriales",
+          "valor": "Manejo del flujo y la conexión de tuberías en diversas aplicaciones industriales, incluyendo químicos y manufactura."
+        },
+        {
+          "atributo": "Sistemas de Riego",
+          "valor": "Conexión precisa de tuberías en aplicaciones agrícolas."
+        }
+      ],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "BreadcrumbList",
+        "ListItem"
+      ],
+      "total_enlaces_internos": 13,
+      "enlaces_internos": [
+        "/product/union-dresser/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/accesorios-hierro-ductil/",
+        "/wp-content/uploads/2024/06/UNION-DRESSER.png",
+        "/wp-content/uploads/2026/05/FICHA-TECNICA-UNION-DRESSER-GRAN-RANGO-ACTUALIZADA.pdf",
+        "/product/adaptador-brida-de-hierro-ductil-para-tuberia-hdpe/",
+        "/product/union-dresser/?add-to-cart=593",
+        "/product/acople-995-para-tuberia-hdpe/",
+        "/product/adaptador-rapido-para-tuberia-hdpe/",
+        "/product/adaptador-brida-universal/"
+      ],
+      "bytes_html": 117598
+    },
+    {
+      "url": "https://citalyperu.com/shop/page/4/",
+      "http_status": 200,
+      "titulo": "Shop – Página 4 – CITALY",
+      "meta_descripcion": "",
+      "canonica": "",
+      "idioma": "es",
+      "h1": [
+        "Shop"
+      ],
+      "h2": [
+        "Unión Dresser",
+        "Adaptador Rápido Para Tubería HDPE",
+        "Adaptador Brida Universal",
+        "Adaptador Brida Acerrojado Para Tubería HDPE",
+        "Marco y Tapa De Buzón D400 Con Doble Seguro",
+        "Reducción Bridada Hierro Dúctil",
+        "Tee Bridada Hierro Dúctil",
+        "Tee Con Reducción Bridado Hierro Dúctil",
+        "Codo 90° Bridado Hierro Dúctil",
+        "Codo 45° Bridado Hierro Dúctil",
+        "Válvula Mariposa Con Palanca Con Brida Loca PVC",
+        "válvula mariposa con palanca de hierro dúctil",
+        "Discount up to 35% for first purchase only this month.",
+        "Comentarios y reseñas de clientes."
+      ],
+      "es_ficha_producto": false,
+      "productos": [
+        "Unión Dresser",
+        "Adaptador Rápido Para Tubería HDPE",
+        "Adaptador Brida Universal",
+        "Adaptador Brida Acerrojado Para Tubería HDPE",
+        "Marco y Tapa De Buzón D400 Con Doble Seguro",
+        "Reducción Bridada Hierro Dúctil",
+        "Tee Bridada Hierro Dúctil",
+        "Tee Con Reducción Bridado Hierro Dúctil",
+        "Codo 90° Bridado Hierro Dúctil",
+        "Codo 45° Bridado Hierro Dúctil",
+        "Válvula Mariposa Con Palanca Con Brida Loca PVC",
+        "válvula mariposa con palanca de hierro dúctil"
+      ],
+      "categorias": [
+        "Accesorios",
+        "Medidores",
+        "Válvulas",
+        "Línea Bronce",
+        "Hidrantes",
+        "Marcos Y Tapas",
+        "Línea de Bronce"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 30,
+      "enlaces_internos": [
+        "/shop/page/4/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/accesorios-hierro-ductil/",
+        "/product-category/medidores/",
+        "/product-category/valvulas-hierro-ductil/",
+        "/product-category/linea-de-bronce/",
+        "/product-category/hidrantes/",
+        "/product-category/marcos-y-tapas/",
+        "/product/union-dresser/",
+        "/shop/page/4/?add-to-cart=415",
+        "/product/adaptador-rapido-para-tuberia-hdpe/",
+        "/product/adaptador-brida-universal/",
+        "/product/adaptador-brida-acerrojado-para-tuberia-hdpe/",
+        "/product/marco-y-tapa-de-buzon-d400-con-doble-seguro/",
+        "/product/reduccion-bridada-hierro-ductil/",
+        "/product/tee-bridada-hierro-ductil/",
+        "/shop/page/4/?add-to-cart=408",
+        "/product/tee-con-reduccion-bridado-hierro-ductil/",
+        "/product/codo-90-bridado-hierro-ductil/",
+        "/product/codo-45-bridado-hierro-ductil/",
+        "/product/valvula-mariposa-con-palanca-con-brida-loca-pvc/",
+        "/product/valvula-mariposa-con-palanca/",
+        "/shop/page/4/?add-to-cart=254",
+        "/shop/page/3/",
+        "/shop/page/1/",
+        "/shop/page/2/",
+        "/shop/page/5/"
+      ],
+      "bytes_html": 164397
+    },
+    {
+      "url": "https://citalyperu.com/product/adaptador-rapido-para-tuberia-hdpe/",
+      "http_status": 200,
+      "titulo": "Adaptador Rápido Para Tubería HDPE – CITALY",
+      "meta_descripcion": "El adaptador rápido para tubería HDPE de Citaly ofrece una conexión segura y rápida entre tuberías de polietileno de alta densidad (HDPE). Ideal para aplicaciones en agua potable, saneamiento y sectores industriales, asegura una instalación fácil y duradera.",
+      "canonica": "https://citalyperu.com/product/adaptador-rapido-para-tuberia-hdpe/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "Adaptador Rápido Para Tubería HDPE",
+        "Descripción",
+        "Productos relacionados",
+        "Acople 995 para tubería HDPE",
+        "Unión Dresser",
+        "Adaptador Brida Universal",
+        "Adaptador Brida Acerrojado Para Tubería HDPE"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "Adaptador Rápido Para Tubería HDPE",
+        "Acople 995 para tubería HDPE",
+        "Unión Dresser",
+        "Adaptador Brida Universal",
+        "Adaptador Brida Acerrojado Para Tubería HDPE"
+      ],
+      "categorias": [
+        "Inicio",
+        "Accesorios Hierro Dúctil",
+        "Adaptador Rápido Para Tubería HDPE"
+      ],
+      "especificaciones": [
+        {
+          "atributo": "Tamaños disponibles",
+          "valor": "Variedad de diámetros para adaptarse a diferentes requerimientos de tuberías HDPE."
+        },
+        {
+          "atributo": "Presión nominal",
+          "valor": "PN10, PN16."
+        },
+        {
+          "atributo": "Sistemas de Agua Potable",
+          "valor": "Conexión segura de tuberías HDPE en redes de distribución de agua."
+        },
+        {
+          "atributo": "Redes de Saneamiento",
+          "valor": "Transición eficiente entre tuberías HDPE en sistemas de alcantarillado y drenaje."
+        },
+        {
+          "atributo": "Sistemas de Riego",
+          "valor": "Conexión precisa de tuberías HDPE en aplicaciones agrícolas."
+        }
+      ],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "BreadcrumbList",
+        "ListItem"
+      ],
+      "total_enlaces_internos": 12,
+      "enlaces_internos": [
+        "/product/adaptador-rapido-para-tuberia-hdpe/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/accesorios-hierro-ductil/",
+        "/wp-content/uploads/2024/06/adaptador-rapido-para-tuberia-hdpe.jpg",
+        "/product/acople-995-para-tuberia-hdpe/",
+        "/product/union-dresser/",
+        "/product/adaptador-rapido-para-tuberia-hdpe/?add-to-cart=415",
+        "/product/adaptador-brida-universal/",
+        "/product/adaptador-brida-acerrojado-para-tuberia-hdpe/"
+      ],
+      "bytes_html": 116427
+    },
+    {
+      "url": "https://citalyperu.com/shop/page/5/",
+      "http_status": 200,
+      "titulo": "Shop – Página 5 – CITALY",
+      "meta_descripcion": "",
+      "canonica": "",
+      "idioma": "es",
+      "h1": [
+        "Shop"
+      ],
+      "h2": [
+        "válvula mariposa con timon de hierro dúctil",
+        "válvula reductora de hierro duçtil para tubería pvc",
+        "Válvula De Aire Triple Efecto",
+        "válvula compuerta tipo luflex embone de hierro dúctil",
+        "válvula compuerta de hierro dúctil",
+        "Discount up to 35% for first purchase only this month.",
+        "Comentarios y reseñas de clientes."
+      ],
+      "es_ficha_producto": false,
+      "productos": [
+        "válvula mariposa con timon de hierro dúctil",
+        "válvula reductora de hierro duçtil para tubería pvc",
+        "Válvula De Aire Triple Efecto",
+        "válvula compuerta tipo luflex embone de hierro dúctil",
+        "válvula compuerta de hierro dúctil"
+      ],
+      "categorias": [
+        "Accesorios",
+        "Medidores",
+        "Válvulas",
+        "Línea Bronce",
+        "Hidrantes",
+        "Marcos Y Tapas",
+        "Línea de Bronce"
+      ],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 24,
+      "enlaces_internos": [
+        "/shop/page/5/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/accesorios-hierro-ductil/",
+        "/product-category/medidores/",
+        "/product-category/valvulas-hierro-ductil/",
+        "/product-category/linea-de-bronce/",
+        "/product-category/hidrantes/",
+        "/product-category/marcos-y-tapas/",
+        "/product/valvula-mariposa-con-timon/",
+        "/shop/page/5/?add-to-cart=253",
+        "/product/valvula-reductora-de-presion/",
+        "/shop/page/5/?add-to-cart=233",
+        "/product/valvula-de-aire-triple-efecto/",
+        "/product/valvula-compuerta-tipo-luflex-embone/",
+        "/shop/page/5/?add-to-cart=231",
+        "/product/valvula-compuerta-bridada/",
+        "/shop/page/5/?add-to-cart=191",
+        "/shop/page/4/",
+        "/shop/page/1/",
+        "/shop/page/2/",
+        "/shop/page/3/"
+      ],
+      "bytes_html": 151481
+    },
+    {
+      "url": "https://citalyperu.com/product/adaptador-brida-universal/",
+      "http_status": 200,
+      "titulo": "Adaptador Brida Universal – CITALY",
+      "meta_descripcion": "El adaptador brida universal de Citaly ofrece una solución versátil y confiable para la conexión de tuberías con diferentes sistemas de bridas. Ideal para aplicaciones en agua potable, saneamiento y sectores industriales, garantiza una instalación fácil y segura.",
+      "canonica": "https://citalyperu.com/product/adaptador-brida-universal/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "Adaptador Brida Universal",
+        "Descripción",
+        "Productos relacionados",
+        "adaptador brida hierro dúctil para tubería PVC",
+        "acerrojado de hierro dúctil",
+        "adaptador brida de hierro dúctil para tubería hdpe",
+        "Unión Dresser"
+      ],
+      "es_ficha_producto": true,
+      "productos": [
+        "Adaptador Brida Universal",
+        "adaptador brida hierro dúctil para tubería PVC",
+        "acerrojado de hierro dúctil",
+        "adaptador brida de hierro dúctil para tubería hdpe",
+        "Unión Dresser"
+      ],
+      "categorias": [
+        "Inicio",
+        "Accesorios Hierro Dúctil",
+        "Adaptador Brida Universal"
+      ],
+      "especificaciones": [
+        {
+          "atributo": "Tamaños disponibles",
+          "valor": "Variedad de diámetros para adaptarse a diferentes requerimientos."
+        },
+        {
+          "atributo": "Presión nominal",
+          "valor": "PN10, PN16."
+        },
+        {
+          "atributo": "Sistemas de Agua Potable",
+          "valor": "Conexión segura de tuberías en redes de distribución de agua potable."
+        },
+        {
+          "atributo": "Redes de Saneamiento",
+          "valor": "Transición eficiente entre tuberías en sistemas de alcantarillado y drenaje."
+        },
+        {
+          "atributo": "Procesos Industriales",
+          "valor": "Manejo del flujo y la conexión de tuberías en diversas aplicaciones industriales, incluyendo químicos y manufactura."
+        },
+        {
+          "atributo": "Sistemas de Riego",
+          "valor": "Conexión precisa de tuberías en aplicaciones agrícolas."
+        }
+      ],
+      "normas_citadas": [],
+      "tipos_jsonld": [
+        "BreadcrumbList",
+        "ListItem"
+      ],
+      "total_enlaces_internos": 15,
+      "enlaces_internos": [
+        "/product/adaptador-brida-universal/",
+        "/",
+        "/nosotros/",
+        "/shop/",
+        "/contactanos/",
+        "/product-category/accesorios-hierro-ductil/",
+        "/wp-content/uploads/2024/06/adaptador-brida-universal.jpg",
+        "/product/adaptador-brida-hierro-ductil-para-tuberia-pvc/",
+        "/product/adaptador-brida-universal/?add-to-cart=599",
+        "/product/acerrojado-de-hierro-ductil/",
+        "/product/adaptador-brida-universal/?add-to-cart=595",
+        "/product/adaptador-brida-de-hierro-ductil-para-tuberia-hdpe/",
+        "/product/adaptador-brida-universal/?add-to-cart=593",
+        "/product/union-dresser/",
+        "/product/adaptador-brida-universal/?add-to-cart=415"
+      ],
+      "bytes_html": 117255
+    }
+  ]
+}
