@@ -1,0 +1,133 @@
+{
+  "descripcion": "Manifiesto de fuentes del estudio de competencia de FUNDIGSAC. scrape.py --manifiesto rastrea solo las entradas con \"rastrear\": true. Editar a mano tras cada ejecución.",
+  "actualizado": "2026-11-10",
+  "campos": {
+    "robots.estado": "presente | ausente_404 | sin_comprobar | no_aplica",
+    "robots.fecha": "fecha de la última lectura de robots.txt por el rastreador",
+    "ultimo_rastreo": "fecha y versión del último rastreo completo (hasta 40 páginas) y archivo de datos",
+    "ultima_verificacion": "comprobación de portada: una sola solicitud, sin seguir enlaces",
+    "ultima_verificacion.estado": "alcanzable | alcanzable_sin_actualizar | alcanzable_catalogo_vacio | sin_dns | bloqueado | sin_comprobar"
+  },
+  "fuentes": [
+    {
+      "id": "negofer", "empresa": "M&L Negofer SAC", "dominio": "mylnegofersac.com", "url": "https://mylnegofersac.com/",
+      "segmento": "Distribuidor nacional", "rastrear": true,
+      "robots": {"estado": "presente", "fecha": "2026-11-09", "exclusiones_aplicadas": 0, "crawl_delay": null},
+      "ultimo_rastreo": {"fecha": "2026-11-09", "version": "1.0", "datos": "Report/competencia/datos/negofer.json", "estado": "ok", "paginas": 40},
+      "ultima_verificacion": {"fecha": "2026-11-10", "metodo": "WebFetch portada", "estado": "alcanzable"},
+      "notas": "Competidor principal indicado por la empresa. Catálogo PDF de 2020 en portada. Faltan páginas 2 a 11 de Válvulas. Su LocalBusiness declara la misma dirección que publica FUNDIGSAC (V-02)."
+    },
+    {
+      "id": "icofesa", "empresa": "ICOFESA S.A.", "dominio": "icofesa.com", "url": "https://icofesa.com/",
+      "segmento": "Distribuidor multimarca con carrito", "rastrear": true,
+      "robots": {"estado": "presente", "fecha": "2026-11-09", "exclusiones_aplicadas": 0, "crawl_delay": null},
+      "ultimo_rastreo": {"fecha": "2026-11-09", "version": "1.0", "datos": "Report/competencia/datos/icofesa.json", "estado": "ok", "paginas": 23},
+      "ultima_verificacion": {"fecha": "2026-11-10", "metodo": "WebFetch portada", "estado": "alcanzable"},
+      "notas": "Portada muestra filtros de diámetro (pulgadas y mm) y buscador de marcas no capturados por el rastreo HTTP (probable JavaScript). 17 de 40 solicitudes se perdieron en redirecciones 302 el 9-nov; sesion.php y carrito*.php ya se excluyen en v1.1."
+    },
+    {
+      "id": "fumosac", "empresa": "Fundición Moreno (FUMOSAC)", "dominio": "fumosac.com.pe", "url": "https://fumosac.com.pe/",
+      "segmento": "Fabricante nacional", "rastrear": true,
+      "robots": {"estado": "presente", "fecha": "2026-11-09", "exclusiones_aplicadas": 0, "crawl_delay": null},
+      "ultimo_rastreo": {"fecha": "2026-11-09", "version": "1.0", "datos": "Report/competencia/datos/fumosac.json", "estado": "ok", "paginas": 34},
+      "ultima_verificacion": {"fecha": "2026-11-10", "metodo": "WebFetch portada", "estado": "alcanzable"},
+      "notas": "Redirige a www.fumosac.com.pe. PDF por ficha en 17 de 20 fichas. Portada con WhatsApp y chat."
+    },
+    {
+      "id": "collaval-import", "empresa": "Collaval Import", "dominio": "collavalimport.com", "url": "https://collavalimport.com/",
+      "segmento": "Importador", "rastrear": true,
+      "robots": {"estado": "presente", "fecha": "2026-11-09", "exclusiones_aplicadas": 0, "crawl_delay": null},
+      "ultimo_rastreo": {"fecha": "2026-11-09", "version": "1.0", "datos": "Report/competencia/datos/collaval-import.json", "estado": "ok", "paginas": 36},
+      "ultima_verificacion": {"fecha": "2026-11-10", "metodo": "WebFetch portada", "estado": "alcanzable"},
+      "notas": "Ninguna ficha visitada el 9-nov. Comparte teléfono de portada con Citaly (marca C-Italy); vínculo societario no comprobado."
+    },
+    {
+      "id": "mecka", "empresa": "Mecka SAC", "dominio": "meckasacperu.com", "url": "https://meckasacperu.com/",
+      "segmento": "Importador y distribuidor", "rastrear": true,
+      "robots": {"estado": "presente", "fecha": "2026-11-09", "exclusiones_aplicadas": 0, "crawl_delay": null},
+      "ultimo_rastreo": {"fecha": "2026-11-09", "version": "1.0", "datos": "Report/competencia/datos/mecka.json", "estado": "ok", "paginas": 40},
+      "ultima_verificacion": {"fecha": "2026-11-10", "metodo": "WebFetch portada", "estado": "alcanzable_sin_actualizar"},
+      "notas": "Pie de página 2022; imágenes de enero de 2023. Fichas en la raíz del dominio: el detector de fichas no las reconoce."
+    },
+    {
+      "id": "leoneblu", "empresa": "Leoneblu SAC", "dominio": "leoneblusac.com", "url": "https://leoneblusac.com/",
+      "segmento": "Distribuidor multimarca con carrito", "rastrear": true,
+      "robots": {"estado": "ausente_404", "fecha": "2026-11-09", "exclusiones_aplicadas": 0, "crawl_delay": null},
+      "ultimo_rastreo": {"fecha": "2026-11-09", "version": "1.0", "datos": "Report/competencia/datos/leoneblu.json", "estado": "ok", "paginas": 40},
+      "ultima_verificacion": {"fecha": "2026-11-10", "metodo": "WebFetch portada", "estado": "alcanzable"},
+      "notas": "Sin robots.txt (404 equivale a sin restricciones según RFC 9309). 53 de 75 categorías sin visitar por el tope de 40 páginas."
+    },
+    {
+      "id": "eathisa", "empresa": "EATHISA Perú", "dominio": "web.eathisa.com.pe", "url": "https://web.eathisa.com.pe/",
+      "segmento": "Importador y distribuidor", "rastrear": true,
+      "robots": {"estado": "presente", "fecha": "2026-11-09", "exclusiones_aplicadas": 0, "crawl_delay": null},
+      "ultimo_rastreo": {"fecha": "2026-11-09", "version": "1.0", "datos": "Report/competencia/datos/eathisa.json", "estado": "ok", "paginas": 22},
+      "ultima_verificacion": {"fecha": "2026-11-10", "metodo": "WebFetch portada", "estado": "alcanzable_sin_actualizar"},
+      "notas": "Sitio tipo blog; entrada más reciente de abril de 2022."
+    },
+    {
+      "id": "valvulas-peru", "empresa": "Válvulas Perú (RNA World Trade)", "dominio": "valvulasperu.pe", "url": "https://valvulasperu.pe/",
+      "segmento": "Importador (sin datos)", "rastrear": false,
+      "robots": {"estado": "no_aplica", "fecha": "2026-11-09", "exclusiones_aplicadas": 0, "crawl_delay": null},
+      "ultimo_rastreo": {"fecha": "2026-11-09", "version": "1.0", "datos": "Report/competencia/datos/valvulas-peru.json", "estado": "error", "paginas": 0},
+      "ultima_verificacion": {"fecha": "2026-11-10", "metodo": "WebFetch portada", "estado": "sin_dns"},
+      "notas": "NXDOMAIN el 9 y el 10 de noviembre. Excluido del benchmark. Posible sustituto: valvulasperu.com.pe (A.C. Trading), sin comprobar."
+    },
+    {
+      "id": "hi-peru", "empresa": "Hi Perú SAC", "dominio": "www.hiperusac.com.pe", "url": "https://www.hiperusac.com.pe/",
+      "segmento": "Importador y distribuidor", "rastrear": true,
+      "robots": {"estado": "presente", "fecha": "2026-11-09", "exclusiones_aplicadas": 0, "crawl_delay": null},
+      "ultimo_rastreo": {"fecha": "2026-11-09", "version": "1.0", "datos": "Report/competencia/datos/hi-peru.json", "estado": "ok", "paginas": 39},
+      "ultima_verificacion": {"fecha": "2026-11-10", "metodo": "WebFetch portada", "estado": "alcanzable"},
+      "notas": "Portada del 10-nov con carrito en soles, 'Cotiza en Línea' y catálogo PDF; el rastreo del 9-nov no detectó la ruta de carrito."
+    },
+    {
+      "id": "rivali-peru", "empresa": "Rivali Perú", "dominio": "rivaliperu.com", "url": "https://rivaliperu.com/",
+      "segmento": "Importador y distribuidor", "rastrear": true,
+      "robots": {"estado": "presente", "fecha": "2026-11-09", "exclusiones_aplicadas": 0, "crawl_delay": null},
+      "ultimo_rastreo": {"fecha": "2026-11-09", "version": "1.0", "datos": "Report/competencia/datos/rivali-peru.json", "estado": "ok", "paginas": 40},
+      "ultima_verificacion": {"fecha": "2026-11-10", "metodo": "WebFetch portada", "estado": "alcanzable"},
+      "notas": "Catálogo PDF 2025 en todas las páginas. Solo se leyó la primera página de cada listado."
+    },
+    {
+      "id": "inccosac", "empresa": "Inccosac", "dominio": "inccosac.com", "url": "https://inccosac.com/",
+      "segmento": "Fabricante declarado", "rastrear": true,
+      "robots": {"estado": "presente", "fecha": "2026-11-09", "exclusiones_aplicadas": 0, "crawl_delay": null},
+      "ultimo_rastreo": {"fecha": "2026-11-09", "version": "1.0", "datos": "Report/competencia/datos/inccosac.json", "estado": "ok", "paginas": 18},
+      "ultima_verificacion": {"fecha": "2026-11-10", "metodo": "WebFetch portada", "estado": "alcanzable_catalogo_vacio"},
+      "notas": "Tres de cuatro familias del menú con 0 productos el 9 y el 10 de noviembre. La ficha de tubería citada en COMPETIDORES.md responde 404."
+    },
+    {
+      "id": "citaly-peru", "empresa": "Citaly Perú", "dominio": "citalyperu.com", "url": "https://citalyperu.com/",
+      "segmento": "Importador", "rastrear": true,
+      "robots": {"estado": "presente", "fecha": "2026-11-09", "exclusiones_aplicadas": 0, "crawl_delay": null},
+      "ultimo_rastreo": {"fecha": "2026-11-09", "version": "1.0", "datos": "Report/competencia/datos/citaly-peru.json", "estado": "ok", "paginas": 40},
+      "ultima_verificacion": {"fecha": "2026-11-10", "metodo": "WebFetch portada", "estado": "alcanzable"},
+      "notas": "Marca C-Italy, compartida con Collaval Import."
+    },
+    {
+      "id": "fiorella", "empresa": "Fiorella Representaciones", "dominio": "www.fiorellarepre.com.pe", "url": "https://www.fiorellarepre.com.pe/",
+      "segmento": "Candidata: válvulas y contra incendios", "rastrear": false,
+      "robots": {"estado": "sin_comprobar", "fecha": null, "exclusiones_aplicadas": null, "crawl_delay": null},
+      "ultimo_rastreo": null,
+      "ultima_verificacion": {"fecha": null, "metodo": null, "estado": "sin_comprobar"},
+      "notas": "6 de 19 búsquedas sin marca. Prioridad alta según INFORME_COMPETENCIA.md. Activar 'rastrear' para incluirla."
+    },
+    {
+      "id": "valvoline-peru", "empresa": "Valvoline Perú", "dominio": "www.valvoline-peru.com", "url": "https://www.valvoline-peru.com/",
+      "segmento": "Candidata: válvulas y conexiones de hierro dúctil", "rastrear": false,
+      "robots": {"estado": "sin_comprobar", "fecha": null, "exclusiones_aplicadas": null, "crawl_delay": null},
+      "ultimo_rastreo": null,
+      "ultima_verificacion": {"fecha": null, "metodo": null, "estado": "sin_comprobar"},
+      "notas": "5 de 19 búsquedas sin marca. Prioridad alta."
+    },
+    {
+      "id": "grupo-hidraulica", "empresa": "Grupo Hidráulica", "dominio": "grupohidraulica.com", "url": "https://grupohidraulica.com/",
+      "segmento": "Candidata: tubería K9 y C40, marcos y tapas", "rastrear": false,
+      "robots": {"estado": "sin_comprobar", "fecha": null, "exclusiones_aplicadas": null, "crawl_delay": null},
+      "ultimo_rastreo": null,
+      "ultima_verificacion": {"fecha": null, "metodo": null, "estado": "sin_comprobar"},
+      "notas": "2 búsquedas (Q6, Q8). Prioridad alta en tubería."
+    }
+  ]
+}

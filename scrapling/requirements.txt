@@ -1,0 +1,5 @@
+# Versión fijada el 10-nov-2026 a partir de Scrapling/pyproject.toml del clon local (version = "0.5.1").
+# El extra [fetchers] instala solo paquetes de Python (curl_cffi, protego, playwright, patchright...).
+# Este rastreador usa únicamente el Fetcher HTTP; no hace falta ejecutar `scrapling install` (navegadores).
+scrapling[fetchers]==0.5.1
+pytest>=8,<9

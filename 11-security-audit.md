@@ -26,3 +26,11 @@ Referencia: OWASP ASVS 5.0 (V2 autenticación, V3 sesiones, V4 control de acceso
 - Verificar el dominio `fundigsac.com` en Resend (SPF/DKIM/DMARC) para que los correos al público no caigan en spam.
 - Revisión legal humana del texto de los correos y del cómputo de plazos (feriados 2026–2027 cargados a mano).
 - `npm audit --omit=dev` de Admin: 1 alta preexistente en `zod` <4.6.6 (agotamiento de memoria). Corregida con `zod` 4.6.7 (commit d74ac8d); ahora 0 vulnerabilidades.
+
+## Incidente I-01 (10/11/2026) — datos de prueba en producción
+
+- **Qué pasó.** Para comprobar si unos fallos E2E ya existían, corrí la suite del sitio contra `https://fundigsac-web.vercel.app`. Algunas pruebas envían formularios reales: entre las 10:33 y las 10:43 (hora de Lima) crearon 2 cotizaciones, 2 consultas, 1 hoja de reclamación y 37 consentimientos ficticios en la base `app` de producción. También encolaron 5 constancias a dominios de prueba (`prueba.com.pe`, `correo.pe`) y enviaron 5 avisos internos al correo del administrador temporal.
+- **Detección.** El nuevo `GET /api/v1/health` mostró 5 correos pendientes.
+- **Contención.** Se borraron los registros, sus historiales, su auditoría, las constancias pendientes y los consentimientos de esa ventana. Se reiniciaron los correlativos, así que el primer reclamo real será `REC-2026-000001`, sin huecos. Ningún correo salió hacia los dominios de prueba: Resend los rechazó porque el dominio no está verificado.
+- **Prevención.** Las pruebas de API exigen `TEST_DATABASE_URL`. La configuración de Playwright del sitio se niega a correr contra producción (rama `fix/e2e-rediseno`). La regla quedó en `CLAUDE.md`.
+- **Para el responsable.** Puedes ignorar o borrar los 5 avisos «Nueva solicitud…/Libro de Reclamaciones: nueva hoja» de hoy en tu Gmail: eran de prueba.

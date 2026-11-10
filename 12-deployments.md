@@ -10,3 +10,14 @@ Producción de los tres enlaces sin cambios en esta fecha. La promoción de Admi
 ## Variables en Vercel `fundigsac-admin` (valores cifrados, no se listan)
 
 Preview y Production: `DATABASE_URL`, `API_JWT_SECRET`, `ADMIN_AUTH_SECRET`, `RECEIPT_KEY`, `SITE_URL`, `ADMIN_URL`, `MAIL_FROM`, `SALES_INBOX`, `LEGAL_INBOX`, `PRIVACY_INBOX`. Solo Preview: `NEXT_PUBLIC_DATA_SOURCE=backend`, `BACKEND_URL=self`. Pendiente: `RESEND_API_KEY` (la carga el responsable).
+
+## 2026-11-10 (tarde): publicación en producción
+
+| Sistema | Commit en `main` | Despliegue | URL estable | Verificación en producción | Rollback |
+| --- | --- | --- | --- | --- | --- |
+| Admin + API | 99c1370 | `fundigsac-admin-3t8ncni2g-…` | https://fundigsac-admin.vercel.app | Sin demo; `/api/v1/staff/profile` y BFF responden 401 sin sesión; código de acceso enviado por Resend (`SENT`) | Promover `fundigsac-admin-eo3dqwmj7-…` |
+| Sitio | 72030f3 | `dpl_474BbZK5rcTvtJyC15n2TcXUWWsx` | https://fundigsac-web.vercel.app | Reclamo inválido → 400 con errores por campo (sin crear registro); consentimiento 201; el límite cuenta por la IP real del visitante; `CUSTOMER_ACCOUNTS=off` | Promover `fundigsac-248vclsh2-…` o quitar `BACKEND_URL` |
+| Stock | c574d21 (bbffd82 + intro) | `fundigsac-stock-dashboard-lk8h5h83p-…` | https://fundigsac-stock-dashboard.vercel.app | Tras el aviso «Actualizar» de la PWA: tabla de 19 trabajadores (igual que la base), sin errores de consola | Promover `fundigsac-stock-dashboard-7rg8an409-…` |
+| Admin (diseño) | 3ae4319 | `fundigsac-admin-jdqeejrj6-…` | https://fundigsac-admin.vercel.app | Login sin demo, API 401 sin sesión, sin errores de consola | Promover `fundigsac-admin-3t8ncni2g-…` |
+
+Previews de Stock: no tienen variables de Supabase a propósito, para no exponer datos reales de trabajadores en un Preview (regla 5). Sus pruebas corren con mocks.
