@@ -36,3 +36,39 @@ Solo resultados ejecutados en esta sesión. Datos siempre sintéticos (`@example
 | Stock: vitest | local | ed3696f | 227/227 |
 | Scrapling: parser | local | Report de9873c | 44/44 |
 | Producción: humo en las 3 URL | producción | ver 12-deployments | correcto, sin crear datos |
+
+## 2026-11-10 (tanda 2, ramas `feat/ideas-tanda-2`, sin publicar)
+
+Primera corrida en Firefox y WebKit (motor de Safari). Todo local, con datos sintéticos o de demostración; ninguna prueba apunta a producción.
+
+| Suite | Proyecto | Aprobadas | Fallidas | Omitidas |
+| --- | --- | --- | --- | --- |
+| Sitio (6ddbb32) | Chromium escritorio | 321 | 0 | 9 |
+| Sitio | Chromium celular | 321 | 0 | 9 |
+| Sitio | Firefox escritorio | 318 | 1 | 11 |
+| Sitio | WebKit escritorio | 320 | 1 | 9 |
+| Sitio | WebKit iPhone 15 | 319 | 2 | 9 |
+| Sitio: vitest | | 153 | 0 | |
+| Admin (e8f086a), modo demo | Chromium escritorio | 39 | 0 | 0 |
+| Admin | Pixel 7 | 34 | 0 | 5 |
+| Admin | Firefox | 39 | 0 | 0 |
+| Admin | WebKit | 39 | 0 | 0 |
+| Admin | iPhone 13 | 34 | 0 | 5 |
+| Stock (d10c00e), backend simulado | Chromium | 72 | 0 | 0 |
+| Stock | Firefox | 68 | 0 | 4 |
+| Stock | WebKit | 65 | 0 | 7 |
+| Stock | iPhone 13 | 64 | 0 | 8 |
+| Stock: vitest | | 242 | 0 | |
+
+Las 4 fallas del sitio son intermitentes: al repetirlas 3 veces, pasan la mayoría de las veces. Son el asistente y el envío del Libro de Reclamaciones en WebKit escritorio, el foco del título de la constancia de reclamo en iPhone y el foco del buscador en Firefox. Las omisiones tienen su motivo escrito en el código: Google OAuth o el backend en Docker, que no hay en local; el service worker, que Playwright no puede interceptar en WebKit; y Firefox en modo «trabajar sin conexión».
+
+Errores reales que salieron con los otros navegadores y ya se corrigieron:
+
+- Stock en Safari privado no guardaba fotos (IndexedDB), así que una entrega con foto quedaba esperando sin terminar.
+- Stock decía «Conectado» unos 7 s estando sin red.
+- La isla del reporte semanal de Stock se salía 244 px de la pantalla en tabletas con Safari.
+- En el sitio con Firefox, el correo del pie ensanchaba la página 7 px a 390 px de ancho.
+- En el sitio con WebKit, lo escrito en el buscador antes de terminar la carga no filtraba.
+- En el Admin, «Limpiar filtros» cambiaba la ruta sin necesidad e interrumpía la siguiente navegación (Firefox, iPhone).
+
+La consulta nueva de `GET /staff/accounts/stats` (filtros por KPI) se probó en la base real dentro de una transacción de solo lectura y respondió sin errores.
