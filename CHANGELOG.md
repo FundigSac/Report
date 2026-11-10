@@ -1,5 +1,26 @@
 # Changelog
 
+## 2026-11-10 (noche) · tanda 2
+
+### Sitio (6ddbb32)
+- Tabla «Medidas disponibles» en las fichas, con enlace por medida (X1-4, X5-4).
+- Chips DN/PN, cantidad y botón «Agregar a cotización» en la ficha (B10-2).
+- Conteo en los filtros de /productos y tarjetas de Termofusión y Medidores (X5-1).
+- Accesibilidad: puntos del carrusel de 24 px o más; el texto de las tarjetas ya no queda transparente por la animación.
+- Fotos de la portada más livianas en celular (unos 53 KB menos).
+- Correcciones para Firefox y Safari: desborde del pie y búsqueda escrita antes de terminar la carga.
+
+### Admin (e8f086a)
+- KPI como filtros (B4-1), cotizaciones por etapa (B2-2), matriz de permisos agrupada y línea de tiempo de estados (B12-4).
+- «Limpiar filtros» ya no interrumpe la navegación siguiente.
+
+### Stock (d10c00e)
+- Barra de salud del inventario (B25-1), aviso sin conexión con la hora de la copia (X10-4), total y título de la tabla (B6-2), reintento sin perder la foto (X10-5) y flechas del teclado en Movimientos (B23-3).
+- Fotos en Safari con navegación privada; «Conectado» falso sin red; isla del reporte en tabletas.
+
+### Pruebas
+- Primera corrida en Firefox y WebKit en las tres apps (ver 09-test-matrix).
+
 ## 2026-11-10
 
 ### Admin (`feat/api-real-supabase`)

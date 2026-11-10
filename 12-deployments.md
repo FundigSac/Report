@@ -31,3 +31,11 @@ Previews de Stock: no tienen variables de Supabase a propósito, para no exponer
 | Sitio | 2221b5c (diseño 4/11, 7 familias, 85 fichas) → 513312c (9 ideas) | https://fundigsac-web.vercel.app | CTA #c94f0a, búsqueda vacía con «Pedir cotización», 0 imágenes rotas, reclamo inválido 400 |
 
 Base `app`: 0 reclamos, 0 cotizaciones, 0 consultas tras las pruebas de humo (ningún dato ficticio).
+
+## 2026-11-10 (noche) · tanda 2
+
+| Sistema | Commit en `main` | Despliegue | URL | Verificación en producción | Rollback |
+| --- | --- | --- | --- | --- | --- |
+| Admin | e8f086a | Preview `fundigsac-admin-gd94v8buh-…` y luego producción `fundigsac-admin-lz8pax8ig-…` (CLI) | https://fundigsac-admin.vercel.app | health ok (base 62 ms), `stats` sin sesión 401 | promover a76c367 |
+| Stock | d10c00e | producción `fundigsac-stock-dashboard-d5vq35yjr-…` (CLI) | https://fundigsac-stock-dashboard.vercel.app | aviso «Hay una versión nueva» → Actualizar → carga `index-yxdalcZ4.js`; barra de salud visible; «En línea · Todo subido»; sin cambios de datos | promover ed3696f |
+| Sitio | 6ddbb32 | Preview `fundigsac-gjn3a1aao-…` (READY) y luego push a `main` | https://fundigsac-web.vercel.app | ficha con «Medidas disponibles», caption, chips y «Agregar a cotización»; /productos con conteos y Equipos de termofusión; puntos del carrusel 34×34; 0 imágenes rotas; sin desborde; reclamo inválido → 400; la base sigue con 0 cotizaciones, 0 reclamos y 0 consultas | promover 513312c |
