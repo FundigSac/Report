@@ -21,3 +21,13 @@ Preview y Production: `DATABASE_URL`, `API_JWT_SECRET`, `ADMIN_AUTH_SECRET`, `RE
 | Admin (diseño) | 3ae4319 | `fundigsac-admin-jdqeejrj6-…` | https://fundigsac-admin.vercel.app | Login sin demo, API 401 sin sesión, sin errores de consola | Promover `fundigsac-admin-3t8ncni2g-…` |
 
 Previews de Stock: no tienen variables de Supabase a propósito, para no exponer datos reales de trabajadores en un Preview (regla 5). Sus pruebas corren con mocks.
+
+## 2026-11-10 (noche): diseño restaurado + 22 mejoras de favoritos y referencias
+
+| Sistema | Commit en `main` | URL | Verificación en producción |
+| --- | --- | --- | --- |
+| Admin | 5e72910 (diseño 20/10) → a76c367 (7 ideas) | https://fundigsac-admin.vercel.app | Sin demo, salud `ok`, 0 correos pendientes |
+| Stock | 55b6762 (diseño 30/10 + espacio) → ed3696f (7 ideas) | https://fundigsac-stock-dashboard.vercel.app | Aviso PWA «Actualizar» → versión nueva, cifras tabulares, estados con ícono, sin errores |
+| Sitio | 2221b5c (diseño 4/11, 7 familias, 85 fichas) → 513312c (9 ideas) | https://fundigsac-web.vercel.app | CTA #c94f0a, búsqueda vacía con «Pedir cotización», 0 imágenes rotas, reclamo inválido 400 |
+
+Base `app`: 0 reclamos, 0 cotizaciones, 0 consultas tras las pruebas de humo (ningún dato ficticio).

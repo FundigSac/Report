@@ -17,3 +17,8 @@
 - **Sitio**: formularios conectados a la API real; cuentas de clientes apagadas hasta verificar el dominio de correo (`CUSTOMER_ACCOUNTS=off`); IP del visitante firmada para los límites. 3cf9e4d, 72030f3
 - **Stock**: Resumen accesible en el celular, gráfico de 30 días a pedido, tabla de trabajadores en escritorio; entrada «Línea de flujo». bbffd82, c574d21
 - **Datos**: respaldo cifrado de Stock con restauración aislada y conciliación exacta (huella de saldos idéntica).
+
+### Diseño restaurado y mejoras de favoritos (noche)
+- El responsable rechazó el rediseño del 9/11. Se restauró el diseño del 4/11 (sitio), 20/10 (Admin) y 30/10 (Stock), conservando API real, modo sin conexión y SEO; el sitio recupera además 7 familias y 85 fichas con ese diseño.
+- Fase 2 V3: 71 favoritos inventariados, 30 de diseño revisados en Claude in Chrome (29 con contenido), 14 referencias externas nuevas, 268 ideas; Scrapling real sobre 15 fuentes (12 rastreadas, 3 bloqueadas por robots/403, respetadas).
+- 22 ideas implementadas y publicadas (ver `03b-ideas-to-code.csv`): contraste AA del naranja, filtros con chips y conteo, búsqueda vacía útil, línea de especificaciones verificadas, botón de envío con estados, resumen de errores, constancia imprimible del Libro, carrito accesible; Admin: estados vacíos, plazo legal con ícono, conteos, fechas con hora exacta, cifras tabulares, mensaje de éxito persistente; Stock: estado con ícono y texto, movimientos con signo, esqueletos de carga, controles de 48 px, pestaña activa, error/vacío distintos.

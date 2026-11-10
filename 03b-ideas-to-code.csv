@@ -1,23 +1,23 @@
 idea_id,source_url,target_app,target_route,component,decision,commit,test,preview,status
-B18-1,https://kigen.design/color,frontend,global,tokens de color CTA/enlaces,aprovechar,,unit contraste,,en implementación
-X2-1+X1-1,https://www.bermad.com/es/products/control-valves/ ; https://www.avkvalvulas.com/es-es/buscador-de-productos,frontend,/productos y familias,chips de filtros + conteo,adaptar,,e2e,,en implementación
-B30-3+X5-7,https://ui.gradientdeck.com/ ; Pollardwater,frontend,búsqueda de catálogo,estado sin resultados,adaptar,,e2e,,en implementación
-X1-2+B8-3,https://www.avkvalvulas.com/es-es/buscador-de-productos ; https://getdesign.md/,frontend,tarjetas de producto,línea de especificaciones,adaptar,,e2e,,en implementación
-B28-1,https://prompt-motion.com/,frontend,/cotizar,botón enviar con estados,adaptar,,e2e,,en implementación
-X11-3,https://design-system.service.gov.uk/,frontend,formularios,resumen de errores,aprovechar,,e2e,,en implementación
-X11-2,https://design-system.service.gov.uk/,frontend,/reclamaciones,constancia con folio y plazo,adaptar,,e2e,,en implementación
-X7-3,https://www.gfps.com/,frontend,carrito de cotización,stepper + contador anunciado,adaptar,,e2e,,en implementación
-B28-9,https://prompt-motion.com/,frontend,/,pausa del carrusel,aprovechar,,e2e,,en implementación
-X8-1,https://cloudscape.design/,admin,listas,estados vacíos,aprovechar,,e2e,,en implementación
-X12-1,https://carbondesignsystem.com/,admin,reclamaciones/privacidad,estado de plazo legal,aprovechar,,e2e,,en implementación
-X8-2+X9-2,https://cloudscape.design/ ; https://polaris.shopify.com/,admin,listas,conteos en títulos,aprovechar,,e2e,,en implementación
-X10-1,https://primer.style/,admin,actividad/historiales,fechas relativas con hora exacta,aprovechar,,e2e,,en implementación
-B9-1,https://www.ui-skills.com/,admin+stock,tablas y KPIs,tabular-nums,aprovechar,,e2e,,en implementación
-X9-7,https://polaris.shopify.com/,admin,global,nombres accesibles en botones de ícono,aprovechar,,axe,,en implementación
-X8-5,https://cloudscape.design/,admin,fichas de casos,mensaje de éxito persistente,adaptar,,e2e,,en implementación
-B9-2+X12-2,https://www.ui-skills.com/ ; https://carbondesignsystem.com/,stock,Stock/Resumen/detalle,estado con ícono y texto,aprovechar,,e2e,,en implementación
-X12-4,https://carbondesignsystem.com/,stock,Movimientos/historiales,cantidades con signo y flecha,aprovechar,,e2e,,en implementación
-B12-1,https://uiverse.io/,stock,vistas con datos,esqueletos de carga,adaptar,,e2e,,en implementación
-B9-3,https://www.ui-skills.com/,stock,global móvil,objetivos táctiles ≥48 px,aprovechar,,e2e,,en implementación
-B16-4+B5-1,https://fonts.google.com/icons ; https://animate-ui.com/,stock,barra inferior móvil,pastilla de pestaña activa,adaptar,,e2e,,en implementación
-X10-4,https://primer.style/,stock,vistas con datos,carga/error/vacío distintos,aprovechar,,e2e,,en implementación
+B18-1,https://kigen.design/color,frontend,global,tokens de color CTA/enlaces,aprovechar,599abcc..513312c,unit contraste,https://fundigsac-web.vercel.app,implementado, probado y publicado (2026-11-10)
+X2-1+X1-1,https://www.bermad.com/es/products/control-valves/ ; https://www.avkvalvulas.com/es-es/buscador-de-productos,frontend,/productos y familias,chips de filtros + conteo,adaptar,599abcc..513312c,e2e,https://fundigsac-web.vercel.app,implementado, probado y publicado (2026-11-10)
+B30-3+X5-7,https://ui.gradientdeck.com/ ; Pollardwater,frontend,búsqueda de catálogo,estado sin resultados,adaptar,599abcc..513312c,e2e,https://fundigsac-web.vercel.app,implementado, probado y publicado (2026-11-10)
+X1-2+B8-3,https://www.avkvalvulas.com/es-es/buscador-de-productos ; https://getdesign.md/,frontend,tarjetas de producto,línea de especificaciones,adaptar,599abcc..513312c,e2e,https://fundigsac-web.vercel.app,implementado, probado y publicado (2026-11-10)
+B28-1,https://prompt-motion.com/,frontend,/cotizar,botón enviar con estados,adaptar,599abcc..513312c,e2e,https://fundigsac-web.vercel.app,implementado, probado y publicado (2026-11-10)
+X11-3,https://design-system.service.gov.uk/,frontend,formularios,resumen de errores,aprovechar,599abcc..513312c,e2e,https://fundigsac-web.vercel.app,implementado, probado y publicado (2026-11-10)
+X11-2,https://design-system.service.gov.uk/,frontend,/reclamaciones,constancia con folio y plazo,adaptar,599abcc..513312c,e2e,https://fundigsac-web.vercel.app,implementado, probado y publicado (2026-11-10)
+X7-3,https://www.gfps.com/,frontend,carrito de cotización,stepper + contador anunciado,adaptar,599abcc..513312c,e2e,https://fundigsac-web.vercel.app,implementado, probado y publicado (2026-11-10)
+B28-9,https://prompt-motion.com/,frontend,/,pausa del carrusel,aprovechar,599abcc..513312c,e2e,https://fundigsac-web.vercel.app,verificado (ya existía; E2E agregado)
+X8-1,https://cloudscape.design/,admin,listas,estados vacíos,aprovechar,ef7fd5a..a76c367,e2e,https://fundigsac-admin.vercel.app,implementado, probado y publicado (2026-11-10)
+X12-1,https://carbondesignsystem.com/,admin,reclamaciones/privacidad,estado de plazo legal,aprovechar,ef7fd5a..a76c367,e2e,https://fundigsac-admin.vercel.app,implementado, probado y publicado (2026-11-10)
+X8-2+X9-2,https://cloudscape.design/ ; https://polaris.shopify.com/,admin,listas,conteos en títulos,aprovechar,ef7fd5a..a76c367,e2e,https://fundigsac-admin.vercel.app,implementado, probado y publicado (2026-11-10)
+X10-1,https://primer.style/,admin,actividad/historiales,fechas relativas con hora exacta,aprovechar,ef7fd5a..a76c367,e2e,https://fundigsac-admin.vercel.app,implementado, probado y publicado (2026-11-10)
+B9-1,https://www.ui-skills.com/,admin+stock,tablas y KPIs,tabular-nums,aprovechar,ef7fd5a / 5446b8f,e2e,https://fundigsac-admin.vercel.app,implementado, probado y publicado (2026-11-10)
+X9-7,https://polaris.shopify.com/,admin,global,nombres accesibles en botones de ícono,aprovechar,ef7fd5a..a76c367,axe,https://fundigsac-admin.vercel.app,auditado (1 botón corregido; E2E axe)
+X8-5,https://cloudscape.design/,admin,fichas de casos,mensaje de éxito persistente,adaptar,ef7fd5a..a76c367,e2e,https://fundigsac-admin.vercel.app,implementado, probado y publicado (2026-11-10)
+B9-2+X12-2,https://www.ui-skills.com/ ; https://carbondesignsystem.com/,stock,Stock/Resumen/detalle,estado con ícono y texto,aprovechar,91978a6..ed3696f,e2e,https://fundigsac-stock-dashboard.vercel.app,implementado, probado y publicado (2026-11-10)
+X12-4,https://carbondesignsystem.com/,stock,Movimientos/historiales,cantidades con signo y flecha,aprovechar,91978a6..ed3696f,e2e,https://fundigsac-stock-dashboard.vercel.app,implementado, probado y publicado (2026-11-10)
+B12-1,https://uiverse.io/,stock,vistas con datos,esqueletos de carga,adaptar,91978a6..ed3696f,e2e,https://fundigsac-stock-dashboard.vercel.app,implementado, probado y publicado (2026-11-10)
+B9-3,https://www.ui-skills.com/,stock,global móvil,objetivos táctiles ≥48 px,aprovechar,91978a6..ed3696f,e2e,https://fundigsac-stock-dashboard.vercel.app,implementado, probado y publicado (2026-11-10)
+B16-4+B5-1,https://fonts.google.com/icons ; https://animate-ui.com/,stock,barra inferior móvil,pastilla de pestaña activa,adaptar,91978a6..ed3696f,e2e,https://fundigsac-stock-dashboard.vercel.app,implementado, probado y publicado (2026-11-10)
+X10-4,https://primer.style/,stock,vistas con datos,carga/error/vacío distintos,aprovechar,91978a6..ed3696f,e2e,https://fundigsac-stock-dashboard.vercel.app,implementado, probado y publicado (2026-11-10)

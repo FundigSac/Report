@@ -23,3 +23,16 @@ Solo resultados ejecutados en esta sesión. Datos siempre sintéticos (`@example
 - Suite visual multi-navegador, Lighthouse y axe de esta versión.
 - Pruebas del Backend Java con Testcontainers: Docker Desktop está detenido en este equipo.
 - Una base de pruebas separada para CI: hoy las pruebas de integración corren contra el proyecto real y se limpian a mano; antes de abrir CI hay que crear un proyecto o rama de Supabase de pruebas.
+
+## 2026-11-10 (noche)
+
+| Suite | Entorno | Commit | Resultado |
+| --- | --- | --- | --- |
+| Sitio: Playwright completo (escritorio + celular) | local, BACKEND_URL=off | 513312c | 612 aprobadas, 18 omitidas (ya existentes), 0 fallidas |
+| Sitio: vitest | local | 513312c | 138/138 |
+| Admin: tests/panel.spec.ts (demo) | local | a76c367 | 60 aprobadas, 4 omitidas (solo escritorio), 0 fallidas |
+| Admin: auditoría responsive | local | a76c367 | 19 pantallas × 13 anchos sin problemas |
+| Stock: Playwright | local con backend simulado | ed3696f | 61/61 |
+| Stock: vitest | local | ed3696f | 227/227 |
+| Scrapling: parser | local | Report de9873c | 44/44 |
+| Producción: humo en las 3 URL | producción | ver 12-deployments | correcto, sin crear datos |
