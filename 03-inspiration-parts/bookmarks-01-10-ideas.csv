@@ -1,0 +1,62 @@
+idea_id,source_url,page,target_app,target_component,proposal,impact,effort,decision
+B1-1,https://stitch.withgoogle.com/,Prototipo Auralis (galería),frontend,Home - sección Productos,"Bento de líneas de producto: tarjeta grande de válvulas con foto, secundaria HDPE y fila de chips con icono (acoplamientos, tuberías, repuestos, servicio)",4,M,aprovechar
+B1-2,https://stitch.withgoogle.com/,Prototipo Auralis,frontend,Encabezados de sección,"Eyebrow en pill con el sector (Saneamiento, Minería, Riego) sobre cada H2",2,S,aprovechar
+B1-3,https://stitch.withgoogle.com/,Prototipo Auralis,frontend,Hero con carrusel,"Titular a la izquierda, bloque de especificaciones a la derecha y par de CTA naranja + outline, sin tocar la foto",3,S,adaptar
+B1-4,https://stitch.withgoogle.com/,Prototipo (rail de dispositivo),admin,Editor de producto/contenidos,Vista previa con alternancia escritorio/móvil (iframe 390 px) antes de publicar,3,M,adaptar
+B1-5,https://stitch.withgoogle.com/,Portada (chips de prompt),frontend,Buscador del catálogo,"Chips de búsquedas frecuentes bajo el buscador (Válvula compuerta DN100, Acople HDPE 110 mm, Brida PN16)",3,S,aprovechar
+B1-6,https://stitch.withgoogle.com/,Prototipo Auralis,transversal,Animaciones de entrada,"Lección: ninguna sección se oculta con opacity 0 sin fallback; animar solo transform y respetar reduced motion",2,S,descartar
+B2-1,https://v0.app/templates/salesops-dashboard-9q2Mfgu6cDi,SalesOps Dashboard,admin,Tarjetas KPI del dashboard,"Variación frente al periodo anterior con flecha, signo y texto en cada KPI",4,S,aprovechar
+B2-2,https://v0.app/templates/salesops-dashboard-9q2Mfgu6cDi,SalesOps Dashboard,admin,Dashboard / Cotizaciones,"Embudo de cotizaciones (Solicitada, Cotizada, Negociación, Ganada) con barras CSS, conteo, % y total en S/",5,M,aprovechar
+B2-3,https://v0.app/templates/salesops-dashboard-9q2Mfgu6cDi,SalesOps Dashboard,admin,Dashboard - lista,"Últimas cotizaciones con cliente, vendedor, hora relativa, monto y estado con icono y texto; Ver todas",4,S,aprovechar
+B2-4,https://v0.app/templates/salesops-dashboard-9q2Mfgu6cDi,SalesOps Dashboard,admin,Cabecera del dashboard,"Selector de periodo global (7 d, 30 d, trimestre, año) aplicado a todos los widgets",3,S,aprovechar
+B2-5,https://v0.app/templates,Galería de plantillas,frontend,Índice de categorías,Tarjeta de categoría con mosaico 2x2 de fotos reales de producto,3,M,adaptar
+B2-6,https://v0.app/templates/salesops-dashboard-9q2Mfgu6cDi,SalesOps Dashboard,admin,Dashboard,Ranking de vendedores: no aplica (expone el rendimiento de personas),1,S,descartar
+B3-1,https://magicui.design/docs/components/number-ticker,Number Ticker,frontend,Franja FUNDIGSAC en cifras,"Conteo al entrar en el viewport con JS propio; valor final ya en el HTML; tabular-nums; reduced motion",3,S,adaptar
+B3-2,https://magicui.design/docs/components/marquee,Marquee,frontend,Franja de confianza bajo el hero,"Marquesina CSS de logos de clientes y sellos de norma con bordes desvanecidos y pausa en hover/foco",3,S,adaptar
+B3-3,https://magicui.design/docs/components/bento-grid,Bento Grid,frontend,Sección Sectores,"Bento de sectores con foto o pictograma SVG, Ver soluciones y elevación sutil al pasar el puntero",3,M,adaptar
+B3-4,https://magicui.design/,Portada (pill de anuncio),frontend,Hero,Pill sobre el titular: Nuevo catálogo técnico 2026 con enlace a descargas,3,S,aprovechar
+B3-5,https://magicui.design/,Portada (muro de testimonios),frontend,Sección Proyectos,"Obras referenciales en masonry (foto, cliente, ubicación, producto) en lugar de tweets",2,M,adaptar
+B3-6,https://magicui.design/docs/components/marquee,Sidebar de docs,admin,Sidebar de 9 secciones,Badge Nuevo temporal (30 días) en las secciones nuevas,2,S,aprovechar
+B4-1,https://smoothui.dev/,Demo Dashboard,admin,Dashboard,"KPI como filtros: al pulsarlo, el gráfico y la actividad muestran ese subconjunto; Quitar filtro; aria-pressed",5,M,aprovechar
+B4-2,https://smoothui.dev/,Demo Dashboard,stock,Inicio - actividad reciente,"Feed de movimientos de EPP (entrega, devolución, ingreso) con icono, área y hora relativa",3,S,aprovechar
+B4-3,https://smoothui.dev/docs/components/svg-draw-on-scroll,SVG Draw On Scroll,frontend,Sección Proceso,"Línea de tubería SVG que se dibuja una sola vez al hacer scroll y une las etapas, con punto naranja en la punta",4,M,aprovechar
+B4-4,https://smoothui.dev/docs/components/animated-stepper,Animated Stepper,frontend,Formulario de cotización,"Cotización en 4 pasos (Producto, Cantidades, Empresa, Confirmar) con línea de progreso",4,M,adaptar
+B4-5,https://smoothui.dev/docs/components/content-skeleton,Content Skeleton,stock,Listas de EPP e inventario,Skeletons con la forma exacta de las tarjetas Slab en lugar del spinner,3,S,aprovechar
+B4-6,https://smoothui.dev/docs/components,Índice de componentes,frontend,Catálogo,Índice filtrable con contador: duplicado de B6-4/B10-5,2,S,descartar
+B5-1,https://animate-ui.com/docs/primitives/animate-ui/bottom-navigation,Bottom Navigation,stock,Navegación inferior móvil,"Indicador que se desliza, botón + aparte para Registrar entrega y barra que se oculta al bajar",5,M,aprovechar
+B5-2,https://animate-ui.com/docs/primitives/radix-ui/tabs,Tabs,admin,Ficha de producto / detalle de trabajador (stock),Pill indicador deslizante en las tabs existentes con patrón ARIA de tabs,3,S,aprovechar
+B5-3,https://animate-ui.com/docs/primitives/texts/sliding-number,Sliding Number,stock,Tarjeta de EPP y KPI de inicio,"Cantidad tipo odómetro al confirmar un movimiento, anunciada en aria-live",3,S,aprovechar
+B5-4,https://animate-ui.com/,Portada (Progress),admin,Carga de fichas y galería,Barra de progreso fina con porcentaje en tabular-nums por archivo,3,S,aprovechar
+B5-5,https://animate-ui.com/,Portada (Toast),stock,Confirmaciones,"Toast Entrega registrada con Deshacer, role status",3,S,adaptar
+B5-6,https://animate-ui.com/,Portada (Accordion),frontend,Ficha de producto / FAQ,FAQ técnico por familia con details/summary nativo y transición CSS,2,S,adaptar
+B6-1,https://21st.dev/community/components,Preview Contour line Mountain,frontend,Sección Proyectos / Cobertura,"Mapa SVG propio con curvas de nivel, marcadores de obras y tarjeta de detalle; lista HTML equivalente",4,L,adaptar
+B6-2,https://21st.dev/@arunachalam/components/animated-table,Animated Table,stock,Tabla de inventario (y tablas del admin),"Fila de total en tfoot y caption visible; escalonado solo en la primera carga",4,S,aprovechar
+B6-3,https://21st.dev/community/components/s/comparison,Comparison,frontend,Ficha de producto y guías,"Bloque ¿Cuál elegir? de dos columnas (compuerta vs mariposa; electrofusión vs termofusión)",4,M,aprovechar
+B6-4,https://21st.dev/community/components,Sidebar de categorías,frontend,Filtros del catálogo,Contador de productos por categoría y filtro,3,S,aprovechar
+B6-5,https://21st.dev/community/components,Modal de preview (See similar),frontend,Ficha de producto,Bloque Productos similares por familia o DN,3,M,adaptar
+B6-6,https://21st.dev/community/components/s/table,Plantillas de pricing,frontend,—,Tablas de precios: no aplica (B2B cotiza),0,S,descartar
+B7-1,https://styles.refero.design/style/90ce5883-bb24-4466-93f7-801cd617b0d1,Estilo Linear (swatches),transversal,Guía de estilo interna,"Swatches con reglas de uso: #f26a1b solo CTA, #d7261e solo alertas de stock, navy estructura",4,M,aprovechar
+B7-2,https://styles.refero.design/style/90ce5883-bb24-4466-93f7-801cd617b0d1,Estilo Linear (pestañas de export),transversal,Tokens de las 3 apps,Fuente única de tokens por app que genere CSS variables y un DESIGN.md corto,4,M,aprovechar
+B7-3,https://styles.refero.design/style/90ce5883-bb24-4466-93f7-801cd617b0d1,Estilo Linear (escala de superficies),admin,Variables de tema,"Escala navy con roles (surface-canvas, panel, row-alt, border-hairline, border-strong)",3,S,aprovechar
+B7-4,https://styles.refero.design/?sort=popular,Galería,frontend,Tarjetas de proyecto,Rotación de 2-3 fotos de obra en hover/foco; sin autoplay,2,S,adaptar
+B7-5,https://styles.refero.design/style/90ce5883-bb24-4466-93f7-801cd617b0d1,Estilo Linear (lema),transversal,DESIGN.md de cada app,Lema de una línea por app para orientar los cambios,2,S,aprovechar
+B8-1,https://getdesign.md/dji/design-md,DJI Button Variants,transversal,Componentes de botón,"Catálogo de botones con reglas: primario naranja Cotizar, outline Ficha técnica, ghost sobre foto; Ficha técnica siempre junto a Cotizar",4,S,aprovechar
+B8-2,https://getdesign.md/dji/design-md,DJI button-hero-ghost,frontend,Hero con carrusel,CTA secundario con contorno blanco y fondo navy translúcido sobre la foto,3,S,aprovechar
+B8-3,https://getdesign.md/dji/design-md,DJI paleta (tier/badge/error),frontend,Tarjeta de producto,"Eyebrow PN/norma, badge Stock inmediato o A pedido con texto e icono",4,S,aprovechar
+B8-4,https://getdesign.md/dji/design-md,DJI tipografía por rol,frontend,Tokens tipográficos,"Escala por rol: product-name, spec-label, spec-value, section-eyebrow, body",3,S,aprovechar
+B8-5,https://getdesign.md/dji/design-md,DJI Compare Options,frontend,Catálogo y ficha,Botón Comparar que añade a un comparador de hasta 3 productos,3,M,adaptar
+B8-6,https://getdesign.md/dji/design-md,DJI superficies,frontend,Ritmo de secciones de la home,Alternar bandas blanco y gris muy claro; navy para footer y CTA,2,S,aprovechar
+B9-1,https://www.ui-skills.com/playbook/use-tabular-nums-for-data,Tabular nums,transversal,Tablas y KPI,font-variant-numeric tabular-nums en celdas numéricas y contadores,4,S,aprovechar
+B9-2,https://www.ui-skills.com/playbook,Never use color alone for status,stock,Tarjetas de EPP y badges del admin,"Estados OK, Bajo, Crítico, Agotado con icono y texto, no solo color",5,S,aprovechar
+B9-3,https://www.ui-skills.com/playbook,Use 44px touch targets,stock,"Steppers, nav inferior, chips",Objetivos táctiles de 44 px o más (48 px con guantes),5,S,aprovechar
+B9-4,https://www.ui-skills.com/playbook,Preview next item / fade edges,frontend,Carriles horizontales (y chips de stock),"scroll-snap, siguiente ítem asomando 24 px y bordes con mask-image",3,S,aprovechar
+B9-5,https://www.ui-skills.com/playbook,One accent per view / brand color for actions,frontend,Global,Naranja #f26a1b solo en CTA y enlaces de acción; titulares en navy,4,S,aprovechar
+B9-6,https://www.ui-skills.com/playbook,Scale feedback on press,stock,Botones y tarjetas pulsables,:active scale 0.97 en 100 ms,3,S,aprovechar
+B9-7,https://www.ui-skills.com/playbook,Solid modal backdrops,transversal,Modales de stock y admin,Fondo sólido al 60 % en lugar de backdrop-filter blur,3,S,aprovechar
+B9-8,https://www.ui-skills.com/playbook,Form errors next to field / visible labels,frontend,Formulario de cotización y contacto,Etiquetas visibles y errores en línea con aria-describedby,4,S,aprovechar
+B10-1,https://designdotmd.directory/d/freight-logistics,Freight Logistics,admin,Tablas y detalle (y SKU en frontend),"Códigos de cotización, lote y SKU en IBM Plex Mono con tracking leve",4,S,aprovechar
+B10-2,https://designdotmd.directory/d/freight-logistics,Freight Logistics - Ecommerce,frontend,Ficha de producto,"Chips DN/PN/unión, stepper de cantidad, aviso de stock y CTA naranja Agregar a cotización",5,M,aprovechar
+B10-3,https://designdotmd.directory/d/freight-logistics,Freight Logistics - preview doble,transversal,Guía de estilo interna,Página kitchen sink por app en iframe de escritorio y de 390 px lado a lado,2,M,adaptar
+B10-4,https://designdotmd.directory/d/freight-logistics,Freight Logistics - tokens,admin,Tokens de radio y espaciado,Radios 2/4/6 px y espaciado en múltiplos de 8,3,S,aprovechar
+B10-5,https://designdotmd.directory/,Portada (chips de filtro),frontend,Catálogo,"Chips de sector (Agua, Saneamiento, Riego, Minería) con conteo",3,S,aprovechar
+B10-6,https://designdotmd.directory/d/freight-logistics,Freight Logistics - eyebrow,frontend,Ficha y tarjetas,Eyebrow en mono AGUA POTABLE · PN16 · DN 100-300 (navy si el naranja no llega al contraste),3,S,adaptar

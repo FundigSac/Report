@@ -1,0 +1,51 @@
+idea_id,source_url,page,target_app,target_component,proposal,impact,effort,decision
+B11-1,https://superdesign.dev/,/design-systems/railway,transversal,DESIGN.md por app + /admin/estilo,"DESIGN.md por app con cada token, su rol en una línea, tipografías, espaciado y contraste medido, más una página /admin/estilo que lo muestra como muestrario vivo",4,S,aprovechar
+B11-2,https://superdesign.dev/,/library,admin,Productos > editor de ficha,"Pantalla dividida: formulario a la izquierda e iframe con la ficha pública a la derecha, con conmutador móvil/escritorio",4,M,adaptar
+B11-3,https://superdesign.dev/,/ (galería),frontend,Tarjeta de producto del catálogo,"Botones Cotizar y Ficha PDF visibles al pasar el cursor o con foco; en táctil, siempre visibles",3,S,adaptar
+B11-4,https://superdesign.dev/,/ (móvil),frontend,Chips de familia en catálogo móvil (también stock),"Fila de chips con scroll horizontal y scroll-snap; el chip activo va relleno en navy",4,S,aprovechar
+B11-5,https://superdesign.dev/,/library?selected=warm-industrial-gray-style,frontend,Encabezados de sección de la home,"Eyebrows numerados en monoespaciada (01 / Agua potable); sin texto en contorno",3,S,adaptar
+B11-6,https://superdesign.dev/,/design-systems,frontend,Catálogo y listados de admin,"Mostrando 24 de N con botón Cargar más y ?page= en la URL para SEO",3,S,aprovechar
+B12-1,https://uiverse.io/,/Deri-Kurniawan/hot-bullfrog-96,stock,Listas de EPP y tablas de admin,"Tarjetas y filas esqueleto con animate-pulse (MIT) y aria-busy mientras responde Supabase",4,S,aprovechar
+B12-2,https://uiverse.io/,/radio-buttons,stock,Formulario de movimiento y formulario de cotización del frontend,"Radios en forma de tarjeta con icono para el tipo de movimiento o el sector",4,S,adaptar
+B12-3,https://uiverse.io/,/radio-buttons,admin,Barra de filtros de tabla y resumen de stock,"Control segmentado Todos/Activos/Borrador y Hoy/Semana/Mes",3,S,aprovechar
+B12-4,https://uiverse.io/,/cards,admin,Detalle de cotización y detalle de EPP en stock,"Línea de tiempo vertical de estados y movimientos con <time>",4,M,adaptar
+B12-5,https://uiverse.io/,/toggle-switches (404),frontend,Página 404,"404 con header, buscador, accesos a las 4 familias y WhatsApp",3,S,adaptar
+B12-6,https://uiverse.io/,/loaders,admin,Cabecera de tablas,"Una sola barra de 40 px con búsqueda, chips, orden y densidad",3,S,adaptar
+B12-7,https://uiverse.io/,/tooltips,admin,Cabeceras de tabla y especificaciones del frontend,"Tooltip accesible (foco y Esc) que explica las siglas DN, PN y SDR",3,S,aprovechar
+B13-1,https://cssfx.netlify.app/,/ (Text > Underline),frontend,Enlaces de header y footer,"Subrayado naranja con scaleX animado (MIT) y estado activo fijo",3,S,aprovechar
+B13-2,https://cssfx.netlify.app/,/ (Text > Highlight),frontend,Enlaces en texto corrido,"Subrayado permanente y realce naranja-100 al pasar el cursor",2,S,adaptar
+B13-3,https://cssfx.netlify.app/,/ (Inputs > Trace),frontend,Formularios de cotización y contacto (y stock),"Borde que se traza al recibir foco, junto a un anillo de foco estático de 2 px",3,S,adaptar
+B13-4,https://cssfx.netlify.app/,/ (Loaders),stock,Botones de envío,"Spinner de puntos dentro del botón con el texto Guardando… y el botón deshabilitado",3,S,aprovechar
+B13-5,https://cssfx.netlify.app/,/ (Buttons > Slide),frontend,CTA Cotizar,"Hover que desliza el fondo a #BF5720 (4,57:1 con blanco)",3,S,adaptar
+B13-6,https://cssfx.netlify.app/,/ (modal de código),admin,Detalle de producto y de cotización,"Botón copiar para SKU, N.º de cotización y RUC con mensaje Copiado",3,S,adaptar
+B14-1,https://svgl.app/,/,admin,Biblioteca de medios y fichas técnicas,"Tarjeta por archivo con tipo, producto vinculado y fila de acciones",3,S,adaptar
+B14-2,https://svgl.app/,/ (sidebar),frontend,Filtro de familias del catálogo,"Sidebar de familias con contador de productos",4,S,aprovechar
+B14-3,https://svgl.app/,/?search=whatsapp,admin,Topbar (búsqueda global) y buscador del frontend,"Búsqueda global con Ctrl+K en admin y ?q= compartible en el frontend",4,M,aprovechar
+B14-4,https://svgl.app/,/?search=whatsapp,frontend,Botón flotante de WhatsApp,"Usar el recurso oficial de WhatsApp según su guía de marca, como SVG inline",2,S,adaptar
+B14-5,https://svgl.app/,/ (header),admin,Modo oscuro,"No implementar: sin demanda y con alto coste de QA",1,M,descartar
+B15-1,https://component-party.dev/,/?f=react-svelte5-vue3,frontend,Comparador de productos,"Comparar 2 o 3 SKU con la selección en ?comparar= y las diferencias resaltadas",4,M,adaptar
+B15-2,https://component-party.dev/,/#component-composition,frontend,Tarjeta de especificaciones de la ficha,"Pestañas Dimensiones, Materiales, Normas y Presiones",4,S,adaptar
+B15-3,https://component-party.dev/,/ (sidebar),frontend,Ficha técnica larga y Configuración de admin,"Índice fijo con scrollspy (IntersectionObserver)",4,S,aprovechar
+B15-4,https://component-party.dev/,/ (anclas #),frontend,H2 de la ficha de producto,"Anclas # que copian el enlace directo a una sección",3,S,aprovechar
+B15-5,https://component-party.dev/,/ (móvil),admin,Tablas densas en móvil,"Desplazamiento horizontal dentro del contenedor, primera columna fija y sombra lateral",3,S,adaptar
+B16-1,https://fonts.google.com/icons,?icon.query=valve,transversal,Iconos de sector y categoría,"Set de 10 a 15 Material Symbols (Apache 2.0) en sprite SVG o subconjunto con icon_names",4,S,aprovechar
+B16-2,https://fonts.google.com/icons,panel Valve (eje FILL),stock,Bottom nav,"Icono activo relleno (FILL 1) e inactivos en contorno, con transición de 150 ms",3,S,aprovechar
+B16-3,https://fonts.google.com/icons,/icons (Customize),transversal,Tokens de icono,"wght 300 en admin, 500–600 en stock y GRAD -25 sobre el navy del frontend",3,S,adaptar
+B16-4,https://fonts.google.com/icons,/icons (móvil),stock,Bottom nav,"Píldora tras el icono activo con rojo Slab al 12 % y etiqueta siempre visible",4,S,adaptar
+B16-5,https://fonts.google.com/icons,panel Valve,admin,Tabla de productos (drawer de detalle),"Panel lateral con pestañas Datos, Medios e Historial",3,M,adaptar
+B16-6,https://fonts.google.com/icons,?icon.query=valve (tags),frontend,Buscador del frontend y de admin,"Campo sinonimos[] en ES y EN por producto, usado por el buscador",4,M,adaptar
+B17-1,https://cssgridgenerator.io/,/,admin,Dashboard,"Bento de KPIs: gráfico en 2x2, KPIs en 1x1 y alertas en 1x2",4,S,adaptar
+B17-2,https://cssgridgenerator.io/,/,frontend,Sección Sectores de la home,"Bento con Agua potable grande y los demás sectores en tarjetas menores",3,S,adaptar
+B17-3,https://cssgridgenerator.io/,/ (salida de código),transversal,Grillas CSS,"grid-template-areas con nombre y una columna por debajo de 768 px, sin copiar .divN",3,S,aprovechar
+B18-1,https://kigen.design/color,/color (Radix #f26a1b),frontend,CTA y enlaces naranja,"#f26a1b solo como fondo con texto grande en negrita; #BF5720 para enlaces y hover (4,57:1)",5,S,aprovechar
+B18-2,https://kigen.design/color,/color (CSS OKLCH),transversal,tokens.css,"Escalas naranja y navy de 50 a 950 en OKLCH con respaldo en HEX",4,S,aprovechar
+B18-3,https://kigen.design/color,/color,stock,Alertas y badges de stock bajo,"Tonos 50/100 del rojo Slab como fondo; el rojo base solo como texto sobre claro",4,S,aprovechar
+B18-4,https://kigen.design/color,/color (móvil),stock,Filtros de listados,"Botón flotante Filtros (n) que abre una hoja inferior",3,M,adaptar
+B18-5,https://kigen.design/color,/color,transversal,Tokens semánticos,"Nombres --accent, --accent-hover, --accent-subtle y --danger-subtle comunes a las 3 apps",3,S,adaptar
+B20-1,https://motionsites.ai/,/ (Dashboard > Robot Jellyfish),frontend,Cabecera de la ficha de producto,"Foto de la válvula con indicaciones técnicas en SVG (DN, PN, material, recubrimiento) y lista accesible",5,M,adaptar
+B20-2,https://motionsites.ai/,/ (tarjetas),frontend,Galería de proyectos,"Clip en hover solo en escritorio, con preload none y póster",2,M,adaptar
+B20-3,https://motionsites.ai/,/?prompt=zenith-realty-landing,frontend,Catálogo (vista rápida),"Vista rápida dentro de la grilla con ?p=sku, especificaciones clave y botón Cotizar",4,M,adaptar
+B20-4,https://motionsites.ai/,/ (Acreage Farming),frontend,Página del sector Agricultura,"Bloque navy con 3 o 4 cifras verificadas junto a una foto de riego",3,S,adaptar
+B20-5,https://motionsites.ai/,/ (barra de filtros),frontend,Filtros del catálogo,"Limpiar filtros visible en cuanto hay un filtro activo y desplegable de Norma o Presión",3,S,aprovechar
+B20-6,https://motionsites.ai/,/ (Forecast/Fitness/Finance),admin,KPIs del Dashboard y tarjeta de EPP en stock,"Sparkline de 12 semanas en los KPIs y medidor radial del stock frente al mínimo",4,M,adaptar
+B20-7,https://motionsites.ai/,/ (banner),transversal,—,"Precio por paridad no aplica",0,—,descartar

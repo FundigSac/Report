@@ -1,0 +1,60 @@
+idea_id,source_url,page,target_app,target_component,proposal,impact,effort,decision
+B21-1,https://animejs.com/,/ (scroll),frontend,ProductDetail > ValveAnatomy,"Vista explosionada de la válvula por capas PNG/SVG propias que se separan con useScroll; estática con reduced motion",5,M,adaptar
+B21-2,https://animejs.com/,/documentation/svg/createdrawable,frontend,Sectores > NetworkDiagram,"Diagrama SVG de red de agua que se dibuja con pathLength al entrar en vista",4,S,aprovechar
+B21-3,https://animejs.com/,/documentation/utilities/stagger,admin,Dashboard > grilla KPI,"Stagger CSS con --i y animation-delay de 35 ms en orden de lectura",3,S,adaptar
+B21-4,https://animejs.com/,/easing-editor,transversal,motion-tokens,"Presets de spring con nombre (default/snappy) compartidos; equivalentes CSS linear() para admin",4,S,aprovechar
+B21-5,https://animejs.com/,/ (Scope),stock,hook useMotionScope,"Hook que une matchMedia (orientación, pointer coarse) y reduced motion para reducir animaciones en campo",2,S,adaptar
+B21-6,https://animejs.com/,/ (hero),stock,Inicio > CoverageGauge,"Gauge SVG de días de cobertura por categoría de EPP con ticks y segmento crítico #d7261e",3,M,adaptar
+B22-1,https://mobbin.com/discover/apps/ios/latest,home (demo embebido),frontend,Header > MegaMenu,"Mega-menú Productos con columnas Líneas / Sectores / Recursos",4,M,adaptar
+B22-2,https://mobbin.com/discover/apps/ios/latest,home,frontend,Nosotros > Manifesto,"Texto que pasa de gris a tinta con animation-timeline: view() y fallback",2,S,adaptar
+B22-3,https://mobbin.com/discover/apps/ios/latest,home (header),frontend,Header > StickyQuoteCTA,"CTA Cotizar naranja que entra al header sticky cuando el CTA del hero sale de vista",4,S,aprovechar
+B22-4,https://mobbin.com/discover/apps/ios/latest,home,frontend,Catálogo > SearchBox,"Placeholder rotativo con consultas reales (DN, mm), con label real y pausa en foco",3,S,adaptar
+B22-5,https://mobbin.com/pricing,/pricing,admin,Dashboard > PeriodSegmented,"Segmentado Mes/Trimestre/Año con delta frente al periodo anterior",2,S,adaptar
+B23-1,https://reactbits.dev/,/text-animations/count-up,frontend+admin,Home cifras / KpiCard,"CountUp con Intl.NumberFormat es-PE, una vez al entrar en vista; valor final en DOM",4,S,aprovechar
+B23-2,https://reactbits.dev/,/components/spotlight-card,frontend,Catálogo > FamilyCard,"Spotlight navy que sigue al puntero con variables CSS, solo pointer fine",3,S,adaptar
+B23-3,https://reactbits.dev/,/components/animated-list,stock+admin,Movimientos / tablas,"Lista con resaltado deslizante y navegación con flechas; entrada spring en las primeras 10 filas",4,M,adaptar
+B23-4,https://reactbits.dev/,/components/* (toolbar),admin,Productos > PreviewFrame,"Preview de ficha con toggle 1440/768/390",3,M,adaptar
+B23-5,https://reactbits.dev/,/ (hero),—,—,"Fondo WebGL GradientWaves: no encaja y su coste GPU es alto",1,M,descartar
+B24-1,https://21st.dev/,/@dhxwhy/components/product-rail-gallery,frontend,Familia > SizeRail,"Rack por DN: válvulas propias colgadas de un tramo de tubería con etiqueta DN/PN y elevación al hover/foco",4,M,adaptar
+B24-2,https://21st.dev/,/community/components/s/stat,admin,Dashboard > KpiCard,"KPI con valor mono, delta y barra de progreso contra la meta (role meter)",4,S,aprovechar
+B24-3,https://21st.dev/,/community/components/s/empty-state,admin+stock,EmptyState,"Estados vacío / sin permiso / error de red con 1–2 acciones",4,S,aprovechar
+B24-4,https://21st.dev/,/ (categorías),frontend,Catálogo > CategoryIndex,"Índice de líneas con conteo de productos",3,S,aprovechar
+B24-5,https://21st.dev/,/ (Top today),frontend,Home > TopQuotedRail,"Rail Más cotizados con numerales decorativos (solo con datos reales)",2,S,adaptar
+B25-1,https://dribbble.com/search/dashboard-inventory,shot Fixoria inventory,stock+admin,StockHealthBar,"Barra segmentada OK/Bajo/Agotado con conteos que filtran la tabla",5,S,aprovechar
+B25-2,https://dribbble.com/search/dashboard-inventory,shot Fixoria inventory,admin,Productos > InventoryTable,"Columnas Entrante y Disponible, píldora de estado y toolbar con rango de fechas",4,M,adaptar
+B25-3,https://dribbble.com/search/dashboard-inventory,shot Quantara,stock,Reportes > DeliveryHeatmap,"Heatmap semanal de entregas por categoría en escala Slab con tabla equivalente",3,M,adaptar
+B25-4,https://dribbble.com/search/dashboard-inventory,shot Invendor,admin,Dashboard > KpiCard,"Línea de comparación absoluta: vs S/ X el mes anterior",3,S,aprovechar
+B25-5,https://dribbble.com/search/industrial-website,shot Precision in every process,frontend,Hero > Eyebrow,"Eyebrow con punto #f26a1b sobre el titular del hero actual",3,S,aprovechar
+B25-6,https://dribbble.com/search/industrial-website,shot ELIOS logistics,frontend,Hero > ProofStats,"2–3 chips de prueba dentro del hero (años, normas, despacho nacional)",4,S,aprovechar
+B25-7,https://dribbble.com/search/admin-panel,shot Rebates List,admin,TableHeader / Pagination,"Paginación numerada con página actual naranja y acción primaria naranja por tabla",3,S,aprovechar
+B26-1,https://www.awwwards.com/,/sites/the-industry-5-0-index,stock,BottomNav,"Bottom nav flotante redondeada con acción Entregar destacada en #d7261e y safe-area",4,S,adaptar
+B26-2,https://www.awwwards.com/,/websites/industrial/,frontend,Catálogo > FilterBar,"Barra de filtros Línea/DN/PN/Norma/Material con badge de activos y Limpiar filtros",4,M,aprovechar
+B26-3,https://www.awwwards.com/,/sites/the-industry-5-0-index,frontend,Sectores > fondo,"Fondo SVG estático de líneas de flujo navy a naranja, deriva opcional",3,M,adaptar
+B26-4,https://www.awwwards.com/,/ (Site of the Day),frontend,ProductDetail > MetaRow,"Fila de meta con norma, PN y fecha de ficha",2,S,adaptar
+B26-5,https://www.awwwards.com/,/ (cookies),frontend,CookieBanner,"Antipatrón: banner sin rechazar; FUNDIGSAC debe ofrecer Rechazar con el mismo peso",2,S,descartar
+B27-1,https://www.behance.net/,/gallery/256406953 (Services page),frontend,Catálogo/Home > FamilyRow,"Fila foto + mini tabla de specs: Rango DN, PN, Material, Norma, Plazo",5,S,aprovechar
+B27-2,https://www.behance.net/,/gallery/256406953 (Introduction),frontend+admin,ProductDetail / DetailPanel,"Lista clave/valor con filetes (dl semántico)",3,S,aprovechar
+B27-3,https://www.behance.net/,/gallery/256406953 (Scope of work),frontend,ProcessTimeline,"Timeline Cotización → Ingeniería → Fabricación → Pruebas → Despacho",4,S,aprovechar
+B27-4,https://www.behance.net/,/gallery/256406953 (labels),frontend,SectionLabel,"Eyebrows de sección con glifo propio de brida",2,S,adaptar
+B27-5,https://www.behance.net/,/search/projects/industrial web design,frontend,Catálogo > RelatedQueries,"Chips de búsquedas relacionadas bajo el buscador",2,S,adaptar
+B28-1,https://prompt-motion.com/,/twoclipping-5cba86,frontend,Cotización > SubmitMorphButton,"Botón Solicitar cotización que se convierte en loader, check y pill Enviado con spring sin rebote y aria-live",5,M,aprovechar
+B28-2,https://prompt-motion.com/,/twoclipping-5cba86 + /templates/showreel,transversal,motion-tokens + guía,"Guía permitido/prohibido (sin bouncy, glows, partículas, shake, crossfades) y tokens de duración y spring",5,S,aprovechar
+B28-3,https://prompt-motion.com/,/twoclipping-5cba86,admin+stock,Tabs / Segmented,"Indicador con bordes izquierdo y derecho en tiempos distintos (180/260 ms)",3,S,aprovechar
+B28-4,https://prompt-motion.com/,/twoclipping-5cba86,admin+stock,KpiCard / QtyDisplay,"Cambio de valor con blur corto y tiempos separados de entrada y salida",3,S,aprovechar
+B28-5,https://prompt-motion.com/,/twoclipping-5cba86,stock,Entrega > QtyScrubber,"Slider arrastrable de cantidad con spring al soltar, más botones +/−",3,M,adaptar
+B28-6,https://prompt-motion.com/,/twoclipping-d89be5,frontend,Hero > HeadlineReveal,"Titular por palabra (y16, blur 8, 340 ms, stagger 50 ms) sin ocultar el LCP",4,S,adaptar
+B28-7,https://prompt-motion.com/,/twoclipping-d89be5,stock+frontend,Card / FamilyCard,"Escala de elevación e1–e4 derivada de la fórmula de sombra por altura",4,S,aprovechar
+B28-8,https://prompt-motion.com/,/templates/showreel,frontend,Hero > ValveCarousel,"Carrusel cronometrado en grilla de 250 ms con estado final igual al inicial",3,S,adaptar
+B28-9,https://prompt-motion.com/,/ (Pause previews),frontend,Hero > MotionPauseToggle,"Botón Pausar animación para carrusel y videos (WCAG 2.2.2), persistido",5,S,aprovechar
+B28-10,https://prompt-motion.com/,/twoclipping-5cba86 + /templates/showreel,transversal,QA Playwright,"Checklist de motion: sin will-change permanente; capturas en t inicial, medio y final con baseline",3,S,aprovechar
+B29-1,https://www.cult-ui.com/,/docs/components/kanban-board,admin,Cotizaciones > QuoteBoard,"Kanban de cotizaciones con conteo y monto por columna, cambio de estado por teclado",4,L,adaptar
+B29-2,https://www.cult-ui.com/,/docs/components/expandable,stock,ExpiringCard,"Tarjeta EPP con badge Vence en 7 d que se expande con detalle",3,M,adaptar
+B29-3,https://www.cult-ui.com/,/docs/components/shift-card,frontend,Catálogo > ProductCard,"Hover/foco que sube la imagen y revela DN y PN; visible siempre en táctil",3,S,adaptar
+B29-4,https://www.cult-ui.com/,/docs/* (sidebar),admin,Sidebar,"Badges numéricos de pendientes en el sidebar incluidos en el nombre accesible",2,S,adaptar
+B29-5,https://www.cult-ui.com/,/ (Landing Pages),—,—,"Heroes dithering/liquid metal: ajenos al hero fotográfico y costosos",1,M,descartar
+B30-1,https://ui.gradientdeck.com/,/styles/teenage-engineering,transversal,docs/DESIGN.md x3,"DESIGN.md por app con tokens, roles, tipografía, sombras y motion para frenar las desviaciones",5,S,aprovechar
+B30-2,https://ui.gradientdeck.com/,/styles/teenage-engineering,transversal,test de tokens,"Test Vitest de contraste de los pares declarados; revisar #f26a1b con texto blanco",4,S,aprovechar
+B30-3,https://ui.gradientdeck.com/,/ (búsqueda sin resultados),frontend,Catálogo > SearchEmpty,"Sin resultados: Limpiar búsqueda + Pedir cotización de este producto con la consulta precargada",5,S,aprovechar
+B30-4,https://ui.gradientdeck.com/,/ (resultados),frontend,Catálogo,"Segmentado por línea con conteo; fusionar con B26-2",2,S,adaptar
+B30-5,https://ui.gradientdeck.com/,/styles/teenage-engineering,frontend,ProductDetail (regla),"Producto como único objeto rico: UI neutra, filetes y un solo acento naranja",3,S,aprovechar
+B30-6,https://ui.gradientdeck.com/,/ (hero),—,—,"Muro inclinado de capturas: sin material equivalente y pesado",1,M,descartar
