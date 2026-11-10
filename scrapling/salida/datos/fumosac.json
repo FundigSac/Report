@@ -1,0 +1,1998 @@
+{
+  "url_inicial": "https://fumosac.com.pe/",
+  "host": "www.fumosac.com.pe",
+  "esquema": "https",
+  "user_agent": "FundigsacMarketResearch/1.1",
+  "fecha_utc": "2026-11-10T17:10:52+00:00",
+  "estado": "ok",
+  "motivo": "",
+  "limites": {
+    "max_paginas": 40,
+    "intervalo_segundos": 3.0,
+    "max_intentos": 2,
+    "timeout_segundos": 30
+  },
+  "trazabilidad": {
+    "version_rastreador": "1.1.0",
+    "version_scrapling": "0.5.1",
+    "registro_solicitudes": "salida/trazas\\fumosac.com.pe-20261110T170843Z.jsonl",
+    "solicitudes_red": 37,
+    "aciertos_cache": 1
+  },
+  "robots": {
+    "url": "https://www.fumosac.com.pe/robots.txt",
+    "http_status": 200,
+    "presente": true,
+    "desde_cache": true,
+    "crawl_delay": null,
+    "sitemaps": [
+      "https://www.fumosac.com.pe/wp-sitemap.xml"
+    ]
+  },
+  "paginas_solicitadas": 35,
+  "paginas_con_datos": 34,
+  "truncado_por_tiempo": false,
+  "pendientes_sin_visitar": 0,
+  "omitidas_por_robots": [],
+  "redirecciones_externas": [],
+  "enlaces_externos": [
+    "https://www.facebook.com/fundicionmorenosac",
+    "https://www.linkedin.com/company/fumosac/",
+    "https://www.instagram.com/fumosac",
+    "https://www.tiktok.com/@fumosac",
+    "https://wa.me/51998375689",
+    "https://www.creativadesign.pe/",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Fcategoria-valvulas",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Fcategoria-tapas-de-buzon",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Fcategoria-grifos-contra-incendio",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Fcategoria-accesorios",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Fmineria",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Fvalvula-compuerta-garra-de-condor",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Fvalvula-compuerta-serie-15-luflex",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Fvalvula-de-compuerta-brida-serie-3",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Fvalvula-compuerta-brida-serie-14",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Fvalvula-check-flex",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Fvalvula-de-aire",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Fmarco-y-tapa-d-400",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Fmarco-cuadrado-y-tapa-circular",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Fmarco-y-tapa-estandar",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Fmarco-y-tapa-para-caja-de-valvulas",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Fhidrante-cuerpo-seco-brida-hdpe-pvc",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Fhidrantes-cuerpo-seco-de-3-bocas",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Fhidrante-cuerpo-humedo-brida-embone-pvc",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Fgrifo-contra-incendio-subterraneo",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Fnuestra-empresa",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Fcontacto",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Fcertificaciones",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Fcategoria-acoples",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Fadaptador-universal-para-hdpe-a-otras-tuberias",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Fadaptador-de-bridas",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Fcategoria-filtros",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Frejillas-pluviales",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Fingenieria-y-manufactura",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Ftecnologia",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Facople-flexible-gran-rango-escalonado",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Funion-rigida-de-desmontaje-autoportante",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Ffiltro-tipo-y-strainer",
+    "https://join.chat/es/powered/?site=Fumosac+%7C+Suministros+de+agua%2C+alcantarillado+y+saneamiento+para+servicios+p%C3%BAblicos+y+privados&url=https%3A%2F%2Fwww.fumosac.com.pe%2Ffiltro-tipo-h"
+  ],
+  "duracion_segundos": 128.3,
+  "resumen": {
+    "productos": [],
+    "categorias": [],
+    "normas_citadas": [
+      "ASTM A 536",
+      "ASTM A-307",
+      "ASTM A307",
+      "ASTM A536",
+      "ASTM B62",
+      "ASTM D-2000",
+      "ASTM D2000",
+      "ASTMA666",
+      "AWWA C502",
+      "AWWA C508",
+      "AWWA C512",
+      "AWWA-C502",
+      "AWWA-C502-05",
+      "AWWA-C503",
+      "BS 6920",
+      "BS 750",
+      "BS6920",
+      "BS750",
+      "EN 1074",
+      "EN 124",
+      "EN 558",
+      "EN1074",
+      "ISO 1083",
+      "ISO 2531",
+      "ISO 4633",
+      "ISO 5752",
+      "ISO 7005",
+      "ISO 7005-1",
+      "ISO 7005-2",
+      "ISO 7259",
+      "ISO 9001",
+      "ISO1083",
+      "ISO5752",
+      "NTP 350.064",
+      "NTP 350.102",
+      "NTP 350.106",
+      "NTP 350.108",
+      "NTP ISO 2531",
+      "NTP ISO 4633",
+      "NTP ISO 7005-2",
+      "NTP-ISO 4633",
+      "NTP350.108",
+      "UNE EN 124",
+      "UNE EN 14525"
+    ],
+    "tipos_jsonld": {},
+    "secciones": {
+      "/": 1,
+      "categoria-valvulas": 1,
+      "categoria-tapas-de-buzon": 1,
+      "categoria-grifos-contra-incendio": 1,
+      "categoria-accesorios": 1,
+      "mineria": 1,
+      "valvula-compuerta-garra-de-condor": 1,
+      "valvula-compuerta-serie-15-luflex": 1,
+      "valvula-de-compuerta-brida-serie-3": 1,
+      "valvula-compuerta-brida-serie-14": 1,
+      "valvula-check-flex": 1,
+      "valvula-de-aire": 1,
+      "marco-y-tapa-d-400": 1,
+      "marco-cuadrado-y-tapa-circular": 1,
+      "marco-y-tapa-estandar": 1,
+      "marco-y-tapa-para-caja-de-valvulas": 1,
+      "hidrante-cuerpo-seco-brida-hdpe-pvc": 1,
+      "hidrantes-cuerpo-seco-de-3-bocas": 1,
+      "hidrante-cuerpo-humedo-brida-embone-pvc": 1,
+      "grifo-contra-incendio-subterraneo": 1,
+      "nuestra-empresa": 1,
+      "contacto": 1,
+      "certificaciones": 1,
+      "categoria-acoples": 1,
+      "adaptador-universal-para-hdpe-a-otras-tuberias": 1,
+      "adaptador-de-bridas": 1,
+      "categoria-filtros": 1,
+      "rejillas-pluviales": 1,
+      "ingenieria-y-manufactura": 1,
+      "tecnologia": 1,
+      "acople-flexible-gran-rango-escalonado": 1,
+      "union-rigida-de-desmontaje-autoportante": 1,
+      "filtro-tipo-y-strainer": 1,
+      "filtro-tipo-h": 1
+    },
+    "documentos_enlazados": [
+      "https://www.fumosac.com.pe/wp-content/uploads/2026/06/valvula-garra-de-condor.pdf",
+      "https://www.fumosac.com.pe/wp-content/uploads/2026/06/valvula-compuerta-serie-15.pdf",
+      "https://www.fumosac.com.pe/wp-content/uploads/2026/06/valvula-brida-serie-3.pdf",
+      "https://www.fumosac.com.pe/wp-content/uploads/2026/06/valvula-brida-serie-14.pdf",
+      "https://www.fumosac.com.pe/wp-content/uploads/2026/06/valvula-check.pdf",
+      "https://www.fumosac.com.pe/wp-content/uploads/2026/06/valvula-de-aire-doble-efecto-triple-funcion.pdf",
+      "https://www.fumosac.com.pe/wp-content/uploads/2026/07/marco-y-tsps-D-400-600mm-850.pdf",
+      "https://www.fumosac.com.pe/wp-content/uploads/2026/07/marco-cuadrado-y-tapa-circular-600mm-d400.pdf",
+      "https://www.fumosac.com.pe/wp-content/uploads/2026/07/marco-y-tapa-standar-2024.pdf",
+      "https://www.fumosac.com.pe/wp-content/uploads/2026/07/caja-de-valvula.pdf",
+      "https://www.fumosac.com.pe/wp-content/uploads/2026/07/grifo-cuerpo-seco-2-bocas.pdf",
+      "https://www.fumosac.com.pe/wp-content/uploads/2026/07/grifo-cuerpo-seco-3-bocas.pdf",
+      "https://www.fumosac.com.pe/wp-content/uploads/2026/07/grifo-cuerpo-humedo.pdf",
+      "https://www.fumosac.com.pe/wp-content/uploads/2026/07/grifo-flor-de-tierra.pdf",
+      "https://www.fumosac.com.pe/wp-content/uploads/2026/07/acople-flexible-gran-rango-escalonado.pdf",
+      "https://www.fumosac.com.pe/wp-content/uploads/2026/06/filtro-tipo-h.pdf"
+    ],
+    "contacto_empresa": {
+      "nombres": [],
+      "telefonos": [],
+      "correos": [
+        "ventas@fumosac.com.pe"
+      ],
+      "direcciones": []
+    }
+  },
+  "paginas": [
+    {
+      "url": "https://www.fumosac.com.pe/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "PRODUCTOS",
+        "ACCESORIOS PARA AGUA Y SANEAMIENTO",
+        "VÁLVULAS",
+        "GRIFOS CONTRA INCENDIO",
+        "FILTROS",
+        "ACOPLES",
+        "TAPAS DE BUZÓN",
+        "REJILLAS PLUVIALES",
+        "FUNDICIÓN PARA PIEZAS MINERAS, AGRICULTURA Y AUTOMOTRIZ",
+        "CERTIFICACIONES"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 14,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-filtros/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-accesorios/",
+        "/rejillas-pluviales/",
+        "/ingenieria-y-manufactura/",
+        "/mineria/",
+        "/contacto/",
+        "/certificaciones/",
+        "/tecnologia/"
+      ],
+      "documentos_enlazados": [],
+      "bytes_html": 50505,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:08:52+00:00",
+        "sha256": "d46f7d97ce35ae1ab8f0031fa48f7cfd0d32c9a0b2b3065fd73107500c85f810"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/categoria-valvulas/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/categoria-valvulas/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "SOLUCIONES"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A 536",
+        "AWWA C508",
+        "AWWA C512",
+        "EN 1074",
+        "ISO 1083",
+        "ISO 7005",
+        "ISO 7005-2",
+        "ISO 7259",
+        "NTP 350.064"
+      ],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 20,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-filtros/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-accesorios/",
+        "/rejillas-pluviales/",
+        "/ingenieria-y-manufactura/",
+        "/mineria/",
+        "/contacto/",
+        "/certificaciones/",
+        "/tecnologia/",
+        "/valvula-compuerta-garra-de-condor/",
+        "/valvula-compuerta-serie-15-luflex/",
+        "/valvula-de-compuerta-brida-serie-3/",
+        "/valvula-compuerta-brida-serie-14/",
+        "/valvula-check-flex/",
+        "/valvula-de-aire/"
+      ],
+      "documentos_enlazados": [],
+      "bytes_html": 52724,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:08:56+00:00",
+        "sha256": "044689f308aac605dda689e851999396b65f07f2cc35d1a340b92d9e40805e84"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/categoria-tapas-de-buzon/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/categoria-tapas-de-buzon/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "SOLUCIONES"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A536",
+        "EN 124",
+        "ISO 1083",
+        "ISO1083",
+        "NTP 350.106",
+        "UNE EN 124"
+      ],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 18,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-filtros/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-accesorios/",
+        "/rejillas-pluviales/",
+        "/ingenieria-y-manufactura/",
+        "/mineria/",
+        "/contacto/",
+        "/certificaciones/",
+        "/tecnologia/",
+        "/marco-y-tapa-d-400/",
+        "/marco-cuadrado-y-tapa-circular/",
+        "/marco-y-tapa-estandar/",
+        "/marco-y-tapa-para-caja-de-valvulas/"
+      ],
+      "documentos_enlazados": [],
+      "bytes_html": 48929,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:09:00+00:00",
+        "sha256": "2fde9312a6a1521f0c93fd3eab6feb6656602588c7cf95e16855166ad09f0b2e"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/categoria-grifos-contra-incendio/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/categoria-grifos-contra-incendio/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "SOLUCIONES"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A536",
+        "AWWA C502",
+        "AWWA-C502",
+        "BS 750",
+        "ISO 1083",
+        "ISO 7005-2",
+        "ISO1083",
+        "NTP 350.102",
+        "NTP ISO 7005-2"
+      ],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 18,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-filtros/",
+        "/categoria-accesorios/",
+        "/rejillas-pluviales/",
+        "/ingenieria-y-manufactura/",
+        "/mineria/",
+        "/contacto/",
+        "/certificaciones/",
+        "/tecnologia/",
+        "/hidrante-cuerpo-seco-brida-hdpe-pvc/",
+        "/hidrantes-cuerpo-seco-de-3-bocas/",
+        "/hidrante-cuerpo-humedo-brida-embone-pvc/",
+        "/grifo-contra-incendio-subterraneo/"
+      ],
+      "documentos_enlazados": [],
+      "bytes_html": 49435,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:09:03+00:00",
+        "sha256": "a4874dd51bd00e3b10589070d84dd7a76d57a69285d4f7a3456ba1b8b8ca9de1"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/categoria-accesorios/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/categoria-accesorios/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "ACCESORIOS: TEE",
+        "ACCESORIOS: TRANSICIONES",
+        "ACCESORIOS: CRUCES Y REDUCCIONES",
+        "ACCESORIOS: CODO"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A536",
+        "BS6920",
+        "ISO 1083",
+        "ISO 2531",
+        "ISO 7005-1",
+        "ISO1083",
+        "NTP ISO 2531"
+      ],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 14,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/categoria-accesorios/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-filtros/",
+        "/categoria-grifos-contra-incendio/",
+        "/rejillas-pluviales/",
+        "/ingenieria-y-manufactura/",
+        "/mineria/",
+        "/contacto/",
+        "/certificaciones/",
+        "/tecnologia/"
+      ],
+      "documentos_enlazados": [],
+      "bytes_html": 65699,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:09:07+00:00",
+        "sha256": "4033cadab9f219f712c24ba9c44e6723bbb479193b580a869cea75d8ff224230"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/mineria/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/mineria/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "FUNDICIÓN MORENO"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 14,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/mineria/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-filtros/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-accesorios/",
+        "/rejillas-pluviales/",
+        "/ingenieria-y-manufactura/",
+        "/contacto/",
+        "/certificaciones/",
+        "/tecnologia/"
+      ],
+      "documentos_enlazados": [],
+      "bytes_html": 45891,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:09:11+00:00",
+        "sha256": "dc26ec494d969e96c53544248487383c20e1246c44da93e9274ef19359f264b2"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/valvula-compuerta-garra-de-condor/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/valvula-compuerta-garra-de-condor/",
+      "idioma": "es",
+      "h1": [
+        "Válvula compuerta garra de cóndor"
+      ],
+      "h2": [
+        "Embona directamente a tuberías de polietileno (HDPE). Recubierta con pintura epóxica haciéndola resistente corrosión.",
+        "MEDIDAS EN MILIMETROS"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A-307",
+        "ASTM A536",
+        "BS6920",
+        "EN 1074",
+        "EN1074",
+        "ISO 4633",
+        "ISO1083",
+        "NTP-ISO 4633"
+      ],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/valvula-compuerta-garra-de-condor/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-filtros/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-accesorios/",
+        "/rejillas-pluviales/",
+        "/ingenieria-y-manufactura/",
+        "/mineria/",
+        "/contacto/",
+        "/certificaciones/",
+        "/tecnologia/",
+        "/wp-content/uploads/2026/06/valvula-garra-de-condor.pdf"
+      ],
+      "documentos_enlazados": [
+        "https://www.fumosac.com.pe/wp-content/uploads/2026/06/valvula-garra-de-condor.pdf"
+      ],
+      "bytes_html": 49236,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:09:14+00:00",
+        "sha256": "325fe820142976e9353a28c81997c7af9edfd43fc135d6fbbcf72562f6f123b7"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/valvula-compuerta-serie-15-luflex/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/valvula-compuerta-serie-15-luflex/",
+      "idioma": "es",
+      "h1": [
+        "Válvula compuerta serie 15 Luflex®"
+      ],
+      "h2": [
+        "Válvula UF de hierro dúctil, embonan directamente con tuberías de PVC, sin necesidad de usar ningún tipo de pegamento o aditivo.",
+        "MEDIDAS EN MILIMETROS"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A536",
+        "BS6920",
+        "EN 1074",
+        "EN 558",
+        "EN1074",
+        "ISO 4633",
+        "ISO 5752",
+        "ISO1083",
+        "NTP 350.064",
+        "NTP-ISO 4633"
+      ],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/valvula-compuerta-serie-15-luflex/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-filtros/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-accesorios/",
+        "/rejillas-pluviales/",
+        "/ingenieria-y-manufactura/",
+        "/mineria/",
+        "/contacto/",
+        "/certificaciones/",
+        "/tecnologia/",
+        "/wp-content/uploads/2026/06/valvula-compuerta-serie-15.pdf"
+      ],
+      "documentos_enlazados": [
+        "https://www.fumosac.com.pe/wp-content/uploads/2026/06/valvula-compuerta-serie-15.pdf"
+      ],
+      "bytes_html": 49773,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:09:18+00:00",
+        "sha256": "3e5c6940d0c5de0b39e493520d2e35326dee779aec67bbab48534645a5d6eaeb"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/valvula-de-compuerta-brida-serie-3/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/valvula-de-compuerta-brida-serie-3/",
+      "idioma": "es",
+      "h1": [
+        "Válvula de compuerta brida serie 3"
+      ],
+      "h2": [
+        "Son fabricadas bajo la norma EN1074. La presión nominal (PN) varía entre 10;16 y 25. Son recubierta con pintura epóxica haciéndola resistente a la corrosión.",
+        "MEDIDAS EN MILIMETROS"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A536",
+        "BS6920",
+        "EN 1074",
+        "EN 558",
+        "EN1074",
+        "ISO 4633",
+        "ISO 7005-2",
+        "ISO 7259",
+        "ISO1083",
+        "ISO5752",
+        "NTP-ISO 4633"
+      ],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/valvula-de-compuerta-brida-serie-3/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-filtros/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-accesorios/",
+        "/rejillas-pluviales/",
+        "/ingenieria-y-manufactura/",
+        "/mineria/",
+        "/contacto/",
+        "/certificaciones/",
+        "/tecnologia/",
+        "/wp-content/uploads/2026/06/valvula-brida-serie-3.pdf"
+      ],
+      "documentos_enlazados": [
+        "https://www.fumosac.com.pe/wp-content/uploads/2026/06/valvula-brida-serie-3.pdf"
+      ],
+      "bytes_html": 49174,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:09:22+00:00",
+        "sha256": "f20e3ce43393a8d7b422c786e77587fb73026edaea961868423e3694b554af82"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/valvula-compuerta-brida-serie-14/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/valvula-compuerta-brida-serie-14/",
+      "idioma": "es",
+      "h1": [
+        "Válvula Compuerta Brida Serie 14"
+      ],
+      "h2": [
+        "Válvula bridada tipo compuerta, fabricada bajo la norma EN1074. La presión nominal (PN) varía entre 10,16 y 25.",
+        "MEDIDAS EN MILIMETROS"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A536",
+        "BS6920",
+        "EN 1074",
+        "EN 558",
+        "EN1074",
+        "ISO 4633",
+        "ISO 7005-2",
+        "ISO1083",
+        "NTP-ISO 4633"
+      ],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/valvula-compuerta-brida-serie-14/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-filtros/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-accesorios/",
+        "/rejillas-pluviales/",
+        "/ingenieria-y-manufactura/",
+        "/mineria/",
+        "/contacto/",
+        "/certificaciones/",
+        "/tecnologia/",
+        "/wp-content/uploads/2026/06/valvula-brida-serie-14.pdf"
+      ],
+      "documentos_enlazados": [
+        "https://www.fumosac.com.pe/wp-content/uploads/2026/06/valvula-brida-serie-14.pdf"
+      ],
+      "bytes_html": 49635,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:09:25+00:00",
+        "sha256": "94df52c45c7ff23f5bb3f340624914332a1602bb179f8538e4d1ba322713b1d8"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/valvula-check-flex/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/valvula-check-flex/",
+      "idioma": "es",
+      "h1": [
+        "Válvula check flex"
+      ],
+      "h2": [
+        "Capacidad de cierre de manera rápida y automática al cambio de dirección.",
+        "MEDIDAS EN MILIMETROS"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A 536",
+        "AWWA C508",
+        "ISO 1083"
+      ],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/valvula-check-flex/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-filtros/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-accesorios/",
+        "/rejillas-pluviales/",
+        "/ingenieria-y-manufactura/",
+        "/mineria/",
+        "/contacto/",
+        "/certificaciones/",
+        "/tecnologia/",
+        "/wp-content/uploads/2026/06/valvula-check.pdf"
+      ],
+      "documentos_enlazados": [
+        "https://www.fumosac.com.pe/wp-content/uploads/2026/06/valvula-check.pdf"
+      ],
+      "bytes_html": 49142,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:09:29+00:00",
+        "sha256": "fe246109dc0290049348f7a4f3a73535d79397859466c116200346b4e3ecf649"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/valvula-de-aire/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/valvula-de-aire/",
+      "idioma": "es",
+      "h1": [
+        "Válvula de aire"
+      ],
+      "h2": [
+        "VÁLVULA AUTOMÁTICA DE ENTRADA Y SALIDA DE AIRE DOBLE EFECTO TRIPLE FUNCIÓN"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A 536",
+        "ASTM A536",
+        "ASTM D-2000",
+        "AWWA C512",
+        "BS 6920",
+        "ISO 1083",
+        "ISO 7005",
+        "ISO1083"
+      ],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/valvula-de-aire/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-filtros/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-accesorios/",
+        "/rejillas-pluviales/",
+        "/ingenieria-y-manufactura/",
+        "/mineria/",
+        "/contacto/",
+        "/certificaciones/",
+        "/tecnologia/",
+        "/wp-content/uploads/2026/06/valvula-de-aire-doble-efecto-triple-funcion.pdf"
+      ],
+      "documentos_enlazados": [
+        "https://www.fumosac.com.pe/wp-content/uploads/2026/06/valvula-de-aire-doble-efecto-triple-funcion.pdf"
+      ],
+      "bytes_html": 47878,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:09:32+00:00",
+        "sha256": "553b65ec6b0a3560f245f299ed1544c248aa126a6b9f09b7814e567c935d90f3"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/marco-y-tapa-d-400/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/marco-y-tapa-d-400/",
+      "idioma": "es",
+      "h1": [
+        "Marco y tapa D-400"
+      ],
+      "h2": [
+        "Marco y Tapa de hierro dúctil también pueden contar con otras resistencias de hasta 60 y 90 toneladas."
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A536",
+        "EN 124",
+        "ISO1083"
+      ],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/marco-y-tapa-d-400/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-filtros/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-accesorios/",
+        "/rejillas-pluviales/",
+        "/ingenieria-y-manufactura/",
+        "/mineria/",
+        "/contacto/",
+        "/certificaciones/",
+        "/tecnologia/",
+        "/wp-content/uploads/2026/07/marco-y-tsps-D-400-600mm-850.pdf"
+      ],
+      "documentos_enlazados": [
+        "https://www.fumosac.com.pe/wp-content/uploads/2026/07/marco-y-tsps-D-400-600mm-850.pdf"
+      ],
+      "bytes_html": 47347,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:09:36+00:00",
+        "sha256": "8276aeeeb647dc16a616d1f82631d9bf7ebfc9c264b73f0ee57300e89c567d7c"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/marco-cuadrado-y-tapa-circular/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/marco-cuadrado-y-tapa-circular/",
+      "idioma": "es",
+      "h1": [
+        "Marco cuadrado y tapa circular"
+      ],
+      "h2": [],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A536",
+        "ISO 1083",
+        "UNE EN 124"
+      ],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/marco-cuadrado-y-tapa-circular/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-filtros/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-accesorios/",
+        "/rejillas-pluviales/",
+        "/ingenieria-y-manufactura/",
+        "/mineria/",
+        "/contacto/",
+        "/certificaciones/",
+        "/tecnologia/",
+        "/wp-content/uploads/2026/07/marco-cuadrado-y-tapa-circular-600mm-d400.pdf"
+      ],
+      "documentos_enlazados": [
+        "https://www.fumosac.com.pe/wp-content/uploads/2026/07/marco-cuadrado-y-tapa-circular-600mm-d400.pdf"
+      ],
+      "bytes_html": 47314,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:09:39+00:00",
+        "sha256": "043c1e5c9812d589254773b8746267fff0bc3154d8a46f4b9815d7f85f380849"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/marco-y-tapa-estandar/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/marco-y-tapa-estandar/",
+      "idioma": "es",
+      "h1": [
+        "Marco y tapa estandar"
+      ],
+      "h2": [],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A536",
+        "ISO1083",
+        "UNE EN 124"
+      ],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/marco-y-tapa-estandar/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-filtros/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-accesorios/",
+        "/rejillas-pluviales/",
+        "/ingenieria-y-manufactura/",
+        "/mineria/",
+        "/contacto/",
+        "/certificaciones/",
+        "/tecnologia/",
+        "/wp-content/uploads/2026/07/marco-y-tapa-standar-2024.pdf"
+      ],
+      "documentos_enlazados": [
+        "https://www.fumosac.com.pe/wp-content/uploads/2026/07/marco-y-tapa-standar-2024.pdf"
+      ],
+      "bytes_html": 47948,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:09:43+00:00",
+        "sha256": "79911249a0d623f1543c3d78652ad7cc94a5347b461127cf23c6b9767bf248cc"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/marco-y-tapa-para-caja-de-valvulas/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/marco-y-tapa-para-caja-de-valvulas/",
+      "idioma": "es",
+      "h1": [
+        "Marco y tapa para caja de válvulas"
+      ],
+      "h2": [
+        "Los anillos de la Válvula LUFLEX son de alta calidad y permiten el ingreso directo con tuberías de PVC."
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A536",
+        "EN1074",
+        "ISO 1083",
+        "NTP 350.106"
+      ],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/marco-y-tapa-para-caja-de-valvulas/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-filtros/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-accesorios/",
+        "/rejillas-pluviales/",
+        "/ingenieria-y-manufactura/",
+        "/mineria/",
+        "/contacto/",
+        "/certificaciones/",
+        "/tecnologia/",
+        "/wp-content/uploads/2026/07/caja-de-valvula.pdf"
+      ],
+      "documentos_enlazados": [
+        "https://www.fumosac.com.pe/wp-content/uploads/2026/07/caja-de-valvula.pdf"
+      ],
+      "bytes_html": 47535,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:09:47+00:00",
+        "sha256": "83c417d4b5660964ab223adc1effa5dadbf70eec9bbeea50c0bad27adac03c6e"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/hidrante-cuerpo-seco-brida-hdpe-pvc/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/hidrante-cuerpo-seco-brida-hdpe-pvc/",
+      "idioma": "es",
+      "h1": [
+        "Hidrante cuerpo seco brida HDPE/PVC"
+      ],
+      "h2": [
+        "Fabricado bajo los estándares de la norma AWWA-C502 y NTP 350.102 con opciones tipo brida y embone (PVC)",
+        "MEDIDAS EN MILIMETROS"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A536",
+        "ASTM D-2000",
+        "ASTMA666",
+        "AWWA-C502",
+        "ISO1083",
+        "NTP 350.102"
+      ],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/hidrante-cuerpo-seco-brida-hdpe-pvc/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-filtros/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-accesorios/",
+        "/rejillas-pluviales/",
+        "/ingenieria-y-manufactura/",
+        "/mineria/",
+        "/contacto/",
+        "/certificaciones/",
+        "/tecnologia/",
+        "/wp-content/uploads/2026/07/grifo-cuerpo-seco-2-bocas.pdf"
+      ],
+      "documentos_enlazados": [
+        "https://www.fumosac.com.pe/wp-content/uploads/2026/07/grifo-cuerpo-seco-2-bocas.pdf"
+      ],
+      "bytes_html": 49567,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:09:50+00:00",
+        "sha256": "f49d585a1b0b2e0242f180b1013b37fa856a2be5af16d4285d6522ceb0ec9b47"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/hidrantes-cuerpo-seco-de-3-bocas/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/hidrantes-cuerpo-seco-de-3-bocas/",
+      "idioma": "es",
+      "h1": [
+        "Hidrantes cuerpo seco de 3 bocas"
+      ],
+      "h2": [
+        "Cuenta con un mecanismo que permite vaciar la columna cuando el grifo no está en uso."
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A536",
+        "AWWA-C502",
+        "AWWA-C502-05",
+        "ISO1083"
+      ],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/hidrantes-cuerpo-seco-de-3-bocas/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-filtros/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-accesorios/",
+        "/rejillas-pluviales/",
+        "/ingenieria-y-manufactura/",
+        "/mineria/",
+        "/contacto/",
+        "/certificaciones/",
+        "/tecnologia/",
+        "/wp-content/uploads/2026/07/grifo-cuerpo-seco-3-bocas.pdf"
+      ],
+      "documentos_enlazados": [
+        "https://www.fumosac.com.pe/wp-content/uploads/2026/07/grifo-cuerpo-seco-3-bocas.pdf"
+      ],
+      "bytes_html": 47452,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:09:54+00:00",
+        "sha256": "55c9ca606f7a08178f65d8c7cef733c1becfedc2d2ca6c1e7c1c08af38a260fb"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/hidrante-cuerpo-humedo-brida-embone-pvc/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/hidrante-cuerpo-humedo-brida-embone-pvc/",
+      "idioma": "es",
+      "h1": [
+        "Hidrante cuerpo húmedo brida/embone PVC"
+      ],
+      "h2": [
+        "MEDIDAS EN MILIMETROS"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A307",
+        "ASTM A536",
+        "ASTM D2000",
+        "AWWA-C503",
+        "ISO1083"
+      ],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/hidrante-cuerpo-humedo-brida-embone-pvc/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-filtros/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-accesorios/",
+        "/rejillas-pluviales/",
+        "/ingenieria-y-manufactura/",
+        "/mineria/",
+        "/contacto/",
+        "/certificaciones/",
+        "/tecnologia/",
+        "/wp-content/uploads/2026/07/grifo-cuerpo-humedo.pdf"
+      ],
+      "documentos_enlazados": [
+        "https://www.fumosac.com.pe/wp-content/uploads/2026/07/grifo-cuerpo-humedo.pdf"
+      ],
+      "bytes_html": 48980,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:09:58+00:00",
+        "sha256": "577900b9c572e241e85728d923529312f3ba46894664efc660f1780efb8a53ac"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/grifo-contra-incendio-subterraneo/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/grifo-contra-incendio-subterraneo/",
+      "idioma": "es",
+      "h1": [
+        "Grifo contra incendio subterráneo"
+      ],
+      "h2": [
+        "Hidrante bajo rasante o enterrados bajo tierra, ideal para zonas con espacio limitado. Su salida es roscada NST de 2 1/2”. Fabricado bajo la norma BS750 PN16.",
+        "MEDIDAS EN MILIMETROS"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A536",
+        "BS 750",
+        "BS750",
+        "ISO 7005-2",
+        "ISO1083",
+        "NTP ISO 7005-2"
+      ],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/grifo-contra-incendio-subterraneo/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-filtros/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-accesorios/",
+        "/rejillas-pluviales/",
+        "/ingenieria-y-manufactura/",
+        "/mineria/",
+        "/contacto/",
+        "/certificaciones/",
+        "/tecnologia/",
+        "/wp-content/uploads/2026/07/grifo-flor-de-tierra.pdf"
+      ],
+      "documentos_enlazados": [
+        "https://www.fumosac.com.pe/wp-content/uploads/2026/07/grifo-flor-de-tierra.pdf"
+      ],
+      "bytes_html": 49411,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:10:01+00:00",
+        "sha256": "2897234a6e95c08967d04b40dafbd6d1312b2ba66c67543927ccd6e9611f5961"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/nuestra-empresa/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/nuestra-empresa/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "QUIENES SOMOS",
+        "MISIÓN",
+        "VISIÓN",
+        "VALORES",
+        "SERVICIOS PRINCIPALES"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 14,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-filtros/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-accesorios/",
+        "/rejillas-pluviales/",
+        "/ingenieria-y-manufactura/",
+        "/mineria/",
+        "/contacto/",
+        "/certificaciones/",
+        "/tecnologia/"
+      ],
+      "documentos_enlazados": [],
+      "bytes_html": 49653,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:10:05+00:00",
+        "sha256": "ea2bf4575977b07f60f2fb6d29df210d2e18bc7087771c8779c9d851e13df575"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/contacto/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/contacto/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "CONTÁCTATE CON FUMOSAC",
+        "Envíanos un mensaje"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 14,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/contacto/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-filtros/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-accesorios/",
+        "/rejillas-pluviales/",
+        "/ingenieria-y-manufactura/",
+        "/mineria/",
+        "/certificaciones/",
+        "/tecnologia/"
+      ],
+      "documentos_enlazados": [],
+      "bytes_html": 54390,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:10:09+00:00",
+        "sha256": "5cf382e2bd4a48f90cd641039f0d5a4b4e0bdbe23ac185460f396797257b8d75"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/certificaciones/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/certificaciones/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "FUNDICIÓN MORENO"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [
+        "EN 1074",
+        "ISO 9001"
+      ],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 14,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/certificaciones/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-filtros/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-accesorios/",
+        "/rejillas-pluviales/",
+        "/ingenieria-y-manufactura/",
+        "/mineria/",
+        "/contacto/",
+        "/tecnologia/"
+      ],
+      "documentos_enlazados": [],
+      "bytes_html": 45597,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:10:12+00:00",
+        "sha256": "857627a5e0a2340380519a47501a477b23179bfc37d2a663d1a19c10e56f9893"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/categoria-acoples/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/categoria-acoples/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "SOLUCIONES"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A307",
+        "ASTM A536",
+        "AWWA C512",
+        "BS 6920",
+        "ISO 1083",
+        "ISO 4633",
+        "NTP 350.108",
+        "NTP ISO 4633",
+        "NTP350.108",
+        "UNE EN 14525"
+      ],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 18,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/categoria-acoples/",
+        "/categoria-valvulas/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-filtros/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-accesorios/",
+        "/rejillas-pluviales/",
+        "/ingenieria-y-manufactura/",
+        "/mineria/",
+        "/contacto/",
+        "/certificaciones/",
+        "/tecnologia/",
+        "/acople-flexible-gran-rango-escalonado/",
+        "/union-rigida-de-desmontaje-autoportante/",
+        "/adaptador-universal-para-hdpe-a-otras-tuberias/",
+        "/adaptador-de-bridas/"
+      ],
+      "documentos_enlazados": [],
+      "bytes_html": 54761,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:10:16+00:00",
+        "sha256": "632b1800e544c845c18dafa21f2b79462b6bd4f74c5acc4e2f843380b43c76b6"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/adaptador-universal-para-hdpe-a-otras-tuberias/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/adaptador-universal-para-hdpe-a-otras-tuberias/",
+      "idioma": "es",
+      "h1": [
+        "Adaptador universal para HDPE a otras tuberías"
+      ],
+      "h2": [
+        "MEDIDAS EN MILIMETROS"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A536",
+        "BS 6920",
+        "ISO 1083",
+        "ISO 4633",
+        "NTP ISO 4633",
+        "UNE EN 14525"
+      ],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 15,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/adaptador-universal-para-hdpe-a-otras-tuberias/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-filtros/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-accesorios/",
+        "/rejillas-pluviales/",
+        "/ingenieria-y-manufactura/",
+        "/mineria/",
+        "/contacto/",
+        "/certificaciones/",
+        "/tecnologia/"
+      ],
+      "documentos_enlazados": [],
+      "bytes_html": 48156,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:10:19+00:00",
+        "sha256": "3cbbadb4f6e7c93d432206938e23659981f3aced354ef9b69e8d4148b0bfb38b"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/adaptador-de-bridas/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/adaptador-de-bridas/",
+      "idioma": "es",
+      "h1": [
+        "Adaptador de bridas"
+      ],
+      "h2": [
+        "MEDIDAS EN MILIMETROS"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A307",
+        "ASTM A536",
+        "BS 6920",
+        "ISO 1083",
+        "ISO 4633",
+        "ISO 7005-2",
+        "NTP ISO 4633",
+        "UNE EN 14525"
+      ],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 15,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/adaptador-de-bridas/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-filtros/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-accesorios/",
+        "/rejillas-pluviales/",
+        "/ingenieria-y-manufactura/",
+        "/mineria/",
+        "/contacto/",
+        "/certificaciones/",
+        "/tecnologia/"
+      ],
+      "documentos_enlazados": [],
+      "bytes_html": 49245,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:10:23+00:00",
+        "sha256": "8e6d7a00baab2e7ccdf151ae0692ca5c8722317a1ae5616d312c60edf9596cf8"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/categoria-filtros/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/categoria-filtros/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "SOLUCIONES"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A536",
+        "ASTM B62",
+        "BS6920",
+        "ISO 1083",
+        "ISO 7005-2"
+      ],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/categoria-filtros/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-accesorios/",
+        "/rejillas-pluviales/",
+        "/ingenieria-y-manufactura/",
+        "/mineria/",
+        "/contacto/",
+        "/certificaciones/",
+        "/tecnologia/",
+        "/filtro-tipo-y-strainer/",
+        "/filtro-tipo-h/"
+      ],
+      "documentos_enlazados": [],
+      "bytes_html": 47330,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:10:27+00:00",
+        "sha256": "02a42ad4e69c4f35529f94449dbe278d5039989ba5d309687f5459cc3cf9cba3"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/rejillas-pluviales/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/rejillas-pluviales/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "INFRAESTRUCTURA QUE EXIGE MÁS"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A 536",
+        "EN 124"
+      ],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 14,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/rejillas-pluviales/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-filtros/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-accesorios/",
+        "/ingenieria-y-manufactura/",
+        "/mineria/",
+        "/contacto/",
+        "/certificaciones/",
+        "/tecnologia/"
+      ],
+      "documentos_enlazados": [],
+      "bytes_html": 45255,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:10:30+00:00",
+        "sha256": "d75420b479493e24902402c439b0cf810ce5508aabc51c838e616f0c2088cf1a"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/ingenieria-y-manufactura/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/ingenieria-y-manufactura/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "FUNDICIÓN MORENO S.A.C.",
+        "CAPACIDADES DE INGENIERÍA",
+        "FABRICACIÓN ESPECIALIZADA EN HIERRO DUCTIL",
+        "INFRAESTRUCTURA INDUSTRIAL"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ISO 9001"
+      ],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 14,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/ingenieria-y-manufactura/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-filtros/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-accesorios/",
+        "/rejillas-pluviales/",
+        "/mineria/",
+        "/contacto/",
+        "/certificaciones/",
+        "/tecnologia/"
+      ],
+      "documentos_enlazados": [],
+      "bytes_html": 48316,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:10:34+00:00",
+        "sha256": "3ceacbc7a6dc409302f3a950e0871bc2b1cfc5b2824b5b6ba0bada7f26a7ed9c"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/tecnologia/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/tecnologia/",
+      "idioma": "es",
+      "h1": [],
+      "h2": [
+        "FUNDICIÓN MORENO S.A.C.",
+        "AGUA Y SANEAMIENTO",
+        "WATER & SANITATION",
+        "PRODUCTOS Y CAPACIDADES:",
+        "WE MANUFACTURE HIGH PERFORMANCE PRODUCTS FOR POTABLE WATER, SEWERAGE AND DRAINAGE SYSTEMS:",
+        "MINERÍA",
+        "MINING",
+        "MINING OPERATIONS REQUIRE COMPONENTS THAT WITHSTAND ABRASION, VIBRATION AND CONTINUOUS LOAD. WE DELIVER:",
+        "AGROINDUSTRIA",
+        "AGRIBUSINESS",
+        "WE SUPPORT AGRICULTURAL AND IRRIGATION SYSTEMS WITH DURABLE, CORROSION RESISTANT COMPONENTS:",
+        "CAPACIDADES INDUSTRIALES INTEGRADAS",
+        "FUNDICIÓN / CASTING",
+        "MECANIZADO / MACHINING",
+        "INGENIERÍA / ENGINEERING",
+        "LABORATORIOS / LABORATORIES",
+        "ACABADOS Y TRATAMIENTOS / COATINGS & HEAT TREATMENT",
+        "Commitment to Quality & Performance"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 14,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/tecnologia/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-filtros/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-accesorios/",
+        "/rejillas-pluviales/",
+        "/ingenieria-y-manufactura/",
+        "/mineria/",
+        "/contacto/",
+        "/certificaciones/"
+      ],
+      "documentos_enlazados": [],
+      "bytes_html": 53116,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:10:37+00:00",
+        "sha256": "0c3d88d9c1f590c4a70c86705265297961950c3b064630944ef1fc39775581b1"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/acople-flexible-gran-rango-escalonado/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/acople-flexible-gran-rango-escalonado/",
+      "idioma": "es",
+      "h1": [
+        "Acople flexible gran rango escalonado"
+      ],
+      "h2": [
+        "MEDIDAS EN MILIMETROS"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A536",
+        "BS 6920",
+        "ISO 1083",
+        "ISO 4633",
+        "NTP ISO 4633",
+        "NTP350.108",
+        "UNE EN 14525"
+      ],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/acople-flexible-gran-rango-escalonado/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-filtros/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-accesorios/",
+        "/rejillas-pluviales/",
+        "/ingenieria-y-manufactura/",
+        "/mineria/",
+        "/contacto/",
+        "/certificaciones/",
+        "/tecnologia/",
+        "/wp-content/uploads/2026/07/acople-flexible-gran-rango-escalonado.pdf"
+      ],
+      "documentos_enlazados": [
+        "https://www.fumosac.com.pe/wp-content/uploads/2026/07/acople-flexible-gran-rango-escalonado.pdf"
+      ],
+      "bytes_html": 49117,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:10:41+00:00",
+        "sha256": "5537a3089de080f90fbf6437318b23affc3b10de561ce6b1bc6b70d49fea71da"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/union-rigida-de-desmontaje-autoportante/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/union-rigida-de-desmontaje-autoportante/",
+      "idioma": "es",
+      "h1": [
+        "Unión rígida de desmontaje Autoportante"
+      ],
+      "h2": [
+        "Recubrimiento epóxico azul a 250 micras, según BS 6920, haciéndolo resistente ante la corrosión.",
+        "MEDIDAS EN MILIMETROS"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A307",
+        "ASTM A536",
+        "BS 6920",
+        "ISO 1083",
+        "ISO 4633",
+        "ISO 7005-2",
+        "NTP ISO 4633",
+        "NTP350.108"
+      ],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 15,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/union-rigida-de-desmontaje-autoportante/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-filtros/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-accesorios/",
+        "/rejillas-pluviales/",
+        "/ingenieria-y-manufactura/",
+        "/mineria/",
+        "/contacto/",
+        "/certificaciones/",
+        "/tecnologia/"
+      ],
+      "documentos_enlazados": [],
+      "bytes_html": 49094,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:10:45+00:00",
+        "sha256": "822ee8a27a083615c925f87c0f5b22688346901857270200c383c5b20022d65e"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/filtro-tipo-y-strainer/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/filtro-tipo-y-strainer/",
+      "idioma": "es",
+      "h1": [
+        "Filtro tipo «Y» Strainer"
+      ],
+      "h2": [
+        "El filtro «Y» posee un diseño simple pero robusto. Cuenta con una gran área de filtrado haciéndola excepcionalmente eficiente.",
+        "MEDIDAS EN MILIMETROS"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A536",
+        "BS6920",
+        "ISO 7005-2",
+        "ISO1083"
+      ],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/filtro-tipo-y-strainer/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-filtros/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-accesorios/",
+        "/rejillas-pluviales/",
+        "/ingenieria-y-manufactura/",
+        "/mineria/",
+        "/contacto/",
+        "/certificaciones/",
+        "/tecnologia/",
+        "/wp-content/uploads/2026/06/filtro-tipo-h.pdf"
+      ],
+      "documentos_enlazados": [
+        "https://www.fumosac.com.pe/wp-content/uploads/2026/06/filtro-tipo-h.pdf"
+      ],
+      "bytes_html": 49472,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:10:48+00:00",
+        "sha256": "478dfc1a217e45d1f332150f69f3300dfaa1e4e694dcc210d4c76af692bc6563"
+      }
+    },
+    {
+      "url": "https://www.fumosac.com.pe/filtro-tipo-h/",
+      "http_status": 200,
+      "titulo": "Fumosac | Suministros de agua, alcantarillado y saneamiento para servicios públicos y privados",
+      "meta_descripcion": "Somos una fundici¨®n especializada en hierro d¨²ctil que fabrica accesorios, v¨¢lvulas y componentes para proyectos de agua potable, saneamiento, miner¨ªa, agricultura y otras aplicaciones industriales. Contamos con instalaciones y procesos de control de calidad que garantizan la trazabilidad y el rendimiento de nuestros productos. Nuestro equipo t¨¦cnico asesora desde la etapa de dise09o hasta la entrega, asegurando soluciones personalizadas, cumplimiento normativo y tiempos de respuesta comp",
+      "canonica": "https://www.fumosac.com.pe/filtro-tipo-h/",
+      "idioma": "es",
+      "h1": [
+        "FILTRO TIPO H"
+      ],
+      "h2": [
+        "Filtro tipo canasta fabricado de hierro dúctil ASTM A536 G 65-45-12. Con canastilla de acero inoxidable.",
+        "MEDIDAS EN MILIMETROS"
+      ],
+      "es_ficha_producto": false,
+      "productos": [],
+      "categorias": [],
+      "especificaciones": [],
+      "normas_citadas": [
+        "ASTM A536",
+        "BS6920",
+        "ISO 7005-2",
+        "ISO1083"
+      ],
+      "tipos_jsonld": [],
+      "total_enlaces_internos": 16,
+      "enlaces_internos": [
+        "/",
+        "/nuestra-empresa/",
+        "/filtro-tipo-h/",
+        "/categoria-valvulas/",
+        "/categoria-acoples/",
+        "/categoria-tapas-de-buzon/",
+        "/categoria-filtros/",
+        "/categoria-grifos-contra-incendio/",
+        "/categoria-accesorios/",
+        "/rejillas-pluviales/",
+        "/ingenieria-y-manufactura/",
+        "/mineria/",
+        "/contacto/",
+        "/certificaciones/",
+        "/tecnologia/",
+        "/wp-content/uploads/2026/06/filtro-tipo-h.pdf"
+      ],
+      "documentos_enlazados": [
+        "https://www.fumosac.com.pe/wp-content/uploads/2026/06/filtro-tipo-h.pdf"
+      ],
+      "bytes_html": 49984,
+      "traza": {
+        "desde_cache": false,
+        "fecha_utc": "2026-11-10T17:10:52+00:00",
+        "sha256": "ce77faac3cc7ab7c9528ab197524283e00ed7dd5a44212940a0bb1d571203e8d"
+      }
+    }
+  ]
+}

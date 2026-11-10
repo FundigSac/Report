@@ -1,0 +1,16 @@
+﻿host,url_inicial,estado,motivo,fecha_utc,robots_http,paginas_con_datos,fichas_producto,fichas_con_especificaciones,paginas_con_normas,normas_citadas,documentos_enlazados,productos_distintos,solicitudes_red,aciertos_cache,version_rastreador
+www.avkvalvulas.com,https://www.avkvalvulas.com/es-es/buscador-de-productos,robots_denegado,robots.txt no permite la URL inicial,2026-11-10T17:29:42+00:00,200,0,0,0,0,,0,0,1,0,1.1.0
+www.bermad.com,https://www.bermad.com/waterworks/,bloqueado,robots.txt: El sitio respondió HTTP 403,2026-11-10T17:29:43+00:00,403,0,0,0,0,,0,0,1,0,1.1.0
+www.bermad.com,https://www.bermad.com/es/products/control-valves/,bloqueado,robots.txt: El sitio respondió HTTP 403,2026-11-10T17:29:42+00:00,403,0,0,0,0,,0,0,1,0,1.1.0
+citalyperu.com,https://citalyperu.com/,ok,,2026-11-10T17:29:41+00:00,200,40,26,17,0,,2,51,41,0,1.1.0
+collavalimport.com,https://collavalimport.com/,ok,,2026-11-10T17:13:29+00:00,200,36,0,0,0,,0,114,41,0,1.1.0
+web.eathisa.com.pe,https://web.eathisa.com.pe/,ok,,2026-11-10T17:20:10+00:00,200,22,0,0,22,EN1074-1 | EN124 | ISO 14001:2004 | ISO 2531 | ISO 2531:2009 | ISO 28001:2001 | ISO 4179:2005 | ISO 4633:2002 | ISO 7259 | ISO 8179-2:1995 | ISO 81791:2004 | ISO 9001,0,0,23,0,1.1.0
+www.fumosac.com.pe,https://fumosac.com.pe/,ok,,2026-11-10T17:10:52+00:00,200,34,0,0,29,ASTM A 536 | ASTM A-307 | ASTM A307 | ASTM A536 | ASTM B62 | ASTM D-2000 | ASTM D2000 | ASTMA666 | AWWA C502 | AWWA C508 | AWWA C512 | AWWA-C502 | AWWA-C502-05 | AWWA-C503 | BS 6920 | BS 750 | BS6920 | BS750 | EN 1074 | EN 124 | EN 558 | EN1074 | ISO 1083 | ISO 2531 | ISO 4633 | ISO 5752 | ISO 7005 | ISO 7005-1 | ISO 7005-2 | ISO 7259 | ISO 9001 | ISO1083 | ISO5752 | NTP 350.064 | NTP 350.102 | NTP 350.106 | NTP 350.108 | NTP ISO 2531 | NTP ISO 4633 | NTP ISO 7005-2 | NTP-ISO 4633 | NTP350.108 | UNE EN 124 | UNE EN 14525,16,0,37,1,1.1.0
+www.hiperusac.com.pe,https://www.hiperusac.com.pe/,ok,,2026-11-10T17:22:45+00:00,200,39,14,2,7,ANSI B16.5 | API598 | API609 | ASTM F714 | DIN 30677 | EN 1074 | EN 1074-1 | EN 1092-2 | EN 12 | EN 12266-1 | EN 558 | EN 558:2008 | EN 593 | EN10204 | EN545 | EN598 | ISO 4427 | ISO 7005-2 | ISO 9001 | ISO2531 | ISO7186,2,126,41,0,1.1.0
+icofesa.com,https://icofesa.com/,ok,,2026-11-10T17:08:43+00:00,200,23,1,0,0,,0,1,41,0,1.1.0
+inccosac.com,https://inccosac.com/,ok,,2026-11-10T17:27:21+00:00,200,18,1,1,3,EN 124 | EN 124-1 | EN 124-2 | EN 124-5 | ISO 14001 | ISO 45001 | ISO 9001 | NTP 339.701-2,0,3,27,0,1.1.0
+leoneblusac.com,https://leoneblusac.com/,ok,,2026-11-10T17:18:42+00:00,404,40,15,15,0,,2,46,41,0,1.1.0
+meckasacperu.com,https://meckasacperu.com/,ok,,2026-11-10T17:15:48+00:00,200,40,0,0,10,ANSI B16.10 | ANSI B16.5 | ASTM A-105 | ASTM A-283 | ASTM A-36 | ASTM A-53 | ASTM A-536 | ASTM A123 | ASTM A27 | ASTM A536 | DIN 3202 | EN 12266-1 | EN 124 | EN ISO 9001 | ISO 2531 | ISO 4422 | ISO 5752 | ISO 7005 | ISO 7005-1 | ISO 7259 | ISO 9001 | NTP 350.064 | NTP-ISO 7259,1,0,41,0,1.1.0
+mylnegofersac.com,https://mylnegofersac.com/,ok,,2026-11-10T17:06:04+00:00,200,40,15,2,4,EN 124 | ISO 2531 | ISO2531,1,234,41,0,1.1.0
+www.saint-gobain.com.pe,https://www.saint-gobain.com.pe/es/pam,bloqueado,El sitio respondió HTTP 403,2026-11-10T17:29:46+00:00,200,0,0,0,0,,0,0,2,0,1.1.0
+rivaliperu.com,https://rivaliperu.com/,ok,,2026-11-10T17:25:07+00:00,200,40,14,0,0,,1,183,41,0,1.1.0

@@ -1,0 +1,157 @@
+{
+  "fecha_utc": "2026-11-10T17:29:46+00:00",
+  "version_rastreador": "1.1.0",
+  "version_scrapling": "0.5.1",
+  "resultados": [
+    {
+      "id": "negofer",
+      "url": "https://mylnegofersac.com/",
+      "estado": "ok",
+      "motivo": "",
+      "paginas_con_datos": 40,
+      "solicitudes_red": 41,
+      "aciertos_cache": 0,
+      "salida": "salida/datos\\negofer.json"
+    },
+    {
+      "id": "icofesa",
+      "url": "https://icofesa.com/",
+      "estado": "ok",
+      "motivo": "",
+      "paginas_con_datos": 23,
+      "solicitudes_red": 41,
+      "aciertos_cache": 0,
+      "salida": "salida/datos\\icofesa.json"
+    },
+    {
+      "id": "fumosac",
+      "url": "https://fumosac.com.pe/",
+      "estado": "ok",
+      "motivo": "",
+      "paginas_con_datos": 34,
+      "solicitudes_red": 37,
+      "aciertos_cache": 1,
+      "salida": "salida/datos\\fumosac.json"
+    },
+    {
+      "id": "collaval-import",
+      "url": "https://collavalimport.com/",
+      "estado": "ok",
+      "motivo": "",
+      "paginas_con_datos": 36,
+      "solicitudes_red": 41,
+      "aciertos_cache": 0,
+      "salida": "salida/datos\\collaval-import.json"
+    },
+    {
+      "id": "mecka",
+      "url": "https://meckasacperu.com/",
+      "estado": "ok",
+      "motivo": "",
+      "paginas_con_datos": 40,
+      "solicitudes_red": 41,
+      "aciertos_cache": 0,
+      "salida": "salida/datos\\mecka.json"
+    },
+    {
+      "id": "leoneblu",
+      "url": "https://leoneblusac.com/",
+      "estado": "ok",
+      "motivo": "",
+      "paginas_con_datos": 40,
+      "solicitudes_red": 41,
+      "aciertos_cache": 0,
+      "salida": "salida/datos\\leoneblu.json"
+    },
+    {
+      "id": "eathisa",
+      "url": "https://web.eathisa.com.pe/",
+      "estado": "ok",
+      "motivo": "",
+      "paginas_con_datos": 22,
+      "solicitudes_red": 23,
+      "aciertos_cache": 0,
+      "salida": "salida/datos\\eathisa.json"
+    },
+    {
+      "id": "hi-peru",
+      "url": "https://www.hiperusac.com.pe/",
+      "estado": "ok",
+      "motivo": "",
+      "paginas_con_datos": 39,
+      "solicitudes_red": 41,
+      "aciertos_cache": 0,
+      "salida": "salida/datos\\hi-peru.json"
+    },
+    {
+      "id": "rivali-peru",
+      "url": "https://rivaliperu.com/",
+      "estado": "ok",
+      "motivo": "",
+      "paginas_con_datos": 40,
+      "solicitudes_red": 41,
+      "aciertos_cache": 0,
+      "salida": "salida/datos\\rivali-peru.json"
+    },
+    {
+      "id": "inccosac",
+      "url": "https://inccosac.com/",
+      "estado": "ok",
+      "motivo": "",
+      "paginas_con_datos": 18,
+      "solicitudes_red": 27,
+      "aciertos_cache": 0,
+      "salida": "salida/datos\\inccosac.json"
+    },
+    {
+      "id": "citaly-peru",
+      "url": "https://citalyperu.com/",
+      "estado": "ok",
+      "motivo": "",
+      "paginas_con_datos": 40,
+      "solicitudes_red": 41,
+      "aciertos_cache": 0,
+      "salida": "salida/datos\\citaly-peru.json"
+    },
+    {
+      "id": "avk",
+      "url": "https://www.avkvalvulas.com/es-es/buscador-de-productos",
+      "estado": "robots_denegado",
+      "motivo": "robots.txt no permite la URL inicial",
+      "paginas_con_datos": 0,
+      "solicitudes_red": 1,
+      "aciertos_cache": 0,
+      "salida": "salida/datos\\avk.json"
+    },
+    {
+      "id": "bermad",
+      "url": "https://www.bermad.com/es/products/control-valves/",
+      "estado": "bloqueado",
+      "motivo": "robots.txt: El sitio respondió HTTP 403",
+      "paginas_con_datos": 0,
+      "solicitudes_red": 1,
+      "aciertos_cache": 0,
+      "salida": "salida/datos\\bermad.json"
+    },
+    {
+      "id": "bermad-waterworks",
+      "url": "https://www.bermad.com/waterworks/",
+      "estado": "bloqueado",
+      "motivo": "robots.txt: El sitio respondió HTTP 403",
+      "paginas_con_datos": 0,
+      "solicitudes_red": 1,
+      "aciertos_cache": 0,
+      "salida": "salida/datos\\bermad-waterworks.json"
+    },
+    {
+      "id": "pam-peru",
+      "url": "https://www.saint-gobain.com.pe/es/pam",
+      "estado": "bloqueado",
+      "motivo": "El sitio respondió HTTP 403",
+      "paginas_con_datos": 0,
+      "solicitudes_red": 2,
+      "aciertos_cache": 0,
+      "salida": "salida/datos\\pam-peru.json"
+    }
+  ]
+}

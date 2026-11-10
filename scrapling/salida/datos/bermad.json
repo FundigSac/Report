@@ -1,0 +1,49 @@
+{
+  "url_inicial": "https://www.bermad.com/es/products/control-valves/",
+  "host": "www.bermad.com",
+  "esquema": "https",
+  "user_agent": "FundigsacMarketResearch/1.1",
+  "fecha_utc": "2026-11-10T17:29:42+00:00",
+  "estado": "bloqueado",
+  "motivo": "robots.txt: El sitio respondió HTTP 403",
+  "limites": {
+    "max_paginas": 40,
+    "intervalo_segundos": 3.0,
+    "max_intentos": 2,
+    "timeout_segundos": 30
+  },
+  "trazabilidad": {
+    "version_rastreador": "1.1.0",
+    "version_scrapling": "0.5.1",
+    "registro_solicitudes": "salida/trazas\\www.bermad.com-20261110T172942Z.jsonl",
+    "solicitudes_red": 1,
+    "aciertos_cache": 0
+  },
+  "robots": {
+    "url": "https://www.bermad.com/robots.txt",
+    "http_status": 403
+  },
+  "paginas_solicitadas": 0,
+  "paginas_con_datos": 0,
+  "truncado_por_tiempo": false,
+  "pendientes_sin_visitar": 0,
+  "omitidas_por_robots": [],
+  "redirecciones_externas": [],
+  "enlaces_externos": [],
+  "duracion_segundos": 0.5,
+  "resumen": {
+    "productos": [],
+    "categorias": [],
+    "normas_citadas": [],
+    "tipos_jsonld": {},
+    "secciones": {},
+    "documentos_enlazados": [],
+    "contacto_empresa": {
+      "nombres": [],
+      "telefonos": [],
+      "correos": [],
+      "direcciones": []
+    }
+  },
+  "paginas": []
+}
